@@ -4,5 +4,6 @@ def get_data():
     client = get_clickhouse_client()
     result = client.query("""
         SELECT * FROM sales
+        LIMIT 1000
     """)
     return result.result_rows

@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import analytics  # import router
+from app.routes import top_brands
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="AmazoLens")  # create app instance
 # Add CORS middleware
@@ -17,3 +19,4 @@ def root():
 
 
 app.include_router(analytics.router)  # attach routes
+app.include_router(top_brands.router)  # attach routes

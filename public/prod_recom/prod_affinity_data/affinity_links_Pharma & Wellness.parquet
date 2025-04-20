@@ -1,0 +1,3033 @@
+,source,target,weight
+0,3 Ply Mask,Adhesive Bandage,0.04455786414745244
+1,3 Ply Mask,Adult Diaper,0.004949827987648079
+2,3 Ply Mask,Almond Oil,0.007671709743294975
+3,3 Ply Mask,Antacid,0.022333396441239817
+4,3 Ply Mask,Antifungal Cream,0.008028148115433656
+5,3 Ply Mask,Antiseptic Cream,0.011848922947808252
+6,3 Ply Mask,Antiseptic Liquid,0.03207418513732589
+7,3 Ply Mask,Ayurvedic Cream,0.012899327272645813
+8,3 Ply Mask,Balm & Ointment,0.020043335139863384
+9,3 Ply Mask,COVID self test kit,0.03256691341536883
+10,3 Ply Mask,Capsules,0.005745362291703556
+11,3 Ply Mask,Chest rubs & balms,0.018685663525795745
+12,3 Ply Mask,Condom,0.023824319498516388
+13,3 Ply Mask,Corn Cap,0.004559265627625477
+14,3 Ply Mask,Coronil Kit,0.002271373247476119
+15,3 Ply Mask,Cotton Balls,0.01316821392717607
+16,3 Ply Mask,Cough Syrup,0.009958807580360307
+17,3 Ply Mask,Cramp Relief Tablet,0.003133848544016661
+18,3 Ply Mask,Crepe Bandage,0.004582803551884457
+19,3 Ply Mask,Digestive Syrup,0.003663058956546163
+20,3 Ply Mask,Digestive Tablets,0.0150259876637599
+21,3 Ply Mask,Digital Thermometer,0.01248977868694009
+22,3 Ply Mask,Drops,0.015042888819669059
+23,3 Ply Mask,Ear Buds,0.021460926943097654
+24,3 Ply Mask,Energy Drink Mix,0.0008444888786564304
+25,3 Ply Mask,Eye Drops,0.00524743350780637
+26,3 Ply Mask,Face Mask,0.05827083424761473
+27,3 Ply Mask,Gel,0.010178303638842477
+28,3 Ply Mask,Glucometer Test Strips,0.003341608905896002
+29,3 Ply Mask,Hand Gloves,0.03246110742965844
+30,3 Ply Mask,Hand Sanitizer,0.06945671327845188
+31,3 Ply Mask,Health Syrup,0.008882595170612973
+32,3 Ply Mask,Heat Patch,0.005064718219036255
+33,3 Ply Mask,Inhaler,0.019405687867105496
+34,3 Ply Mask,Interdental Brushes,0.0033647345029762044
+35,3 Ply Mask,Lens Solution,0.0060023699033713955
+36,3 Ply Mask,Lozenges,0.03557766131306072
+37,3 Ply Mask,Lubricant,0.010757884567384524
+38,3 Ply Mask,Mask,0.08092339375345628
+39,3 Ply Mask,Mix,0.0030095100299575043
+40,3 Ply Mask,Mouth Gel,0.006440238432344801
+41,3 Ply Mask,Multipurpose Oil,0.0008952752392527174
+42,3 Ply Mask,Nasal Spray,0.0067005497960589975
+43,3 Ply Mask,Nicotine Gum,0.0005238884515901644
+44,3 Ply Mask,ORS,0.029850786535415366
+45,3 Ply Mask,Ointment,0.005180347656119823
+46,3 Ply Mask,Oximeter,0.013016087952443805
+47,3 Ply Mask,PPE Kit,0.005607890838293674
+48,3 Ply Mask,Pain Relief Patch,0.013176067149211022
+49,3 Ply Mask,Pain Relief Spray,0.020170125560353788
+50,3 Ply Mask,Pain Relieving Cream,0.0028562379501622707
+51,3 Ply Mask,Pain Relieving Oil,0.0070419403726047665
+52,3 Ply Mask,Pain Relieving Roll On,0.009166962862537334
+53,3 Ply Mask,Pregnancy Test Kit,0.003067170232613601
+54,3 Ply Mask,Psyllium Husk,0.013461669737361107
+55,3 Ply Mask,Shilajit Capsules,0.01037866704354746
+56,3 Ply Mask,Skin Cream,0.010139200436675008
+57,3 Ply Mask,Tablets,0.011182098688015722
+58,3 Ply Mask,Thermometer,0.0108069224939184
+59,3 Ply Mask,Vaporizer,0.014658967843919218
+60,3 Ply Mask,Weight Machine,0.0038852607420898663
+61,Adhesive Bandage,3 Ply Mask,0.04455786414745244
+62,Adhesive Bandage,Adult Diaper,0.00726147039683851
+63,Adhesive Bandage,Almond Oil,0.008731624730715518
+64,Adhesive Bandage,Antacid,0.047241883902645165
+65,Adhesive Bandage,Antifungal Cream,0.020978513808626344
+66,Adhesive Bandage,Antiseptic Cream,0.028142583701931494
+67,Adhesive Bandage,Antiseptic Liquid,0.05929844502470997
+68,Adhesive Bandage,Ayurvedic Cream,0.018458863093375227
+69,Adhesive Bandage,Balm & Ointment,0.03992973007943797
+70,Adhesive Bandage,COVID self test kit,0.021955115480382426
+71,Adhesive Bandage,Capsules,0.01712630656037598
+72,Adhesive Bandage,Chest rubs & balms,0.043519076661676315
+73,Adhesive Bandage,Condom,0.033364432180891454
+74,Adhesive Bandage,Corn Cap,0.037897573570793076
+75,Adhesive Bandage,Coronil Kit,0.004220708047763342
+76,Adhesive Bandage,Cotton Balls,0.04440544341279701
+77,Adhesive Bandage,Cough Syrup,0.010093986337582581
+78,Adhesive Bandage,Cramp Relief Tablet,0.008007141584606395
+79,Adhesive Bandage,Crepe Bandage,0.015168859352104764
+80,Adhesive Bandage,Digestive Syrup,0.0025525366264393316
+81,Adhesive Bandage,Digestive Tablets,0.028406319448929542
+82,Adhesive Bandage,Digital Thermometer,0.01570835399821187
+83,Adhesive Bandage,Drops,0.03640239830756152
+84,Adhesive Bandage,Ear Buds,0.04368953090340134
+85,Adhesive Bandage,Energy Drink Mix,0.0035308011456474412
+86,Adhesive Bandage,Eye Drops,0.013296652663424143
+87,Adhesive Bandage,Face Mask,0.02977070519459859
+88,Adhesive Bandage,Gel,0.012548388618772647
+89,Adhesive Bandage,Glucometer Test Strips,0.003880899918492259
+90,Adhesive Bandage,Hand Gloves,0.023196976999965993
+91,Adhesive Bandage,Hand Sanitizer,0.04818995515965307
+92,Adhesive Bandage,Health Syrup,0.014935958227194578
+93,Adhesive Bandage,Heat Patch,0.012548471558923264
+94,Adhesive Bandage,Inhaler,0.03950502926364318
+95,Adhesive Bandage,Interdental Brushes,0.00547086074897383
+96,Adhesive Bandage,Lens Solution,0.004531196914747994
+97,Adhesive Bandage,Lozenges,0.056666633566212515
+98,Adhesive Bandage,Lubricant,0.013297253130263885
+99,Adhesive Bandage,Mask,0.03539993161718568
+100,Adhesive Bandage,Mix,0.0027961637783179187
+101,Adhesive Bandage,Mouth Gel,0.013783846878731585
+102,Adhesive Bandage,Multipurpose Oil,0.0056147077604842745
+103,Adhesive Bandage,Nasal Spray,0.014007472149327092
+104,Adhesive Bandage,Nicotine Gum,0.0021903733628901487
+105,Adhesive Bandage,ORS,0.03617924931014539
+106,Adhesive Bandage,Ointment,0.03970815107121014
+107,Adhesive Bandage,Oximeter,0.0077361989395554175
+108,Adhesive Bandage,PPE Kit,0.0031262061422707597
+109,Adhesive Bandage,Pain Relief Patch,0.08408325598068471
+110,Adhesive Bandage,Pain Relief Spray,0.06624029448642149
+111,Adhesive Bandage,Pain Relieving Cream,0.013079232222214068
+112,Adhesive Bandage,Pain Relieving Oil,0.02252781703248157
+113,Adhesive Bandage,Pain Relieving Roll On,0.02874524797944882
+114,Adhesive Bandage,Pregnancy Test Kit,0.011297169336664565
+115,Adhesive Bandage,Psyllium Husk,0.021296320171881086
+116,Adhesive Bandage,Shilajit Capsules,0.009146589578074273
+117,Adhesive Bandage,Skin Cream,0.01823838191022538
+118,Adhesive Bandage,Tablets,0.030085947558748608
+119,Adhesive Bandage,Thermometer,0.010399412707215713
+120,Adhesive Bandage,Vaporizer,0.013155472655083898
+121,Adhesive Bandage,Weight Machine,0.002707373936673427
+122,Adult Diaper,3 Ply Mask,0.004949827987648079
+123,Adult Diaper,Adhesive Bandage,0.00726147039683851
+124,Adult Diaper,Almond Oil,0.0011033342078758752
+125,Adult Diaper,Antacid,0.006756543428794917
+126,Adult Diaper,Antifungal Cream,0.0028864916485512888
+127,Adult Diaper,Antiseptic Cream,0.004080227402306283
+128,Adult Diaper,Antiseptic Liquid,0.017021634508461687
+129,Adult Diaper,Ayurvedic Cream,0.000993837110262848
+130,Adult Diaper,Balm & Ointment,0.00954972936177024
+131,Adult Diaper,COVID self test kit,0.005958586866487415
+132,Adult Diaper,Capsules,0.0004590498341156004
+133,Adult Diaper,Chest rubs & balms,0.006673273124601595
+134,Adult Diaper,Condom,0.005261107029911211
+135,Adult Diaper,Corn Cap,0.0018734485524740116
+136,Adult Diaper,Cotton Balls,0.0027054764226782445
+137,Adult Diaper,Cramp Relief Tablet,0.003004703789736553
+138,Adult Diaper,Crepe Bandage,0.00082386522951882
+139,Adult Diaper,Digestive Tablets,0.004602163341145215
+140,Adult Diaper,Digital Thermometer,0.003504901307552667
+141,Adult Diaper,Drops,0.002163446529571893
+142,Adult Diaper,Ear Buds,0.005009469340559949
+143,Adult Diaper,Eye Drops,0.002058213554538776
+144,Adult Diaper,Face Mask,0.005055478105132026
+145,Adult Diaper,Gel,0.0028150556140814874
+146,Adult Diaper,Glucometer Kit,0.002250141622745213
+147,Adult Diaper,Hand Gloves,0.01976970883697684
+148,Adult Diaper,Hand Sanitizer,0.009175488708802939
+149,Adult Diaper,Health Syrup,0.0019439943478590915
+150,Adult Diaper,Heat Patch,0.0016186676768134517
+151,Adult Diaper,Inhaler,0.00498374639877663
+152,Adult Diaper,Lens Solution,0.0028775072156079244
+153,Adult Diaper,Lozenges,0.007045408374594688
+154,Adult Diaper,Lubricant,0.0016576965116100583
+155,Adult Diaper,Mask,0.0034381936592311774
+156,Adult Diaper,Mouth Gel,0.0013231796909963889
+157,Adult Diaper,Nasal Spray,0.002267443265450319
+158,Adult Diaper,Nicotine Gum,0.0007534487996704283
+159,Adult Diaper,ORS,0.008551757349611897
+160,Adult Diaper,Ointment,0.0012417168551599718
+161,Adult Diaper,Oximeter,0.0038540249136245156
+162,Adult Diaper,Pain Relief Patch,0.0023271474639345166
+163,Adult Diaper,Pain Relief Spray,0.007036686983703665
+164,Adult Diaper,Pain Relieving Oil,0.010587963092894361
+165,Adult Diaper,Pain Relieving Roll On,0.004708497680345712
+166,Adult Diaper,Pregnancy Test Kit,0.0012603314002290356
+167,Adult Diaper,Psyllium Husk,0.0038371922072469467
+168,Adult Diaper,Shilajit Capsules,0.0008780264085972501
+169,Adult Diaper,Skin Cream,0.002712939820092779
+170,Adult Diaper,Tablets,0.004243843358189752
+171,Adult Diaper,Thermometer,0.0014802247376751881
+172,Adult Diaper,Vaporizer,0.005110864411380978
+173,Almond Oil,3 Ply Mask,0.007671709743294975
+174,Almond Oil,Adhesive Bandage,0.008731624730715518
+175,Almond Oil,Adult Diaper,0.0011033342078758752
+176,Almond Oil,Antacid,0.007754596603573804
+177,Almond Oil,Antifungal Cream,0.00354172405105465
+178,Almond Oil,Antiseptic Cream,0.006596717415061159
+179,Almond Oil,Antiseptic Liquid,0.011194648612070592
+180,Almond Oil,Ayurvedic Cream,0.0006503667842845726
+181,Almond Oil,Balm & Ointment,0.006249340773922046
+182,Almond Oil,COVID self test kit,0.0019043082876767257
+183,Almond Oil,Chest rubs & balms,0.007435683038200723
+184,Almond Oil,Condom,0.005621897191311506
+185,Almond Oil,Corn Cap,0.0027584647127072374
+186,Almond Oil,Cotton Balls,0.001991771066561721
+187,Almond Oil,Cough Syrup,0.005112389920795939
+188,Almond Oil,Cramp Relief Tablet,0.002949416239259468
+189,Almond Oil,Crepe Bandage,0.0016174116697986306
+190,Almond Oil,Digestive Tablets,0.001964122609944657
+191,Almond Oil,Drops,0.007722321428621022
+192,Almond Oil,Ear Buds,0.004124181591685978
+193,Almond Oil,Energy Drink Mix,0.004768735650621255
+194,Almond Oil,Face Mask,0.004199000912802602
+195,Almond Oil,Hand Gloves,0.005143743029125328
+196,Almond Oil,Hand Sanitizer,0.006797476724962163
+197,Almond Oil,Health Syrup,0.0049068622398656244
+198,Almond Oil,Heat Patch,0.003177767304894022
+199,Almond Oil,Inhaler,0.003130908035298397
+200,Almond Oil,Lozenges,0.004841039359772073
+201,Almond Oil,Lubricant,0.0014463949721639337
+202,Almond Oil,Mask,0.0033749297507773574
+203,Almond Oil,Mix,0.002832395257747249
+204,Almond Oil,Mouth Gel,0.006494163719920703
+205,Almond Oil,Multipurpose Oil,0.017694322216147747
+206,Almond Oil,Nasal Spray,0.0011128607770859579
+207,Almond Oil,ORS,0.005295797339707917
+208,Almond Oil,Ointment,0.0012188688514591065
+209,Almond Oil,Oximeter,0.0010808884490266283
+210,Almond Oil,Pain Relief Patch,0.0019579947218733755
+211,Almond Oil,Pain Relief Spray,0.007330099983213134
+212,Almond Oil,Pain Relieving Cream,0.005760307499873449
+213,Almond Oil,Pain Relieving Oil,0.005422508371596847
+214,Almond Oil,Pain Relieving Roll On,0.0018487439019264913
+215,Almond Oil,Pregnancy Test Kit,0.0012371408826991437
+216,Almond Oil,Psyllium Husk,0.004109003555584663
+217,Almond Oil,Shilajit Capsules,0.002585611290731379
+218,Almond Oil,Skin Cream,0.0006657552059579944
+219,Almond Oil,Tablets,0.0052620066024575965
+220,Almond Oil,Thermometer,0.001452988109498664
+221,Almond Oil,Vaporizer,0.0025084114019941384
+222,Antacid,3 Ply Mask,0.022333396441239817
+223,Antacid,Adhesive Bandage,0.047241883902645165
+224,Antacid,Adult Diaper,0.006756543428794917
+225,Antacid,Almond Oil,0.007754596603573804
+226,Antacid,Antifungal Cream,0.012612775138835882
+227,Antacid,Antiseptic Cream,0.018111905376806802
+228,Antacid,Antiseptic Liquid,0.030884373724587164
+229,Antacid,Ayurvedic Cream,0.013418581251880494
+230,Antacid,Balm & Ointment,0.022471008904754328
+231,Antacid,COVID self test kit,0.01960671270906829
+232,Antacid,Capsules,0.010697909277976973
+233,Antacid,Chest rubs & balms,0.02241687033546565
+234,Antacid,Condom,0.030245343059461957
+235,Antacid,Corn Cap,0.006756859887118256
+236,Antacid,Coronil Kit,0.001812563423521988
+237,Antacid,Cotton Balls,0.015199474421686307
+238,Antacid,Cough Syrup,0.010837038611761102
+239,Antacid,Cramp Relief Tablet,0.0066688575610125
+240,Antacid,Crepe Bandage,0.0063999118960234086
+241,Antacid,Digestive Syrup,0.008769399776392324
+242,Antacid,Digestive Tablets,0.048851359527033726
+243,Antacid,Digital Thermometer,0.016773538219752387
+244,Antacid,Drops,0.05129099500329507
+245,Antacid,Ear Buds,0.02923057877333006
+246,Antacid,Energy Drink Mix,0.0020217148212755436
+247,Antacid,Eye Drops,0.006852222707733762
+248,Antacid,Face Mask,0.014565065424857325
+249,Antacid,Gel,0.02967770855104788
+250,Antacid,Glucometer Kit,0.007491191324141657
+251,Antacid,Glucometer Test Strips,0.005333230093532748
+252,Antacid,Hand Gloves,0.011762563280637593
+253,Antacid,Hand Sanitizer,0.02516775121423363
+254,Antacid,Health Syrup,0.016488096515107124
+255,Antacid,Heat Patch,0.004939809139162024
+256,Antacid,Inhaler,0.019910318927582493
+257,Antacid,Interdental Brushes,0.007160184934212699
+258,Antacid,Lens Solution,0.0019957963303677937
+259,Antacid,Lozenges,0.0326912922037796
+260,Antacid,Lubricant,0.012161839309863115
+261,Antacid,Mask,0.018314343417604764
+262,Antacid,Mix,0.0024015990366554173
+263,Antacid,Mouth Gel,0.009544473229047537
+264,Antacid,Nasal Spray,0.011008655153911737
+265,Antacid,Nicotine Gum,0.00292645311592506
+266,Antacid,ORS,0.04372496029687508
+267,Antacid,Ointment,0.007923374840162471
+268,Antacid,Oximeter,0.007637412924667578
+269,Antacid,PPE Kit,0.005370138700659524
+270,Antacid,Pain Relief Patch,0.013465996881084503
+271,Antacid,Pain Relief Spray,0.03235101950399101
+272,Antacid,Pain Relieving Cream,0.0071634747046294195
+273,Antacid,Pain Relieving Oil,0.009706395087785187
+274,Antacid,Pain Relieving Roll On,0.012801717117076327
+275,Antacid,Pregnancy Test Kit,0.011713572052136854
+276,Antacid,Psyllium Husk,0.02825943729354255
+277,Antacid,Shilajit Capsules,0.008525805338159198
+278,Antacid,Skin Cream,0.01072543250493424
+279,Antacid,Tablets,0.02069721929319104
+280,Antacid,Thermometer,0.0028746533923298553
+281,Antacid,Vaporizer,0.009925495327817033
+282,Antifungal Cream,3 Ply Mask,0.008028148115433656
+283,Antifungal Cream,Adhesive Bandage,0.020978513808626344
+284,Antifungal Cream,Adult Diaper,0.0028864916485512888
+285,Antifungal Cream,Almond Oil,0.00354172405105465
+286,Antifungal Cream,Antacid,0.012612775138835882
+287,Antifungal Cream,Antiseptic Cream,0.01849074144388711
+288,Antifungal Cream,Antiseptic Liquid,0.011638271970509031
+289,Antifungal Cream,Ayurvedic Cream,0.012122897785880452
+290,Antifungal Cream,Balm & Ointment,0.01021827170776571
+291,Antifungal Cream,COVID self test kit,0.005337817275071993
+292,Antifungal Cream,Capsules,0.005304811702067691
+293,Antifungal Cream,Chest rubs & balms,0.012158055123864753
+294,Antifungal Cream,Condom,0.011736268253735945
+295,Antifungal Cream,Corn Cap,0.007216567110143136
+296,Antifungal Cream,Coronil Kit,0.002097205845552013
+297,Antifungal Cream,Cotton Balls,0.007164820911989723
+298,Antifungal Cream,Cough Syrup,0.0037616615943120765
+299,Antifungal Cream,Cramp Relief Tablet,0.002893547105430327
+300,Antifungal Cream,Crepe Bandage,0.0031735478995057794
+301,Antifungal Cream,Digestive Tablets,0.013873804844116022
+302,Antifungal Cream,Digital Thermometer,0.003375240204352118
+303,Antifungal Cream,Drops,0.014394479486197778
+304,Antifungal Cream,Ear Buds,0.010582001869062423
+305,Antifungal Cream,Energy Drink Mix,0.002339202085949396
+306,Antifungal Cream,Eye Drops,0.005285524111393632
+307,Antifungal Cream,Face Mask,0.0033704685809564177
+308,Antifungal Cream,Gel,0.0043374637069113885
+309,Antifungal Cream,Glucometer Test Strips,0.0030853765398447326
+310,Antifungal Cream,Hand Gloves,0.007798839630860753
+311,Antifungal Cream,Hand Sanitizer,0.007002151741734767
+312,Antifungal Cream,Health Syrup,0.004813914306809881
+313,Antifungal Cream,Heat Patch,0.004676358967791483
+314,Antifungal Cream,Inhaler,0.00844690276210296
+315,Antifungal Cream,Lens Solution,0.001385528034912755
+316,Antifungal Cream,Lozenges,0.01764039929797647
+317,Antifungal Cream,Lubricant,0.006030736082464629
+318,Antifungal Cream,Mask,0.007946400848876661
+319,Antifungal Cream,Mix,0.002778742786588469
+320,Antifungal Cream,Mouth Gel,0.007645378112660788
+321,Antifungal Cream,Multipurpose Oil,0.004959756747751824
+322,Antifungal Cream,Nasal Spray,0.004367121923886222
+323,Antifungal Cream,Nicotine Gum,0.001451151092379374
+324,Antifungal Cream,ORS,0.008622289322553787
+325,Antifungal Cream,Oximeter,0.0053020689337483036
+326,Antifungal Cream,Pain Relief Patch,0.0019209055285282677
+327,Antifungal Cream,Pain Relief Spray,0.014105913500355753
+328,Antifungal Cream,Pain Relieving Cream,0.0033907159398089528
+329,Antifungal Cream,Pain Relieving Oil,0.009752953546845921
+330,Antifungal Cream,Pain Relieving Roll On,0.00906862092724574
+331,Antifungal Cream,Pregnancy Test Kit,0.0042479724644251815
+332,Antifungal Cream,Psyllium Husk,0.006046753516612902
+333,Antifungal Cream,Shilajit Capsules,0.0042277225158868555
+334,Antifungal Cream,Skin Cream,0.005225153434724697
+335,Antifungal Cream,Tablets,0.012905828423457208
+336,Antifungal Cream,Thermometer,0.002850929945052547
+337,Antifungal Cream,Vaporizer,0.004306567956057347
+338,Antiseptic Cream,3 Ply Mask,0.011848922947808252
+339,Antiseptic Cream,Adhesive Bandage,0.028142583701931494
+340,Antiseptic Cream,Adult Diaper,0.004080227402306283
+341,Antiseptic Cream,Almond Oil,0.006596717415061159
+342,Antiseptic Cream,Antacid,0.018111905376806802
+343,Antiseptic Cream,Antifungal Cream,0.01849074144388711
+344,Antiseptic Cream,Antiseptic Liquid,0.029331722097615923
+345,Antiseptic Cream,Ayurvedic Cream,0.015703978609928
+346,Antiseptic Cream,Balm & Ointment,0.01744624815255573
+347,Antiseptic Cream,COVID self test kit,0.0030181287134759044
+348,Antiseptic Cream,Capsules,0.0035287842097520674
+349,Antiseptic Cream,Chest rubs & balms,0.020565591209980798
+350,Antiseptic Cream,Condom,0.013182341121019467
+351,Antiseptic Cream,Corn Cap,0.006600677000151485
+352,Antiseptic Cream,Coronil Kit,0.004185211816000425
+353,Antiseptic Cream,Cotton Balls,0.010831978554178365
+354,Antiseptic Cream,Cough Syrup,0.0033363652427135944
+355,Antiseptic Cream,Cramp Relief Tablet,0.0038496006679507376
+356,Antiseptic Cream,Digestive Tablets,0.011792504227942117
+357,Antiseptic Cream,Digital Thermometer,0.0033678370711807725
+358,Antiseptic Cream,Drops,0.016378753757378222
+359,Antiseptic Cream,Ear Buds,0.012422107856808182
+360,Antiseptic Cream,Energy Drink Mix,0.0031120951498051852
+361,Antiseptic Cream,Eye Drops,0.0026369655143385815
+362,Antiseptic Cream,Face Mask,0.007473502030435622
+363,Antiseptic Cream,Gel,0.0036066250554557065
+364,Antiseptic Cream,Hand Gloves,0.00884981505795017
+365,Antiseptic Cream,Hand Sanitizer,0.01962956260152783
+366,Antiseptic Cream,Health Syrup,0.013164752485096886
+367,Antiseptic Cream,Heat Patch,0.0031107346709861577
+368,Antiseptic Cream,Inhaler,0.008939186266421833
+369,Antiseptic Cream,Lozenges,0.017601707466494306
+370,Antiseptic Cream,Lubricant,0.005191575941818376
+371,Antiseptic Cream,Mask,0.011232709614652586
+372,Antiseptic Cream,Mouth Gel,0.002542869669721332
+373,Antiseptic Cream,Multipurpose Oil,0.00989775638342982
+374,Antiseptic Cream,Nasal Spray,0.0029050288214876813
+375,Antiseptic Cream,Nicotine Gum,0.0019306242514722362
+376,Antiseptic Cream,ORS,0.011250570572167048
+377,Antiseptic Cream,Ointment,0.008749823287894696
+378,Antiseptic Cream,Oximeter,0.0014107838832534115
+379,Antiseptic Cream,Pain Relief Patch,0.0029815213273876994
+380,Antiseptic Cream,Pain Relief Spray,0.018766632114305605
+381,Antiseptic Cream,Pain Relieving Cream,0.005262878230872379
+382,Antiseptic Cream,Pain Relieving Oil,0.012385624060098892
+383,Antiseptic Cream,Pain Relieving Roll On,0.00603248675533923
+384,Antiseptic Cream,Pregnancy Test Kit,0.0024220886348599335
+385,Antiseptic Cream,Psyllium Husk,0.011396593695722228
+386,Antiseptic Cream,Shilajit Capsules,0.0016873798311966305
+387,Antiseptic Cream,Skin Cream,0.024330566245661427
+388,Antiseptic Cream,Tablets,0.01230518695620371
+389,Antiseptic Cream,Thermometer,0.001896451210377454
+390,Antiseptic Cream,Vaporizer,0.004501746942362746
+391,Antiseptic Liquid,3 Ply Mask,0.03207418513732589
+392,Antiseptic Liquid,Adhesive Bandage,0.05929844502470997
+393,Antiseptic Liquid,Adult Diaper,0.017021634508461687
+394,Antiseptic Liquid,Almond Oil,0.011194648612070592
+395,Antiseptic Liquid,Antacid,0.030884373724587164
+396,Antiseptic Liquid,Antifungal Cream,0.011638271970509031
+397,Antiseptic Liquid,Antiseptic Cream,0.029331722097615923
+398,Antiseptic Liquid,Ayurvedic Cream,0.012792714723135581
+399,Antiseptic Liquid,Balm & Ointment,0.022978050100758488
+400,Antiseptic Liquid,COVID self test kit,0.020586020785037986
+401,Antiseptic Liquid,Capsules,0.004796644206251562
+402,Antiseptic Liquid,Chest rubs & balms,0.029006162311808425
+403,Antiseptic Liquid,Condom,0.02254011633848241
+404,Antiseptic Liquid,Corn Cap,0.009362337465824506
+405,Antiseptic Liquid,Coronil Kit,0.007420330783200905
+406,Antiseptic Liquid,Cotton Balls,0.026579677335358633
+407,Antiseptic Liquid,Cough Syrup,0.007985703468295876
+408,Antiseptic Liquid,Cramp Relief Tablet,0.0013650592416956284
+409,Antiseptic Liquid,Crepe Bandage,0.0033685928189562545
+410,Antiseptic Liquid,Digestive Syrup,0.0011966817503966862
+411,Antiseptic Liquid,Digestive Tablets,0.01663547160030113
+412,Antiseptic Liquid,Digital Thermometer,0.011146118816150408
+413,Antiseptic Liquid,Drops,0.022069895094936755
+414,Antiseptic Liquid,Ear Buds,0.03773488084118406
+415,Antiseptic Liquid,Energy Drink Mix,0.003310624616713158
+416,Antiseptic Liquid,Eye Drops,0.006857119134257988
+417,Antiseptic Liquid,Face Mask,0.025617498448856846
+418,Antiseptic Liquid,Gel,0.008696524537993456
+419,Antiseptic Liquid,Glucometer Test Strips,0.0021833349897372244
+420,Antiseptic Liquid,Hand Gloves,0.02575425388735022
+421,Antiseptic Liquid,Hand Sanitizer,0.06720711260963319
+422,Antiseptic Liquid,Health Syrup,0.011985893044683683
+423,Antiseptic Liquid,Heat Patch,0.004779922837519541
+424,Antiseptic Liquid,Inhaler,0.02182643485671284
+425,Antiseptic Liquid,Interdental Brushes,0.00659533426418813
+426,Antiseptic Liquid,Lens Solution,0.001634091117038133
+427,Antiseptic Liquid,Lozenges,0.0331680966041736
+428,Antiseptic Liquid,Lubricant,0.008702533189100702
+429,Antiseptic Liquid,Mask,0.029287442026550314
+430,Antiseptic Liquid,Mix,0.004588147121929222
+431,Antiseptic Liquid,Mouth Gel,0.007213564299236109
+432,Antiseptic Liquid,Multipurpose Oil,0.006434488270134275
+433,Antiseptic Liquid,Nasal Spray,0.004893052478818735
+434,Antiseptic Liquid,Nicotine Gum,0.002738379072566813
+435,Antiseptic Liquid,ORS,0.027978128334517325
+436,Antiseptic Liquid,Ointment,0.03525757419282025
+437,Antiseptic Liquid,Oximeter,0.01325690616131627
+438,Antiseptic Liquid,PPE Kit,0.0058625193459450045
+439,Antiseptic Liquid,Pain Relief Patch,0.012082747108653102
+440,Antiseptic Liquid,Pain Relief Spray,0.032163915064225224
+441,Antiseptic Liquid,Pain Relieving Cream,0.0063984140723536455
+442,Antiseptic Liquid,Pain Relieving Oil,0.013803154627721415
+443,Antiseptic Liquid,Pain Relieving Roll On,0.008770332373378384
+444,Antiseptic Liquid,Pregnancy Test Kit,0.0052963456963930206
+445,Antiseptic Liquid,Psyllium Husk,0.017591127738502528
+446,Antiseptic Liquid,Shilajit Capsules,0.007578984419179009
+447,Antiseptic Liquid,Skin Cream,0.01617667673908111
+448,Antiseptic Liquid,Supplement,0.001966348766541095
+449,Antiseptic Liquid,Tablets,0.011973954036769749
+450,Antiseptic Liquid,Thermometer,0.004034862534241017
+451,Antiseptic Liquid,Vaporizer,0.011754637230232337
+452,Ayurvedic Cream,3 Ply Mask,0.012899327272645813
+453,Ayurvedic Cream,Adhesive Bandage,0.018458863093375227
+454,Ayurvedic Cream,Adult Diaper,0.000993837110262848
+455,Ayurvedic Cream,Almond Oil,0.0006503667842845726
+456,Ayurvedic Cream,Antacid,0.013418581251880494
+457,Ayurvedic Cream,Antifungal Cream,0.012122897785880452
+458,Ayurvedic Cream,Antiseptic Cream,0.015703978609928
+459,Ayurvedic Cream,Antiseptic Liquid,0.012792714723135581
+460,Ayurvedic Cream,Balm & Ointment,0.013134668571038677
+461,Ayurvedic Cream,COVID self test kit,0.0053910085976049
+462,Ayurvedic Cream,Capsules,0.0016235376134030807
+463,Ayurvedic Cream,Chest rubs & balms,0.010525037213619996
+464,Ayurvedic Cream,Condom,0.009539104111057763
+465,Ayurvedic Cream,Corn Cap,0.0016564727648671568
+466,Ayurvedic Cream,Coronil Kit,0.0019255495375879363
+467,Ayurvedic Cream,Cotton Balls,0.0035882074297465165
+468,Ayurvedic Cream,Cough Syrup,0.008058795676791524
+469,Ayurvedic Cream,Cramp Relief Tablet,0.002656710261735771
+470,Ayurvedic Cream,Digestive Syrup,0.009316040181118191
+471,Ayurvedic Cream,Digestive Tablets,0.011676714366846573
+472,Ayurvedic Cream,Digital Thermometer,0.003098976778327526
+473,Ayurvedic Cream,Drops,0.006608145637504554
+474,Ayurvedic Cream,Ear Buds,0.006000975421483687
+475,Ayurvedic Cream,Eye Drops,0.004852903938919276
+476,Ayurvedic Cream,Face Mask,0.00343843968036488
+477,Ayurvedic Cream,Gel,0.0039824422828410155
+478,Ayurvedic Cream,Hand Gloves,0.00800291687428238
+479,Ayurvedic Cream,Hand Sanitizer,0.010868114687749517
+480,Ayurvedic Cream,Health Syrup,0.009330890286731947
+481,Ayurvedic Cream,Heat Patch,0.0014311996550273405
+482,Ayurvedic Cream,Inhaler,0.00846057134480619
+483,Ayurvedic Cream,Lozenges,0.015106381307131794
+484,Ayurvedic Cream,Lubricant,0.004559981429113284
+485,Ayurvedic Cream,Mask,0.008815985383249406
+486,Ayurvedic Cream,Mix,0.002551302676911473
+487,Ayurvedic Cream,Mouth Gel,0.004679735919657741
+488,Ayurvedic Cream,Multipurpose Oil,0.006830700953202151
+489,Ayurvedic Cream,Nasal Spray,0.0030072547309665234
+490,Ayurvedic Cream,Nicotine Gum,0.001332374368890739
+491,Ayurvedic Cream,ORS,0.011367360885529025
+492,Ayurvedic Cream,Ointment,0.0065874351858750246
+493,Ayurvedic Cream,Pain Relief Patch,0.007054717609246683
+494,Ayurvedic Cream,Pain Relief Spray,0.010919760978546966
+495,Ayurvedic Cream,Pain Relieving Cream,0.0072641002577898415
+496,Ayurvedic Cream,Pain Relieving Oil,0.00651249036714985
+497,Ayurvedic Cream,Pain Relieving Roll On,0.01082426054222096
+498,Ayurvedic Cream,Pregnancy Test Kit,0.0039002758989579263
+499,Ayurvedic Cream,Psyllium Husk,0.005551826713871055
+500,Ayurvedic Cream,Shilajit Capsules,0.0069870301358386415
+501,Ayurvedic Cream,Skin Cream,0.04137821844578039
+502,Ayurvedic Cream,Tablets,0.012244469185451244
+503,Ayurvedic Cream,Vaporizer,0.0011297358140955464
+504,Ayurvedic Cream,Weight Machine,0.009881152778812538
+505,Balm & Ointment,3 Ply Mask,0.020043335139863384
+506,Balm & Ointment,Adhesive Bandage,0.03992973007943797
+507,Balm & Ointment,Adult Diaper,0.00954972936177024
+508,Balm & Ointment,Almond Oil,0.006249340773922046
+509,Balm & Ointment,Antacid,0.022471008904754328
+510,Balm & Ointment,Antifungal Cream,0.01021827170776571
+511,Balm & Ointment,Antiseptic Cream,0.01744624815255573
+512,Balm & Ointment,Antiseptic Liquid,0.022978050100758488
+513,Balm & Ointment,Ayurvedic Cream,0.013134668571038677
+514,Balm & Ointment,COVID self test kit,0.00928771845159898
+515,Balm & Ointment,Capsules,0.006066856798197072
+516,Balm & Ointment,Chest rubs & balms,0.06367730165235108
+517,Balm & Ointment,Condom,0.02033762354910512
+518,Balm & Ointment,Corn Cap,0.009727031768473926
+519,Balm & Ointment,Coronil Kit,0.006167501953374525
+520,Balm & Ointment,Cotton Balls,0.009577472084409207
+521,Balm & Ointment,Cough Syrup,0.006145757985575299
+522,Balm & Ointment,Cramp Relief Tablet,0.004254698570188623
+523,Balm & Ointment,Crepe Bandage,0.01477697874793719
+524,Balm & Ointment,Digestive Syrup,0.007459778999860977
+525,Balm & Ointment,Digestive Tablets,0.014922347782332344
+526,Balm & Ointment,Digital Thermometer,0.010339551212470247
+527,Balm & Ointment,Drops,0.02283675884138267
+528,Balm & Ointment,Ear Buds,0.01388184832582916
+529,Balm & Ointment,Energy Drink Mix,0.004586112665106008
+530,Balm & Ointment,Eye Drops,0.007124226818634966
+531,Balm & Ointment,Face Mask,0.00881061038679921
+532,Balm & Ointment,Gel,0.007972308709527804
+533,Balm & Ointment,Glucometer Kit,0.002124152665279388
+534,Balm & Ointment,Hand Gloves,0.010343222948671967
+535,Balm & Ointment,Hand Sanitizer,0.01642461774198281
+536,Balm & Ointment,Health Syrup,0.019400126023996433
+537,Balm & Ointment,Heat Patch,0.0068761617105217885
+538,Balm & Ointment,Inhaler,0.03330926625698677
+539,Balm & Ointment,Lens Solution,0.0013581955374740305
+540,Balm & Ointment,Lozenges,0.038575364496386266
+541,Balm & Ointment,Lubricant,0.005737891444319271
+542,Balm & Ointment,Mask,0.014281008744154954
+543,Balm & Ointment,Mix,0.002723926154818123
+544,Balm & Ointment,Mouth Gel,0.008119103105603336
+545,Balm & Ointment,Nasal Spray,0.0048160925142347304
+546,Balm & Ointment,Nicotine Gum,0.002845048080162937
+547,Balm & Ointment,ORS,0.019559249047397892
+548,Balm & Ointment,Ointment,0.009963625043136654
+549,Balm & Ointment,Oximeter,0.006236969170226936
+550,Balm & Ointment,PPE Kit,0.00304544202393147
+551,Balm & Ointment,Pain Relief Patch,0.03860173713256673
+552,Balm & Ointment,Pain Relief Spray,0.07171395891565116
+553,Balm & Ointment,Pain Relieving Cream,0.018835018712046417
+554,Balm & Ointment,Pain Relieving Oil,0.04954106147730099
+555,Balm & Ointment,Pain Relieving Roll On,0.046226559732558965
+556,Balm & Ointment,Pregnancy Test Kit,0.0074360216815643546
+557,Balm & Ointment,Psyllium Husk,0.009549810197918089
+558,Balm & Ointment,Shilajit Capsules,0.00414432166658943
+559,Balm & Ointment,Skin Cream,0.009924022505493678
+560,Balm & Ointment,Supplement,0.004085889232227184
+561,Balm & Ointment,Tablets,0.018976850121891063
+562,Balm & Ointment,Thermometer,0.004890706218163409
+563,Balm & Ointment,Vaporizer,0.009950941893003053
+564,Balm & Ointment,Weight Machine,0.005274860316954699
+565,COVID self test kit,3 Ply Mask,0.03256691341536883
+566,COVID self test kit,Adhesive Bandage,0.021955115480382426
+567,COVID self test kit,Adult Diaper,0.005958586866487415
+568,COVID self test kit,Almond Oil,0.0019043082876767257
+569,COVID self test kit,Antacid,0.01960671270906829
+570,COVID self test kit,Antifungal Cream,0.005337817275071993
+571,COVID self test kit,Antiseptic Cream,0.0030181287134759044
+572,COVID self test kit,Antiseptic Liquid,0.020586020785037986
+573,COVID self test kit,Ayurvedic Cream,0.0053910085976049
+574,COVID self test kit,Balm & Ointment,0.00928771845159898
+575,COVID self test kit,Capsules,0.009847165148160208
+576,COVID self test kit,Chest rubs & balms,0.02281322455295044
+577,COVID self test kit,Condom,0.01800490424070205
+578,COVID self test kit,Corn Cap,0.002771565558451804
+579,COVID self test kit,Coronil Kit,0.016914332180084132
+580,COVID self test kit,Cotton Balls,0.008755384027755587
+581,COVID self test kit,Cough Syrup,0.010112819697726925
+582,COVID self test kit,Cramp Relief Tablet,0.0011112839909569608
+583,COVID self test kit,Crepe Bandage,0.006094099813749829
+584,COVID self test kit,Digestive Tablets,0.007844467195486433
+585,COVID self test kit,Digital Thermometer,0.04083285443229345
+586,COVID self test kit,Drops,0.014693601030340068
+587,COVID self test kit,Ear Buds,0.016973513978906153
+588,COVID self test kit,Eye Drops,0.0065972952480376065
+589,COVID self test kit,Face Mask,0.050914975226922274
+590,COVID self test kit,Gel,0.007912686597206927
+591,COVID self test kit,Glucometer Kit,0.001664421212689265
+592,COVID self test kit,Hand Gloves,0.014271203158098655
+593,COVID self test kit,Hand Sanitizer,0.027788586618061776
+594,COVID self test kit,Health Syrup,0.003081354077467087
+595,COVID self test kit,Heat Patch,0.005986611665571201
+596,COVID self test kit,Inhaler,0.022266208033870884
+597,COVID self test kit,Interdental Brushes,0.003579473163229649
+598,COVID self test kit,Lens Solution,0.0047890826079793666
+599,COVID self test kit,Lozenges,0.04814087853845742
+600,COVID self test kit,Lubricant,0.008992073302581675
+601,COVID self test kit,Mask,0.037003833424447685
+602,COVID self test kit,Mouth Gel,0.010276885418294216
+603,COVID self test kit,Nasal Spray,0.010063315032537202
+604,COVID self test kit,Nicotine Gum,0.0005573232156457576
+605,COVID self test kit,ORS,0.032265327848149734
+606,COVID self test kit,Ointment,0.008725685798356867
+607,COVID self test kit,Oximeter,0.06801212397285593
+608,COVID self test kit,PPE Kit,0.011931577210765496
+609,COVID self test kit,Pain Relief Patch,0.01057420458019452
+610,COVID self test kit,Pain Relief Spray,0.013702987189059185
+611,COVID self test kit,Pain Relieving Cream,0.003038524163306389
+612,COVID self test kit,Pain Relieving Oil,0.0030646471650769723
+613,COVID self test kit,Pain Relieving Roll On,0.00243800049645457
+614,COVID self test kit,Pregnancy Test Kit,0.013051672903150152
+615,COVID self test kit,Psyllium Husk,0.009547199145434932
+616,COVID self test kit,Shilajit Capsules,0.008118409998054334
+617,COVID self test kit,Skin Cream,0.0027592830122527725
+618,COVID self test kit,Tablets,0.019661022260222174
+619,COVID self test kit,Thermometer,0.025183082186777537
+620,COVID self test kit,Vaporizer,0.026463408964330085
+621,Capsules,3 Ply Mask,0.005745362291703556
+622,Capsules,Adhesive Bandage,0.01712630656037598
+623,Capsules,Adult Diaper,0.0004590498341156004
+624,Capsules,Antacid,0.010697909277976973
+625,Capsules,Antifungal Cream,0.005304811702067691
+626,Capsules,Antiseptic Cream,0.0035287842097520674
+627,Capsules,Antiseptic Liquid,0.004796644206251562
+628,Capsules,Ayurvedic Cream,0.0016235376134030807
+629,Capsules,Balm & Ointment,0.006066856798197072
+630,Capsules,COVID self test kit,0.009847165148160208
+631,Capsules,Chest rubs & balms,0.0075131922461632444
+632,Capsules,Condom,0.01232070052863261
+633,Capsules,Coronil Kit,0.0026682134929857924
+634,Capsules,Cotton Balls,0.002486070415948541
+635,Capsules,Cough Syrup,0.0015952839096644291
+636,Capsules,Crepe Bandage,0.002018805961288274
+637,Capsules,Digestive Tablets,0.005393432925541
+638,Capsules,Drops,0.005783265507299793
+639,Capsules,Ear Buds,0.008711463356516227
+640,Capsules,Eye Drops,0.006724617319484035
+641,Capsules,Face Mask,0.0033352264793051795
+642,Capsules,Gel,0.002759213935213616
+643,Capsules,Hand Gloves,0.004085626154824967
+644,Capsules,Hand Sanitizer,0.0038179852758829075
+645,Capsules,Health Syrup,0.0006805113328791799
+646,Capsules,Heat Patch,0.003966396248090466
+647,Capsules,Inhaler,0.011235235148415549
+648,Capsules,Interdental Brushes,0.003952600045427075
+649,Capsules,Lens Solution,0.01233936680013336
+650,Capsules,Lozenges,0.011437482909619965
+651,Capsules,Lubricant,0.008124065635346043
+652,Capsules,Mask,0.007161230703312204
+653,Capsules,Mouth Gel,0.004863495179179787
+654,Capsules,Nasal Spray,0.001389040287526022
+655,Capsules,Nicotine Gum,0.003692513954469319
+656,Capsules,ORS,0.006750698979100951
+657,Capsules,Oximeter,0.005396533449407517
+658,Capsules,Pain Relief Patch,0.01384883336309762
+659,Capsules,Pain Relief Spray,0.008797323561458754
+660,Capsules,Pain Relieving Cream,0.0014379694838044404
+661,Capsules,Pain Relieving Oil,0.004512144281766022
+662,Capsules,Pain Relieving Roll On,0.0023075480904433034
+663,Capsules,Pregnancy Test Kit,0.004632489246088009
+664,Capsules,Psyllium Husk,0.004701343268924841
+665,Capsules,Shilajit Capsules,0.013984899165752584
+666,Capsules,Skin Cream,0.001661952369509038
+667,Capsules,Tablets,0.021892942688903745
+668,Capsules,Thermometer,0.0018135772802369363
+669,Capsules,Vaporizer,0.007044583002028397
+670,Chest rubs & balms,3 Ply Mask,0.018685663525795745
+671,Chest rubs & balms,Adhesive Bandage,0.043519076661676315
+672,Chest rubs & balms,Adult Diaper,0.006673273124601595
+673,Chest rubs & balms,Almond Oil,0.007435683038200723
+674,Chest rubs & balms,Antacid,0.02241687033546565
+675,Chest rubs & balms,Antifungal Cream,0.012158055123864753
+676,Chest rubs & balms,Antiseptic Cream,0.020565591209980798
+677,Chest rubs & balms,Antiseptic Liquid,0.029006162311808425
+678,Chest rubs & balms,Ayurvedic Cream,0.010525037213619996
+679,Chest rubs & balms,Balm & Ointment,0.06367730165235108
+680,Chest rubs & balms,COVID self test kit,0.02281322455295044
+681,Chest rubs & balms,Capsules,0.0075131922461632444
+682,Chest rubs & balms,Condom,0.019395061907130397
+683,Chest rubs & balms,Corn Cap,0.0067637692730755095
+684,Chest rubs & balms,Coronil Kit,0.0020966595322065174
+685,Chest rubs & balms,Cotton Balls,0.009116487553254464
+686,Chest rubs & balms,Cough Syrup,0.016923067637445652
+687,Chest rubs & balms,Cramp Relief Tablet,0.002892793348519497
+688,Chest rubs & balms,Crepe Bandage,0.006345442407119916
+689,Chest rubs & balms,Digestive Syrup,0.0025359727271192533
+690,Chest rubs & balms,Digestive Tablets,0.012714341544684135
+691,Chest rubs & balms,Digital Thermometer,0.016871804842025065
+692,Chest rubs & balms,Drops,0.023290260046024906
+693,Chest rubs & balms,Ear Buds,0.022403107698064077
+694,Chest rubs & balms,Eye Drops,0.005284147254483702
+695,Chest rubs & balms,Face Mask,0.013291162874877978
+696,Chest rubs & balms,Gel,0.006504500723653476
+697,Chest rubs & balms,Glucometer Kit,0.0021663349118599584
+698,Chest rubs & balms,Glucometer Test Strips,0.0015422864060845433
+699,Chest rubs & balms,Hand Gloves,0.010319304792939864
+700,Chest rubs & balms,Hand Sanitizer,0.022667727824513803
+701,Chest rubs & balms,Health Syrup,0.011496910722113937
+702,Chest rubs & balms,Heat Patch,0.0023375703979259853
+703,Chest rubs & balms,Inhaler,0.15200464282713955
+704,Chest rubs & balms,Lens Solution,0.0034629177766460047
+705,Chest rubs & balms,Lozenges,0.12438329104858215
+706,Chest rubs & balms,Lubricant,0.007447792183532782
+707,Chest rubs & balms,Mask,0.014233592763444098
+708,Chest rubs & balms,Mix,0.0041670284035833245
+709,Chest rubs & balms,Mouth Gel,0.006369488769716699
+710,Chest rubs & balms,Multipurpose Oil,0.006198080939845893
+711,Chest rubs & balms,Nasal Spray,0.01582669311252128
+712,Chest rubs & balms,ORS,0.020942284568018475
+713,Chest rubs & balms,Ointment,0.010759221073500996
+714,Chest rubs & balms,Oximeter,0.01802233840773674
+715,Chest rubs & balms,PPE Kit,0.0031059195915282473
+716,Chest rubs & balms,Pain Relief Patch,0.010562228273726255
+717,Chest rubs & balms,Pain Relief Spray,0.043965803844296394
+718,Chest rubs & balms,Pain Relieving Cream,0.01186441435374135
+719,Chest rubs & balms,Pain Relieving Oil,0.016398421768218808
+720,Chest rubs & balms,Pain Relieving Roll On,0.014052700813644979
+721,Chest rubs & balms,Pregnancy Test Kit,0.005460256138341736
+722,Chest rubs & balms,Psyllium Husk,0.010411140513416305
+723,Chest rubs & balms,Shilajit Capsules,0.006762593938984676
+724,Chest rubs & balms,Skin Cream,0.012080019703285299
+725,Chest rubs & balms,Supplement,0.0041670284035833245
+726,Chest rubs & balms,Tablets,0.017203288678888887
+727,Chest rubs & balms,Thermometer,0.012825842803801345
+728,Chest rubs & balms,Vaporizer,0.056585863201120565
+729,Condom,3 Ply Mask,0.023824319498516388
+730,Condom,Adhesive Bandage,0.033364432180891454
+731,Condom,Adult Diaper,0.005261107029911211
+732,Condom,Almond Oil,0.005621897191311506
+733,Condom,Antacid,0.030245343059461957
+734,Condom,Antifungal Cream,0.011736268253735945
+735,Condom,Antiseptic Cream,0.013182341121019467
+736,Condom,Antiseptic Liquid,0.02254011633848241
+737,Condom,Ayurvedic Cream,0.009539104111057763
+738,Condom,Balm & Ointment,0.02033762354910512
+739,Condom,COVID self test kit,0.01800490424070205
+740,Condom,Capsules,0.01232070052863261
+741,Condom,Chest rubs & balms,0.019395061907130397
+742,Condom,Corn Cap,0.007658932231541425
+743,Condom,Coronil Kit,0.002709622731204855
+744,Condom,Cotton Balls,0.009136839036208837
+745,Condom,Cough Syrup,0.004397256471342694
+746,Condom,Cramp Relief Tablet,0.006675907295648074
+747,Condom,Crepe Bandage,0.004393150165547091
+748,Condom,Digestive Tablets,0.015969052665395264
+749,Condom,Digital Thermometer,0.011135775411221623
+750,Condom,Drops,0.019297061368078083
+751,Condom,Ear Buds,0.019273081982309596
+752,Condom,Energy Drink Mix,0.0032381632029997278
+753,Condom,Eye Drops,0.008170386502413736
+754,Condom,Face Mask,0.011923578092877484
+755,Condom,Gel,0.006404652460224642
+756,Condom,Glucometer Kit,0.0003999525524436002
+757,Condom,Glucometer Test Strips,0.001138958489447924
+758,Condom,Hand Gloves,0.008848447662311246
+759,Condom,Hand Sanitizer,0.019340034169188475
+760,Condom,Health Syrup,0.011402696295022064
+761,Condom,Heat Patch,0.004459518932723803
+762,Condom,Inhaler,0.018602608621718936
+763,Condom,Interdental Brushes,0.003440521947503774
+764,Condom,Lens Solution,0.002940917797156623
+765,Condom,Lozenges,0.025562362455483736
+766,Condom,Lubricant,0.1678184615605281
+767,Condom,Mask,0.014972524724518318
+768,Condom,Mix,0.00076932409526984
+769,Condom,Mouth Gel,0.007643650251032468
+770,Condom,Multipurpose Oil,0.0020597410406995075
+771,Condom,Nasal Spray,0.006246931544996889
+772,Condom,Nicotine Gum,0.00388374192006954
+773,Condom,ORS,0.028676659936602067
+774,Condom,Ointment,0.005517739645955883
+775,Condom,Oximeter,0.006948218159888825
+776,Condom,PPE Kit,0.0005734203245839623
+777,Condom,Pain Relief Patch,0.008686439881296162
+778,Condom,Pain Relief Spray,0.027261015185669903
+779,Condom,Pain Relieving Cream,0.004380857990192506
+780,Condom,Pain Relieving Oil,0.005645888447255177
+781,Condom,Pain Relieving Roll On,0.009457131410860386
+782,Condom,Pregnancy Test Kit,0.014897212793562212
+783,Condom,Psyllium Husk,0.016028025901485197
+784,Condom,Shilajit Capsules,0.026531091619245398
+785,Condom,Skin Cream,0.006027660629801881
+786,Condom,Supplement,0.00153864819053968
+787,Condom,Tablets,0.02421777272136655
+788,Condom,Thermometer,0.006051375650713368
+789,Condom,Vaporizer,0.012945172540937102
+790,Condom,Weight Machine,0.0009931931362720597
+791,Corn Cap,3 Ply Mask,0.004559265627625477
+792,Corn Cap,Adhesive Bandage,0.037897573570793076
+793,Corn Cap,Adult Diaper,0.0018734485524740116
+794,Corn Cap,Almond Oil,0.0027584647127072374
+795,Corn Cap,Antacid,0.006756859887118256
+796,Corn Cap,Antifungal Cream,0.007216567110143136
+797,Corn Cap,Antiseptic Cream,0.006600677000151485
+798,Corn Cap,Antiseptic Liquid,0.009362337465824506
+799,Corn Cap,Ayurvedic Cream,0.0016564727648671568
+800,Corn Cap,Balm & Ointment,0.009727031768473926
+801,Corn Cap,COVID self test kit,0.002771565558451804
+802,Corn Cap,Chest rubs & balms,0.0067637692730755095
+803,Corn Cap,Condom,0.007658932231541425
+804,Corn Cap,Cotton Balls,0.006764007849794619
+805,Corn Cap,Cough Syrup,0.0032552918106417182
+806,Corn Cap,Digestive Tablets,0.0030015514526733787
+807,Corn Cap,Digital Thermometer,0.0010953329586574768
+808,Corn Cap,Drops,0.005900585071606429
+809,Corn Cap,Ear Buds,0.006464134155653585
+810,Corn Cap,Eye Drops,0.0034305165928772783
+811,Corn Cap,Face Mask,0.0014583792952299246
+812,Corn Cap,Gel,0.004222781195573576
+813,Corn Cap,Hand Gloves,0.005955010481015253
+814,Corn Cap,Hand Sanitizer,0.007358047824919888
+815,Corn Cap,Health Syrup,0.003471581070225392
+816,Corn Cap,Heat Patch,0.004046858727135582
+817,Corn Cap,Inhaler,0.005980775788865754
+818,Corn Cap,Lozenges,0.009467710924710458
+819,Corn Cap,Lubricant,0.005525913845521659
+820,Corn Cap,Mask,0.005587326379335335
+821,Corn Cap,Mouth Gel,0.0033081041629364786
+822,Corn Cap,Nasal Spray,0.0014172184164967952
+823,Corn Cap,Nicotine Gum,0.0018837102229647502
+824,Corn Cap,ORS,0.0071746291031269185
+825,Corn Cap,Ointment,0.00620887506919014
+826,Corn Cap,Oximeter,0.0013765019377809141
+827,Corn Cap,Pain Relief Patch,0.04155815109398501
+828,Corn Cap,Pain Relief Spray,0.0071806291461201125
+829,Corn Cap,Pain Relieving Cream,0.0029342803849666814
+830,Corn Cap,Pain Relieving Oil,0.010358275113206071
+831,Corn Cap,Pain Relieving Roll On,0.015303334194570995
+832,Corn Cap,Pregnancy Test Kit,0.003150976076905803
+833,Corn Cap,Psyllium Husk,0.005668844898083388
+834,Corn Cap,Shilajit Capsules,0.0021951688324822207
+835,Corn Cap,Skin Cream,0.0025435002064667298
+836,Corn Cap,Tablets,0.007259545745946292
+837,Corn Cap,Vaporizer,0.0023958299018085874
+838,Coronil Kit,3 Ply Mask,0.002271373247476119
+839,Coronil Kit,Adhesive Bandage,0.004220708047763342
+840,Coronil Kit,Antacid,0.001812563423521988
+841,Coronil Kit,Antifungal Cream,0.002097205845552013
+842,Coronil Kit,Antiseptic Cream,0.004185211816000425
+843,Coronil Kit,Antiseptic Liquid,0.007420330783200905
+844,Coronil Kit,Ayurvedic Cream,0.0019255495375879363
+845,Coronil Kit,Balm & Ointment,0.006167501953374525
+846,Coronil Kit,COVID self test kit,0.016914332180084132
+847,Coronil Kit,Capsules,0.0026682134929857924
+848,Coronil Kit,Chest rubs & balms,0.0020966595322065174
+849,Coronil Kit,Condom,0.002709622731204855
+850,Coronil Kit,Digestive Tablets,0.004652163025213903
+851,Coronil Kit,Digital Thermometer,0.007639550435531156
+852,Coronil Kit,Drops,0.003429536874106475
+853,Coronil Kit,Ear Buds,0.0018785413799609551
+854,Coronil Kit,Face Mask,0.0022603704587383765
+855,Coronil Kit,Gel,0.0032724853882012852
+856,Coronil Kit,Hand Gloves,0.0041534039996014615
+857,Coronil Kit,Hand Sanitizer,0.005534479284948911
+858,Coronil Kit,Health Syrup,0.004842603971221436
+859,Coronil Kit,Inhaler,0.0034761453067389085
+860,Coronil Kit,Lozenges,0.007166464621120131
+861,Coronil Kit,Lubricant,0.0010705901796950997
+862,Coronil Kit,Mask,0.007993759310017412
+863,Coronil Kit,ORS,0.008006470062837983
+864,Coronil Kit,Ointment,0.003608721124786838
+865,Coronil Kit,Oximeter,0.012800802891536825
+866,Coronil Kit,Pain Relief Patch,0.011594121724559703
+867,Coronil Kit,Pain Relief Spray,0.0033388190678790633
+868,Coronil Kit,Pain Relieving Roll On,0.002736800257557
+869,Coronil Kit,Psyllium Husk,0.003041395289393056
+870,Coronil Kit,Skin Cream,0.0019711102411070452
+871,Coronil Kit,Tablets,0.003894823130955536
+872,Coronil Kit,Thermometer,0.004301881107663894
+873,Coronil Kit,Vaporizer,0.00742668680489791
+874,Cotton Balls,3 Ply Mask,0.01316821392717607
+875,Cotton Balls,Adhesive Bandage,0.04440544341279701
+876,Cotton Balls,Adult Diaper,0.0027054764226782445
+877,Cotton Balls,Almond Oil,0.001991771066561721
+878,Cotton Balls,Antacid,0.015199474421686307
+879,Cotton Balls,Antifungal Cream,0.007164820911989723
+880,Cotton Balls,Antiseptic Cream,0.010831978554178365
+881,Cotton Balls,Antiseptic Liquid,0.026579677335358633
+882,Cotton Balls,Ayurvedic Cream,0.0035882074297465165
+883,Cotton Balls,Balm & Ointment,0.009577472084409207
+884,Cotton Balls,COVID self test kit,0.008755384027755587
+885,Cotton Balls,Capsules,0.002486070415948541
+886,Cotton Balls,Chest rubs & balms,0.009116487553254464
+887,Cotton Balls,Condom,0.009136839036208837
+888,Cotton Balls,Corn Cap,0.006764007849794619
+889,Cotton Balls,Cough Syrup,0.0023505089667390034
+890,Cotton Balls,Crepe Bandage,0.005949062089032677
+891,Cotton Balls,Digestive Tablets,0.009391606260659014
+892,Cotton Balls,Digital Thermometer,0.0015817874959613103
+893,Cotton Balls,Drops,0.00745598647418816
+894,Cotton Balls,Ear Buds,0.02012850203498722
+895,Cotton Balls,Energy Drink Mix,0.0021925080207982482
+896,Cotton Balls,Eye Drops,0.006192578485395002
+897,Cotton Balls,Face Mask,0.005616182404519888
+898,Cotton Balls,Gel,0.0030490922602775445
+899,Cotton Balls,Hand Gloves,0.006019806790177904
+900,Cotton Balls,Hand Sanitizer,0.015626282659144012
+901,Cotton Balls,Health Syrup,0.004512028179400498
+902,Cotton Balls,Heat Patch,0.0058441321261352795
+903,Cotton Balls,Inhaler,0.006837571222820006
+904,Cotton Balls,Interdental Brushes,0.0029119023242275516
+905,Cotton Balls,Lens Solution,0.0025972799424502286
+906,Cotton Balls,Lozenges,0.011128754457082893
+907,Cotton Balls,Lubricant,0.0033250245034011743
+908,Cotton Balls,Mask,0.011172109307457875
+909,Cotton Balls,Mix,0.002604484616324975
+910,Cotton Balls,Mouth Gel,0.004777285079309669
+911,Cotton Balls,Nasal Spray,0.005116568328703363
+912,Cotton Balls,Nicotine Gum,0.0013601477309475802
+913,Cotton Balls,ORS,0.008599625316158472
+914,Cotton Balls,Ointment,0.01344950072597339
+915,Cotton Balls,Oximeter,0.0029817420394485372
+916,Cotton Balls,Pain Relief Patch,0.0060014777457539055
+917,Cotton Balls,Pain Relief Spray,0.01373979832467224
+918,Cotton Balls,Pain Relieving Cream,0.0010593600753769196
+919,Cotton Balls,Pain Relieving Oil,0.009141334562915139
+920,Cotton Balls,Pain Relieving Roll On,0.005949942062721246
+921,Cotton Balls,Pregnancy Test Kit,0.005119170690536676
+922,Cotton Balls,Psyllium Husk,0.004722962181775703
+923,Cotton Balls,Shilajit Capsules,0.007925194305757647
+924,Cotton Balls,Skin Cream,0.004285293273208179
+925,Cotton Balls,Tablets,0.008870758610035678
+926,Cotton Balls,Thermometer,0.01068857933875293
+927,Cotton Balls,Vaporizer,0.0051897832770995585
+928,Cough Syrup,3 Ply Mask,0.009958807580360307
+929,Cough Syrup,Adhesive Bandage,0.010093986337582581
+930,Cough Syrup,Almond Oil,0.005112389920795939
+931,Cough Syrup,Antacid,0.010837038611761102
+932,Cough Syrup,Antifungal Cream,0.0037616615943120765
+933,Cough Syrup,Antiseptic Cream,0.0033363652427135944
+934,Cough Syrup,Antiseptic Liquid,0.007985703468295876
+935,Cough Syrup,Ayurvedic Cream,0.008058795676791524
+936,Cough Syrup,Balm & Ointment,0.006145757985575299
+937,Cough Syrup,COVID self test kit,0.010112819697726925
+938,Cough Syrup,Capsules,0.0015952839096644291
+939,Cough Syrup,Chest rubs & balms,0.016923067637445652
+940,Cough Syrup,Condom,0.004397256471342694
+941,Cough Syrup,Corn Cap,0.0032552918106417182
+942,Cough Syrup,Cotton Balls,0.0023505089667390034
+943,Cough Syrup,Cramp Relief Tablet,0.005220953426885856
+944,Cough Syrup,Digestive Tablets,0.0027814568956979076
+945,Cough Syrup,Digital Thermometer,0.003045046662348076
+946,Cough Syrup,Drops,0.006834891594750953
+947,Cough Syrup,Ear Buds,0.004492604276184854
+948,Cough Syrup,Eye Drops,0.004768451007844301
+949,Cough Syrup,Face Mask,0.004054322450791989
+950,Cough Syrup,Gel,0.011739412827646461
+951,Cough Syrup,Hand Gloves,0.0033110087021737816
+952,Cough Syrup,Hand Sanitizer,0.0072195932731987595
+953,Cough Syrup,Health Syrup,0.002895318615423761
+954,Cough Syrup,Heat Patch,0.00562517249328562
+955,Cough Syrup,Inhaler,0.02009056147020533
+956,Cough Syrup,Lens Solution,0.0024999687505859254
+957,Cough Syrup,Lozenges,0.048968219926098774
+958,Cough Syrup,Lubricant,0.0032004472130923224
+959,Cough Syrup,Mask,0.0011948365112578448
+960,Cough Syrup,Mouth Gel,0.009196593109364791
+961,Cough Syrup,Nasal Spray,0.009849736043415491
+962,Cough Syrup,ORS,0.00877606695006179
+963,Cough Syrup,Ointment,0.002157598992723937
+964,Cough Syrup,Oximeter,0.003826701824523629
+965,Cough Syrup,Pain Relief Patch,0.011553245821909815
+966,Cough Syrup,Pain Relief Spray,0.006487743255319789
+967,Cough Syrup,Pain Relieving Oil,0.006399156390828484
+968,Cough Syrup,Pain Relieving Roll On,0.0032725817677809
+969,Cough Syrup,Pregnancy Test Kit,0.004379887006176118
+970,Cough Syrup,Psyllium Husk,0.0024245381067907255
+971,Cough Syrup,Skin Cream,0.0023569931417250244
+972,Cough Syrup,Tablets,0.010090838301328625
+973,Cough Syrup,Vaporizer,0.00888060418936938
+974,Cramp Relief Tablet,3 Ply Mask,0.003133848544016661
+975,Cramp Relief Tablet,Adhesive Bandage,0.008007141584606395
+976,Cramp Relief Tablet,Adult Diaper,0.003004703789736553
+977,Cramp Relief Tablet,Almond Oil,0.002949416239259468
+978,Cramp Relief Tablet,Antacid,0.0066688575610125
+979,Cramp Relief Tablet,Antifungal Cream,0.002893547105430327
+980,Cramp Relief Tablet,Antiseptic Cream,0.0038496006679507376
+981,Cramp Relief Tablet,Antiseptic Liquid,0.0013650592416956284
+982,Cramp Relief Tablet,Ayurvedic Cream,0.002656710261735771
+983,Cramp Relief Tablet,Balm & Ointment,0.004254698570188623
+984,Cramp Relief Tablet,COVID self test kit,0.0011112839909569608
+985,Cramp Relief Tablet,Chest rubs & balms,0.002892793348519497
+986,Cramp Relief Tablet,Condom,0.006675907295648074
+987,Cramp Relief Tablet,Cough Syrup,0.005220953426885856
+988,Cramp Relief Tablet,Digestive Tablets,0.012837321509615088
+989,Cramp Relief Tablet,Drops,0.004731784682025505
+990,Cramp Relief Tablet,Ear Buds,0.0025918523848985253
+991,Cramp Relief Tablet,Eye Drops,0.011003970398611172
+992,Cramp Relief Tablet,Hand Gloves,0.003820343512843945
+993,Cramp Relief Tablet,Hand Sanitizer,0.0006941823677612366
+994,Cramp Relief Tablet,Health Syrup,0.0022271383506761366
+995,Cramp Relief Tablet,Heat Patch,0.0064904967568472395
+996,Cramp Relief Tablet,Inhaler,0.0031973940347669524
+997,Cramp Relief Tablet,Lozenges,0.006356366531392281
+998,Cramp Relief Tablet,Mouth Gel,0.010611311532512865
+999,Cramp Relief Tablet,ORS,0.005063047768334282
+1000,Cramp Relief Tablet,Ointment,0.004979007943869121
+1001,Cramp Relief Tablet,Pain Relief Patch,0.010664391839030079
+1002,Cramp Relief Tablet,Pain Relief Spray,0.002303309965949988
+1003,Cramp Relief Tablet,Pain Relieving Cream,0.004706103821861596
+1004,Cramp Relief Tablet,Pain Relieving Oil,0.007383543144820265
+1005,Cramp Relief Tablet,Pain Relieving Roll On,0.015104021343809722
+1006,Cramp Relief Tablet,Psyllium Husk,0.0013987532593677148
+1007,Cramp Relief Tablet,Shilajit Capsules,0.0070413805613830874
+1008,Cramp Relief Tablet,Tablets,0.030451234555875242
+1009,Crepe Bandage,3 Ply Mask,0.004582803551884457
+1010,Crepe Bandage,Adhesive Bandage,0.015168859352104764
+1011,Crepe Bandage,Adult Diaper,0.00082386522951882
+1012,Crepe Bandage,Almond Oil,0.0016174116697986306
+1013,Crepe Bandage,Antacid,0.0063999118960234086
+1014,Crepe Bandage,Antifungal Cream,0.0031735478995057794
+1015,Crepe Bandage,Antiseptic Liquid,0.0033685928189562545
+1016,Crepe Bandage,Balm & Ointment,0.01477697874793719
+1017,Crepe Bandage,COVID self test kit,0.006094099813749829
+1018,Crepe Bandage,Capsules,0.002018805961288274
+1019,Crepe Bandage,Chest rubs & balms,0.006345442407119916
+1020,Crepe Bandage,Condom,0.004393150165547091
+1021,Crepe Bandage,Cotton Balls,0.005949062089032677
+1022,Crepe Bandage,Digestive Tablets,0.004399860839882167
+1023,Crepe Bandage,Digital Thermometer,0.007706914508580943
+1024,Crepe Bandage,Drops,0.003459777864654787
+1025,Crepe Bandage,Ear Buds,0.012791965454508194
+1026,Crepe Bandage,Face Mask,0.005130679425184862
+1027,Crepe Bandage,Hand Gloves,0.0031425209324802104
+1028,Crepe Bandage,Hand Sanitizer,0.003426104402885623
+1029,Crepe Bandage,Inhaler,0.007013594562800733
+1030,Crepe Bandage,Lozenges,0.003485727537722046
+1031,Crepe Bandage,Lubricant,0.005670159789622435
+1032,Crepe Bandage,Mask,0.0045361387845997015
+1033,Crepe Bandage,Nasal Spray,0.009971745202768808
+1034,Crepe Bandage,ORS,0.003786126357163722
+1035,Crepe Bandage,Ointment,0.010921626381844232
+1036,Crepe Bandage,Oximeter,0.007263943811461808
+1037,Crepe Bandage,Pain Relief Patch,0.014620445549661798
+1038,Crepe Bandage,Pain Relief Spray,0.04420841415924484
+1039,Crepe Bandage,Pain Relieving Cream,0.0025807504344229184
+1040,Crepe Bandage,Pain Relieving Oil,0.010122536019104246
+1041,Crepe Bandage,Pain Relieving Roll On,0.010353498116503181
+1042,Crepe Bandage,Pregnancy Test Kit,0.0013856690248473325
+1043,Crepe Bandage,Psyllium Husk,0.0015341068613891136
+1044,Crepe Bandage,Shilajit Capsules,0.0019306890190469884
+1045,Crepe Bandage,Tablets,0.004911458656766966
+1046,Crepe Bandage,Vaporizer,0.004214347811868113
+1047,Digestive Syrup,3 Ply Mask,0.003663058956546163
+1048,Digestive Syrup,Adhesive Bandage,0.0025525366264393316
+1049,Digestive Syrup,Antacid,0.008769399776392324
+1050,Digestive Syrup,Antiseptic Liquid,0.0011966817503966862
+1051,Digestive Syrup,Ayurvedic Cream,0.009316040181118191
+1052,Digestive Syrup,Balm & Ointment,0.007459778999860977
+1053,Digestive Syrup,Chest rubs & balms,0.0025359727271192533
+1054,Digestive Syrup,Digestive Tablets,0.005626931017092287
+1055,Digestive Syrup,Ear Buds,0.00454430453124872
+1056,Digestive Syrup,Gel,0.007916338887545516
+1057,Digestive Syrup,Hand Sanitizer,0.0036513376661154165
+1058,Digestive Syrup,Inhaler,0.005606002982669075
+1059,Digestive Syrup,Lozenges,0.001238293482006416
+1060,Digestive Syrup,Mask,0.009668692167690975
+1061,Digestive Syrup,Nasal Spray,0.015940936661960343
+1062,Digestive Syrup,ORS,0.002421016551324124
+1063,Digestive Syrup,Pain Relieving Cream,0.008251229524805618
+1064,Digestive Syrup,Pregnancy Test Kit,0.004430290126827222
+1065,Digestive Syrup,Tablets,0.009421811300628066
+1066,Digestive Syrup,Vaporizer,0.004491400463635796
+1067,Digestive Tablets,3 Ply Mask,0.0150259876637599
+1068,Digestive Tablets,Adhesive Bandage,0.028406319448929542
+1069,Digestive Tablets,Adult Diaper,0.004602163341145215
+1070,Digestive Tablets,Almond Oil,0.001964122609944657
+1071,Digestive Tablets,Antacid,0.048851359527033726
+1072,Digestive Tablets,Antifungal Cream,0.013873804844116022
+1073,Digestive Tablets,Antiseptic Cream,0.011792504227942117
+1074,Digestive Tablets,Antiseptic Liquid,0.01663547160030113
+1075,Digestive Tablets,Ayurvedic Cream,0.011676714366846573
+1076,Digestive Tablets,Balm & Ointment,0.014922347782332344
+1077,Digestive Tablets,COVID self test kit,0.007844467195486433
+1078,Digestive Tablets,Capsules,0.005393432925541
+1079,Digestive Tablets,Chest rubs & balms,0.012714341544684135
+1080,Digestive Tablets,Condom,0.015969052665395264
+1081,Digestive Tablets,Corn Cap,0.0030015514526733787
+1082,Digestive Tablets,Coronil Kit,0.004652163025213903
+1083,Digestive Tablets,Cotton Balls,0.009391606260659014
+1084,Digestive Tablets,Cough Syrup,0.0027814568956979076
+1085,Digestive Tablets,Cramp Relief Tablet,0.012837321509615088
+1086,Digestive Tablets,Crepe Bandage,0.004399860839882167
+1087,Digestive Tablets,Digestive Syrup,0.005626931017092287
+1088,Digestive Tablets,Digital Thermometer,0.0037435923882258
+1089,Digestive Tablets,Drops,0.03403151297568197
+1090,Digestive Tablets,Ear Buds,0.013117660404532168
+1091,Digestive Tablets,Energy Drink Mix,0.002594487678888915
+1092,Digestive Tablets,Eye Drops,0.0036639703090026545
+1093,Digestive Tablets,Face Mask,0.010591850057496324
+1094,Digestive Tablets,Gel,0.02044601400811797
+1095,Digestive Tablets,Hand Gloves,0.008141134339957308
+1096,Digestive Tablets,Hand Sanitizer,0.012943869855425567
+1097,Digestive Tablets,Health Syrup,0.016907701647073115
+1098,Digestive Tablets,Heat Patch,0.0034578046354276255
+1099,Digestive Tablets,Inhaler,0.015330671743634967
+1100,Digestive Tablets,Interdental Brushes,0.0034457774524290184
+1101,Digestive Tablets,Lens Solution,0.0015367357257965778
+1102,Digestive Tablets,Lozenges,0.023328167623248807
+1103,Digestive Tablets,Lubricant,0.006688892145987834
+1104,Digestive Tablets,Mask,0.00973170579672283
+1105,Digestive Tablets,Mix,0.0015409985237934663
+1106,Digestive Tablets,Mouth Gel,0.004946518445692683
+1107,Digestive Tablets,Multipurpose Oil,0.0027505164794485054
+1108,Digestive Tablets,Nasal Spray,0.008476513064273038
+1109,Digestive Tablets,Nicotine Gum,0.005633321627916303
+1110,Digestive Tablets,ORS,0.030712812551528863
+1111,Digestive Tablets,Ointment,0.009947102698637184
+1112,Digestive Tablets,Oximeter,0.004116492039187192
+1113,Digestive Tablets,Pain Relief Patch,0.00923234391592337
+1114,Digestive Tablets,Pain Relief Spray,0.019479985783121406
+1115,Digestive Tablets,Pain Relieving Cream,0.006267928411207313
+1116,Digestive Tablets,Pain Relieving Oil,0.013275812469551004
+1117,Digestive Tablets,Pain Relieving Roll On,0.017602046634945554
+1118,Digestive Tablets,Pregnancy Test Kit,0.004038487782556615
+1119,Digestive Tablets,Psyllium Husk,0.01844330845697265
+1120,Digestive Tablets,Shilajit Capsules,0.0060958419351833095
+1121,Digestive Tablets,Skin Cream,0.0076064537682167385
+1122,Digestive Tablets,Tablets,0.01884714613798896
+1123,Digestive Tablets,Thermometer,0.004743093378021828
+1124,Digestive Tablets,Vaporizer,0.009553118618867642
+1125,Digital Thermometer,3 Ply Mask,0.01248977868694009
+1126,Digital Thermometer,Adhesive Bandage,0.01570835399821187
+1127,Digital Thermometer,Adult Diaper,0.003504901307552667
+1128,Digital Thermometer,Antacid,0.016773538219752387
+1129,Digital Thermometer,Antifungal Cream,0.003375240204352118
+1130,Digital Thermometer,Antiseptic Cream,0.0033678370711807725
+1131,Digital Thermometer,Antiseptic Liquid,0.011146118816150408
+1132,Digital Thermometer,Ayurvedic Cream,0.003098976778327526
+1133,Digital Thermometer,Balm & Ointment,0.010339551212470247
+1134,Digital Thermometer,COVID self test kit,0.04083285443229345
+1135,Digital Thermometer,Chest rubs & balms,0.016871804842025065
+1136,Digital Thermometer,Condom,0.011135775411221623
+1137,Digital Thermometer,Corn Cap,0.0010953329586574768
+1138,Digital Thermometer,Coronil Kit,0.007639550435531156
+1139,Digital Thermometer,Cotton Balls,0.0015817874959613103
+1140,Digital Thermometer,Cough Syrup,0.003045046662348076
+1141,Digital Thermometer,Crepe Bandage,0.007706914508580943
+1142,Digital Thermometer,Digestive Tablets,0.0037435923882258
+1143,Digital Thermometer,Drops,0.009199153216443434
+1144,Digital Thermometer,Ear Buds,0.009825796220743335
+1145,Digital Thermometer,Eye Drops,0.003208954437547461
+1146,Digital Thermometer,Face Mask,0.01955337445806288
+1147,Digital Thermometer,Gel,0.009216783597669647
+1148,Digital Thermometer,Glucometer Kit,0.010524566699352861
+1149,Digital Thermometer,Glucometer Test Strips,0.007492791655379687
+1150,Digital Thermometer,Hand Gloves,0.008912643581842785
+1151,Digital Thermometer,Hand Sanitizer,0.01072910721916482
+1152,Digital Thermometer,Health Syrup,0.003247366738798356
+1153,Digital Thermometer,Heat Patch,0.0018927448562021801
+1154,Digital Thermometer,Inhaler,0.01212142420073449
+1155,Digital Thermometer,Lens Solution,0.0016823672514881022
+1156,Digital Thermometer,Lozenges,0.016888629665216443
+1157,Digital Thermometer,Lubricant,0.006030522271308649
+1158,Digital Thermometer,Mask,0.01688550313118062
+1159,Digital Thermometer,Mouth Gel,0.0015472240471836127
+1160,Digital Thermometer,Nasal Spray,0.010605491513514602
+1161,Digital Thermometer,ORS,0.02671077896117281
+1162,Digital Thermometer,Ointment,0.011615741633095925
+1163,Digital Thermometer,Oximeter,0.0579419847383243
+1164,Digital Thermometer,PPE Kit,0.0037723227517716057
+1165,Digital Thermometer,Pain Relief Patch,0.005442372705751679
+1166,Digital Thermometer,Pain Relief Spray,0.013097883867053977
+1167,Digital Thermometer,Pain Relieving Cream,0.0013723839846595588
+1168,Digital Thermometer,Pain Relieving Oil,0.0032297597159636825
+1169,Digital Thermometer,Pain Relieving Roll On,0.004404602571645141
+1170,Digital Thermometer,Pregnancy Test Kit,0.0014737341142128217
+1171,Digital Thermometer,Psyllium Husk,0.005302718846847371
+1172,Digital Thermometer,Shilajit Capsules,0.004106784838636516
+1173,Digital Thermometer,Skin Cream,0.0039653776399113695
+1174,Digital Thermometer,Tablets,0.013059006233145815
+1175,Digital Thermometer,Vaporizer,0.022410936623889963
+1176,Drops,3 Ply Mask,0.015042888819669059
+1177,Drops,Adhesive Bandage,0.03640239830756152
+1178,Drops,Adult Diaper,0.002163446529571893
+1179,Drops,Almond Oil,0.007722321428621022
+1180,Drops,Antacid,0.05129099500329507
+1181,Drops,Antifungal Cream,0.014394479486197778
+1182,Drops,Antiseptic Cream,0.016378753757378222
+1183,Drops,Antiseptic Liquid,0.022069895094936755
+1184,Drops,Ayurvedic Cream,0.006608145637504554
+1185,Drops,Balm & Ointment,0.02283675884138267
+1186,Drops,COVID self test kit,0.014693601030340068
+1187,Drops,Capsules,0.005783265507299793
+1188,Drops,Chest rubs & balms,0.023290260046024906
+1189,Drops,Condom,0.019297061368078083
+1190,Drops,Corn Cap,0.005900585071606429
+1191,Drops,Coronil Kit,0.003429536874106475
+1192,Drops,Cotton Balls,0.00745598647418816
+1193,Drops,Cough Syrup,0.006834891594750953
+1194,Drops,Cramp Relief Tablet,0.004731784682025505
+1195,Drops,Crepe Bandage,0.003459777864654787
+1196,Drops,Digestive Tablets,0.03403151297568197
+1197,Drops,Digital Thermometer,0.009199153216443434
+1198,Drops,Ear Buds,0.01611705487516427
+1199,Drops,Energy Drink Mix,0.0012750901915144208
+1200,Drops,Eye Drops,0.005762238322146222
+1201,Drops,Face Mask,0.011023377896760373
+1202,Drops,Gel,0.016550345194059884
+1203,Drops,Glucometer Kit,0.004724674558276435
+1204,Drops,Glucometer Test Strips,0.0016818270583441282
+1205,Drops,Hand Gloves,0.008002104329997284
+1206,Drops,Hand Sanitizer,0.01844809081918058
+1207,Drops,Health Syrup,0.025365782291881536
+1208,Drops,Heat Patch,0.006797508133389966
+1209,Drops,Inhaler,0.021347555343831235
+1210,Drops,Interdental Brushes,0.0016934661388006186
+1211,Drops,Lens Solution,0.002265738242108924
+1212,Drops,Lozenges,0.03485696615184908
+1213,Drops,Lubricant,0.010248739014978959
+1214,Drops,Mask,0.015701879574239096
+1215,Drops,Mix,0.0015146821615809108
+1216,Drops,Mouth Gel,0.006945777722261387
+1217,Drops,Multipurpose Oil,0.0013517723029023976
+1218,Drops,Nasal Spray,0.007736630230522955
+1219,Drops,Nicotine Gum,0.004746101763706462
+1220,Drops,ORS,0.03675623219422278
+1221,Drops,Ointment,0.00651815420733369
+1222,Drops,Oximeter,0.006936330434481708
+1223,Drops,PPE Kit,0.003386932277601237
+1224,Drops,Pain Relief Patch,0.008376626587208695
+1225,Drops,Pain Relief Spray,0.02442413643205391
+1226,Drops,Pain Relieving Cream,0.008009154434811531
+1227,Drops,Pain Relieving Oil,0.014015694766437678
+1228,Drops,Pain Relieving Roll On,0.011863850154049766
+1229,Drops,Pregnancy Test Kit,0.004961900765601244
+1230,Drops,Psyllium Husk,0.027650301452585197
+1231,Drops,Shilajit Capsules,0.005530837248990331
+1232,Drops,Skin Cream,0.008544634002074178
+1233,Drops,Tablets,0.02696718628288909
+1234,Drops,Thermometer,0.002331046662107343
+1235,Drops,Vaporizer,0.00938997548410672
+1236,Ear Buds,3 Ply Mask,0.021460926943097654
+1237,Ear Buds,Adhesive Bandage,0.04368953090340134
+1238,Ear Buds,Adult Diaper,0.005009469340559949
+1239,Ear Buds,Almond Oil,0.004124181591685978
+1240,Ear Buds,Antacid,0.02923057877333006
+1241,Ear Buds,Antifungal Cream,0.010582001869062423
+1242,Ear Buds,Antiseptic Cream,0.012422107856808182
+1243,Ear Buds,Antiseptic Liquid,0.03773488084118406
+1244,Ear Buds,Ayurvedic Cream,0.006000975421483687
+1245,Ear Buds,Balm & Ointment,0.01388184832582916
+1246,Ear Buds,COVID self test kit,0.016973513978906153
+1247,Ear Buds,Capsules,0.008711463356516227
+1248,Ear Buds,Chest rubs & balms,0.022403107698064077
+1249,Ear Buds,Condom,0.019273081982309596
+1250,Ear Buds,Corn Cap,0.006464134155653585
+1251,Ear Buds,Coronil Kit,0.0018785413799609551
+1252,Ear Buds,Cotton Balls,0.02012850203498722
+1253,Ear Buds,Cough Syrup,0.004492604276184854
+1254,Ear Buds,Cramp Relief Tablet,0.0025918523848985253
+1255,Ear Buds,Crepe Bandage,0.012791965454508194
+1256,Ear Buds,Digestive Syrup,0.00454430453124872
+1257,Ear Buds,Digestive Tablets,0.013117660404532168
+1258,Ear Buds,Digital Thermometer,0.009825796220743335
+1259,Ear Buds,Drops,0.01611705487516427
+1260,Ear Buds,Energy Drink Mix,0.003142958945017355
+1261,Ear Buds,Eye Drops,0.01183607677221216
+1262,Ear Buds,Face Mask,0.013417990232869137
+1263,Ear Buds,Gel,0.01068435363923934
+1264,Ear Buds,Hand Gloves,0.012122237570164156
+1265,Ear Buds,Hand Sanitizer,0.02576030694268669
+1266,Ear Buds,Health Syrup,0.004791103491930099
+1267,Ear Buds,Heat Patch,0.0006981299941840425
+1268,Ear Buds,Inhaler,0.015648255086579955
+1269,Ear Buds,Interdental Brushes,0.0013914034171721074
+1270,Ear Buds,Lens Solution,0.003723199254188393
+1271,Ear Buds,Lozenges,0.024841197946587974
+1272,Ear Buds,Lubricant,0.01000948336475405
+1273,Ear Buds,Mask,0.01838783606168924
+1274,Ear Buds,Mix,0.002489018099937864
+1275,Ear Buds,Mouth Gel,0.003994803938130093
+1276,Ear Buds,Nasal Spray,0.010268436722475599
+1277,Ear Buds,Nicotine Gum,0.0032496182735136624
+1278,Ear Buds,ORS,0.018120024689823887
+1279,Ear Buds,Ointment,0.008033271374556812
+1280,Ear Buds,Oximeter,0.006648950687223552
+1281,Ear Buds,Pain Relief Patch,0.009176655767932189
+1282,Ear Buds,Pain Relief Spray,0.02539420446859069
+1283,Ear Buds,Pain Relieving Cream,0.005061973461922899
+1284,Ear Buds,Pain Relieving Oil,0.005162220291926736
+1285,Ear Buds,Pain Relieving Roll On,0.008123084201363628
+1286,Ear Buds,Pregnancy Test Kit,0.00597937848693196
+1287,Ear Buds,Psyllium Husk,0.014593894614972186
+1288,Ear Buds,Shilajit Capsules,0.006437764752602354
+1289,Ear Buds,Skin Cream,0.008775664801151032
+1290,Ear Buds,Tablets,0.015220938613928155
+1291,Ear Buds,Thermometer,0.012768393442421854
+1292,Ear Buds,Vaporizer,0.010194940593537096
+1293,Energy Drink Mix,3 Ply Mask,0.0008444888786564304
+1294,Energy Drink Mix,Adhesive Bandage,0.0035308011456474412
+1295,Energy Drink Mix,Almond Oil,0.004768735650621255
+1296,Energy Drink Mix,Antacid,0.0020217148212755436
+1297,Energy Drink Mix,Antifungal Cream,0.002339202085949396
+1298,Energy Drink Mix,Antiseptic Cream,0.0031120951498051852
+1299,Energy Drink Mix,Antiseptic Liquid,0.003310624616713158
+1300,Energy Drink Mix,Balm & Ointment,0.004586112665106008
+1301,Energy Drink Mix,Condom,0.0032381632029997278
+1302,Energy Drink Mix,Cotton Balls,0.0021925080207982482
+1303,Energy Drink Mix,Digestive Tablets,0.002594487678888915
+1304,Energy Drink Mix,Drops,0.0012750901915144208
+1305,Energy Drink Mix,Ear Buds,0.003142958945017355
+1306,Energy Drink Mix,Hand Gloves,0.001544221536521134
+1307,Energy Drink Mix,Hand Sanitizer,0.0016835732582154176
+1308,Energy Drink Mix,Lens Solution,0.00466384226987996
+1309,Energy Drink Mix,Lozenges,0.0022838290870495007
+1310,Energy Drink Mix,Mask,0.001114519736595545
+1311,Energy Drink Mix,Nasal Spray,0.0036750551618435086
+1312,Energy Drink Mix,ORS,0.0007441946114399474
+1313,Energy Drink Mix,Pain Relief Patch,0.0021553275898312093
+1314,Energy Drink Mix,Pain Relieving Roll On,0.003052599192817481
+1315,Energy Drink Mix,Psyllium Husk,0.004523121860917304
+1316,Energy Drink Mix,Skin Cream,0.00219855633027772
+1317,Energy Drink Mix,Thermometer,0.004798274466903829
+1318,Eye Drops,3 Ply Mask,0.00524743350780637
+1319,Eye Drops,Adhesive Bandage,0.013296652663424143
+1320,Eye Drops,Adult Diaper,0.002058213554538776
+1321,Eye Drops,Antacid,0.006852222707733762
+1322,Eye Drops,Antifungal Cream,0.005285524111393632
+1323,Eye Drops,Antiseptic Cream,0.0026369655143385815
+1324,Eye Drops,Antiseptic Liquid,0.006857119134257988
+1325,Eye Drops,Ayurvedic Cream,0.004852903938919276
+1326,Eye Drops,Balm & Ointment,0.007124226818634966
+1327,Eye Drops,COVID self test kit,0.0065972952480376065
+1328,Eye Drops,Capsules,0.006724617319484035
+1329,Eye Drops,Chest rubs & balms,0.005284147254483702
+1330,Eye Drops,Condom,0.008170386502413736
+1331,Eye Drops,Corn Cap,0.0034305165928772783
+1332,Eye Drops,Cotton Balls,0.006192578485395002
+1333,Eye Drops,Cough Syrup,0.004768451007844301
+1334,Eye Drops,Cramp Relief Tablet,0.011003970398611172
+1335,Eye Drops,Digestive Tablets,0.0036639703090026545
+1336,Eye Drops,Digital Thermometer,0.003208954437547461
+1337,Eye Drops,Drops,0.005762238322146222
+1338,Eye Drops,Ear Buds,0.01183607677221216
+1339,Eye Drops,Face Mask,0.0014241857309432227
+1340,Eye Drops,Gel,0.004123772699805843
+1341,Eye Drops,Glucometer Test Strips,0.005866742595844412
+1342,Eye Drops,Hand Gloves,0.002616924446259347
+1343,Eye Drops,Hand Sanitizer,0.003487094956206644
+1344,Eye Drops,Health Syrup,0.0020341112522095093
+1345,Eye Drops,Inhaler,0.010220960514924365
+1346,Eye Drops,Lens Solution,0.002634536250336668
+1347,Eye Drops,Lozenges,0.01032081304852545
+1348,Eye Drops,Lubricant,0.005396351741247661
+1349,Eye Drops,Mask,0.0037774553398679305
+1350,Eye Drops,Mouth Gel,0.007268718235139755
+1351,Eye Drops,Nasal Spray,0.004151969764669084
+1352,Eye Drops,ORS,0.009668846855634964
+1353,Eye Drops,Ointment,0.009094950100778423
+1354,Eye Drops,Oximeter,0.006049026416974681
+1355,Eye Drops,Pain Relief Patch,0.007305078094213378
+1356,Eye Drops,Pain Relief Spray,0.007362883635742604
+1357,Eye Drops,Pain Relieving Cream,0.00214911182666507
+1358,Eye Drops,Pain Relieving Oil,0.005057706065103798
+1359,Eye Drops,Pain Relieving Roll On,0.006897474456341851
+1360,Eye Drops,Pregnancy Test Kit,0.0057695576631933395
+1361,Eye Drops,Psyllium Husk,0.007026374713966235
+1362,Eye Drops,Skin Cream,0.004967729194386233
+1363,Eye Drops,Tablets,0.01799600785741867
+1364,Eye Drops,Vaporizer,0.00350948491700674
+1365,Face Mask,3 Ply Mask,0.05827083424761473
+1366,Face Mask,Adhesive Bandage,0.02977070519459859
+1367,Face Mask,Adult Diaper,0.005055478105132026
+1368,Face Mask,Almond Oil,0.004199000912802602
+1369,Face Mask,Antacid,0.014565065424857325
+1370,Face Mask,Antifungal Cream,0.0033704685809564177
+1371,Face Mask,Antiseptic Cream,0.007473502030435622
+1372,Face Mask,Antiseptic Liquid,0.025617498448856846
+1373,Face Mask,Ayurvedic Cream,0.00343843968036488
+1374,Face Mask,Balm & Ointment,0.00881061038679921
+1375,Face Mask,COVID self test kit,0.050914975226922274
+1376,Face Mask,Capsules,0.0033352264793051795
+1377,Face Mask,Chest rubs & balms,0.013291162874877978
+1378,Face Mask,Condom,0.011923578092877484
+1379,Face Mask,Corn Cap,0.0014583792952299246
+1380,Face Mask,Coronil Kit,0.0022603704587383765
+1381,Face Mask,Cotton Balls,0.005616182404519888
+1382,Face Mask,Cough Syrup,0.004054322450791989
+1383,Face Mask,Crepe Bandage,0.005130679425184862
+1384,Face Mask,Digestive Tablets,0.010591850057496324
+1385,Face Mask,Digital Thermometer,0.01955337445806288
+1386,Face Mask,Drops,0.011023377896760373
+1387,Face Mask,Ear Buds,0.013417990232869137
+1388,Face Mask,Eye Drops,0.0014241857309432227
+1389,Face Mask,Gel,0.0011687306291066216
+1390,Face Mask,Glucometer Kit,0.002335486216662256
+1391,Face Mask,Hand Gloves,0.02027232165929878
+1392,Face Mask,Hand Sanitizer,0.06738326624561236
+1393,Face Mask,Health Syrup,0.00547668817294568
+1394,Face Mask,Heat Patch,0.004200153459610251
+1395,Face Mask,Inhaler,0.013449208863331378
+1396,Face Mask,Interdental Brushes,0.0016742176743686267
+1397,Face Mask,Lens Solution,0.0014933234362820935
+1398,Face Mask,Lozenges,0.023491825323942457
+1399,Face Mask,Lubricant,0.004588188067974215
+1400,Face Mask,Mask,0.12329510706671484
+1401,Face Mask,Mouth Gel,0.004806780892092284
+1402,Face Mask,Nasal Spray,0.0029418051068393265
+1403,Face Mask,Nicotine Gum,0.0007820260150755218
+1404,Face Mask,ORS,0.018467080838825405
+1405,Face Mask,Ointment,0.009021693566468387
+1406,Face Mask,Oximeter,0.01542935236249472
+1407,Face Mask,PPE Kit,0.01841639441805489
+1408,Face Mask,Pain Relief Patch,0.005175884522639292
+1409,Face Mask,Pain Relief Spray,0.017141051042986293
+1410,Face Mask,Pain Relieving Cream,0.0024363445805992232
+1411,Face Mask,Pain Relieving Oil,0.006211484279155735
+1412,Face Mask,Pain Relieving Roll On,0.003909667310706437
+1413,Face Mask,Pregnancy Test Kit,0.0016351674178570414
+1414,Face Mask,Psyllium Husk,0.00850856236105494
+1415,Face Mask,Shilajit Capsules,0.0031896503493184227
+1416,Face Mask,Skin Cream,0.0031678173848995973
+1417,Face Mask,Tablets,0.007418620892059749
+1418,Face Mask,Thermometer,0.003840918764243437
+1419,Face Mask,Vaporizer,0.010609424106778993
+1420,Gel,3 Ply Mask,0.010178303638842477
+1421,Gel,Adhesive Bandage,0.012548388618772647
+1422,Gel,Adult Diaper,0.0028150556140814874
+1423,Gel,Antacid,0.02967770855104788
+1424,Gel,Antifungal Cream,0.0043374637069113885
+1425,Gel,Antiseptic Cream,0.0036066250554557065
+1426,Gel,Antiseptic Liquid,0.008696524537993456
+1427,Gel,Ayurvedic Cream,0.0039824422828410155
+1428,Gel,Balm & Ointment,0.007972308709527804
+1429,Gel,COVID self test kit,0.007912686597206927
+1430,Gel,Capsules,0.002759213935213616
+1431,Gel,Chest rubs & balms,0.006504500723653476
+1432,Gel,Condom,0.006404652460224642
+1433,Gel,Corn Cap,0.004222781195573576
+1434,Gel,Coronil Kit,0.0032724853882012852
+1435,Gel,Cotton Balls,0.0030490922602775445
+1436,Gel,Cough Syrup,0.011739412827646461
+1437,Gel,Digestive Syrup,0.007916338887545516
+1438,Gel,Digestive Tablets,0.02044601400811797
+1439,Gel,Digital Thermometer,0.009216783597669647
+1440,Gel,Drops,0.016550345194059884
+1441,Gel,Ear Buds,0.01068435363923934
+1442,Gel,Eye Drops,0.004123772699805843
+1443,Gel,Face Mask,0.0011687306291066216
+1444,Gel,Glucometer Kit,0.006762470716980243
+1445,Gel,Hand Gloves,0.005010900337797258
+1446,Gel,Hand Sanitizer,0.004422499632747861
+1447,Gel,Health Syrup,0.010015525665573965
+1448,Gel,Inhaler,0.008387634669510476
+1449,Gel,Lens Solution,0.004323963008983307
+1450,Gel,Lozenges,0.015351107824525211
+1451,Gel,Lubricant,0.0055355153372903245
+1452,Gel,Mask,0.002066597382567568
+1453,Gel,Mouth Gel,0.013918178918721921
+1454,Gel,Nasal Spray,0.02044340480175822
+1455,Gel,ORS,0.020353853895942086
+1456,Gel,Ointment,0.005597696909554204
+1457,Gel,Pain Relief Patch,0.006993900481584914
+1458,Gel,Pain Relief Spray,0.009926485963348466
+1459,Gel,Pain Relieving Cream,0.0017636272872466256
+1460,Gel,Pain Relieving Oil,0.005534012278384771
+1461,Gel,Pain Relieving Roll On,0.009905489571728564
+1462,Gel,Pregnancy Test Kit,0.00378774122552402
+1463,Gel,Psyllium Husk,0.008911182512181377
+1464,Gel,Shilajit Capsules,0.009235728702136434
+1465,Gel,Skin Cream,0.0020383357101679232
+1466,Gel,Tablets,0.013425525214249997
+1467,Gel,Vaporizer,0.006719979700315982
+1468,Glucometer Kit,Adult Diaper,0.002250141622745213
+1469,Glucometer Kit,Antacid,0.007491191324141657
+1470,Glucometer Kit,Balm & Ointment,0.002124152665279388
+1471,Glucometer Kit,COVID self test kit,0.001664421212689265
+1472,Glucometer Kit,Chest rubs & balms,0.0021663349118599584
+1473,Glucometer Kit,Condom,0.0003999525524436002
+1474,Glucometer Kit,Digital Thermometer,0.010524566699352861
+1475,Glucometer Kit,Drops,0.004724674558276435
+1476,Glucometer Kit,Face Mask,0.002335486216662256
+1477,Glucometer Kit,Gel,0.006762470716980243
+1478,Glucometer Kit,Glucometer Test Strips,0.15393156857680898
+1479,Glucometer Kit,Hand Sanitizer,0.004158835609182859
+1480,Glucometer Kit,Inhaler,0.009577768599382879
+1481,Glucometer Kit,Lens Solution,0.008640618939333617
+1482,Glucometer Kit,Lozenges,0.006346815261486801
+1483,Glucometer Kit,Lubricant,0.0022123352379746107
+1484,Glucometer Kit,Mask,0.0020648512078725264
+1485,Glucometer Kit,ORS,0.005515025322092241
+1486,Glucometer Kit,Oximeter,0.0066130971141962905
+1487,Glucometer Kit,Pain Relief Spray,0.0017248867066934218
+1488,Glucometer Kit,Tablets,0.005365672518277428
+1489,Glucometer Kit,Vaporizer,0.007673487591935514
+1490,Glucometer Test Strips,3 Ply Mask,0.003341608905896002
+1491,Glucometer Test Strips,Adhesive Bandage,0.003880899918492259
+1492,Glucometer Test Strips,Antacid,0.005333230093532748
+1493,Glucometer Test Strips,Antifungal Cream,0.0030853765398447326
+1494,Glucometer Test Strips,Antiseptic Liquid,0.0021833349897372244
+1495,Glucometer Test Strips,Chest rubs & balms,0.0015422864060845433
+1496,Glucometer Test Strips,Condom,0.001138958489447924
+1497,Glucometer Test Strips,Digital Thermometer,0.007492791655379687
+1498,Glucometer Test Strips,Drops,0.0016818270583441282
+1499,Glucometer Test Strips,Eye Drops,0.005866742595844412
+1500,Glucometer Test Strips,Glucometer Kit,0.15393156857680898
+1501,Glucometer Test Strips,Hand Sanitizer,0.0014804072052912775
+1502,Glucometer Test Strips,Lens Solution,0.006151546123978246
+1503,Glucometer Test Strips,Lozenges,0.001506170144196336
+1504,Glucometer Test Strips,Lubricant,0.0015750355794712067
+1505,Glucometer Test Strips,Mask,0.004410110271114322
+1506,Glucometer Test Strips,ORS,0.003926331305888468
+1507,Glucometer Test Strips,Pain Relief Patch,0.0028428485171456725
+1508,Glucometer Test Strips,Pain Relief Spray,0.0024560092765020932
+1509,Glucometer Test Strips,Psyllium Husk,0.00447445332759773
+1510,Hand Gloves,3 Ply Mask,0.03246110742965844
+1511,Hand Gloves,Adhesive Bandage,0.023196976999965993
+1512,Hand Gloves,Adult Diaper,0.01976970883697684
+1513,Hand Gloves,Almond Oil,0.005143743029125328
+1514,Hand Gloves,Antacid,0.011762563280637593
+1515,Hand Gloves,Antifungal Cream,0.007798839630860753
+1516,Hand Gloves,Antiseptic Cream,0.00884981505795017
+1517,Hand Gloves,Antiseptic Liquid,0.02575425388735022
+1518,Hand Gloves,Ayurvedic Cream,0.00800291687428238
+1519,Hand Gloves,Balm & Ointment,0.010343222948671967
+1520,Hand Gloves,COVID self test kit,0.014271203158098655
+1521,Hand Gloves,Capsules,0.004085626154824967
+1522,Hand Gloves,Chest rubs & balms,0.010319304792939864
+1523,Hand Gloves,Condom,0.008848447662311246
+1524,Hand Gloves,Corn Cap,0.005955010481015253
+1525,Hand Gloves,Coronil Kit,0.0041534039996014615
+1526,Hand Gloves,Cotton Balls,0.006019806790177904
+1527,Hand Gloves,Cough Syrup,0.0033110087021737816
+1528,Hand Gloves,Cramp Relief Tablet,0.003820343512843945
+1529,Hand Gloves,Crepe Bandage,0.0031425209324802104
+1530,Hand Gloves,Digestive Tablets,0.008141134339957308
+1531,Hand Gloves,Digital Thermometer,0.008912643581842785
+1532,Hand Gloves,Drops,0.008002104329997284
+1533,Hand Gloves,Ear Buds,0.012122237570164156
+1534,Hand Gloves,Energy Drink Mix,0.001544221536521134
+1535,Hand Gloves,Eye Drops,0.002616924446259347
+1536,Hand Gloves,Face Mask,0.02027232165929878
+1537,Hand Gloves,Gel,0.005010900337797258
+1538,Hand Gloves,Hand Sanitizer,0.036539464122301676
+1539,Hand Gloves,Health Syrup,0.004237199908005348
+1540,Hand Gloves,Heat Patch,0.0051451548898823725
+1541,Hand Gloves,Inhaler,0.008617783780682498
+1542,Hand Gloves,Interdental Brushes,0.0041018069157904395
+1543,Hand Gloves,Lens Solution,0.0009146547208629531
+1544,Hand Gloves,Lozenges,0.01601227248579228
+1545,Hand Gloves,Lubricant,0.005386306967857448
+1546,Hand Gloves,Mask,0.0222946809341872
+1547,Hand Gloves,Mouth Gel,0.001682362489804069
+1548,Hand Gloves,Multipurpose Oil,0.0032741776487754345
+1549,Hand Gloves,Nasal Spray,0.004324425688562293
+1550,Hand Gloves,Nicotine Gum,0.000957975705929187
+1551,Hand Gloves,ORS,0.011967782820873739
+1552,Hand Gloves,Ointment,0.0071045379809864355
+1553,Hand Gloves,Oximeter,0.009800432992694638
+1554,Hand Gloves,PPE Kit,0.012305420747371319
+1555,Hand Gloves,Pain Relief Patch,0.010567362921859844
+1556,Hand Gloves,Pain Relief Spray,0.012050826624842356
+1557,Hand Gloves,Pain Relieving Cream,0.0022383771842240715
+1558,Hand Gloves,Pain Relieving Oil,0.0029265458823434388
+1559,Hand Gloves,Pain Relieving Roll On,0.0035919837349278278
+1560,Hand Gloves,Pregnancy Test Kit,0.004006134402786408
+1561,Hand Gloves,Psyllium Husk,0.0073182217195075895
+1562,Hand Gloves,Shilajit Capsules,0.001674555661184297
+1563,Hand Gloves,Skin Cream,0.002587034222265931
+1564,Hand Gloves,Tablets,0.007383798607571995
+1565,Hand Gloves,Thermometer,0.008469171394032683
+1566,Hand Gloves,Vaporizer,0.008528927482812733
+1567,Hand Gloves,Weight Machine,0.007104537980986436
+1568,Hand Sanitizer,3 Ply Mask,0.06945671327845188
+1569,Hand Sanitizer,Adhesive Bandage,0.04818995515965307
+1570,Hand Sanitizer,Adult Diaper,0.009175488708802939
+1571,Hand Sanitizer,Almond Oil,0.006797476724962163
+1572,Hand Sanitizer,Antacid,0.02516775121423363
+1573,Hand Sanitizer,Antifungal Cream,0.007002151741734767
+1574,Hand Sanitizer,Antiseptic Cream,0.01962956260152783
+1575,Hand Sanitizer,Antiseptic Liquid,0.06720711260963319
+1576,Hand Sanitizer,Ayurvedic Cream,0.010868114687749517
+1577,Hand Sanitizer,Balm & Ointment,0.01642461774198281
+1578,Hand Sanitizer,COVID self test kit,0.027788586618061776
+1579,Hand Sanitizer,Capsules,0.0038179852758829075
+1580,Hand Sanitizer,Chest rubs & balms,0.022667727824513803
+1581,Hand Sanitizer,Condom,0.019340034169188475
+1582,Hand Sanitizer,Corn Cap,0.007358047824919888
+1583,Hand Sanitizer,Coronil Kit,0.005534479284948911
+1584,Hand Sanitizer,Cotton Balls,0.015626282659144012
+1585,Hand Sanitizer,Cough Syrup,0.0072195932731987595
+1586,Hand Sanitizer,Cramp Relief Tablet,0.0006941823677612366
+1587,Hand Sanitizer,Crepe Bandage,0.003426104402885623
+1588,Hand Sanitizer,Digestive Syrup,0.0036513376661154165
+1589,Hand Sanitizer,Digestive Tablets,0.012943869855425567
+1590,Hand Sanitizer,Digital Thermometer,0.01072910721916482
+1591,Hand Sanitizer,Drops,0.01844809081918058
+1592,Hand Sanitizer,Ear Buds,0.02576030694268669
+1593,Hand Sanitizer,Energy Drink Mix,0.0016835732582154176
+1594,Hand Sanitizer,Eye Drops,0.003487094956206644
+1595,Hand Sanitizer,Face Mask,0.06738326624561236
+1596,Hand Sanitizer,Gel,0.004422499632747861
+1597,Hand Sanitizer,Glucometer Kit,0.004158835609182859
+1598,Hand Sanitizer,Glucometer Test Strips,0.0014804072052912775
+1599,Hand Sanitizer,Hand Gloves,0.036539464122301676
+1600,Hand Sanitizer,Health Syrup,0.007955922733367303
+1601,Hand Sanitizer,Heat Patch,0.0033656745397412885
+1602,Hand Sanitizer,Inhaler,0.01971204168263685
+1603,Hand Sanitizer,Lens Solution,0.00531836723208151
+1604,Hand Sanitizer,Lozenges,0.03300190029002077
+1605,Hand Sanitizer,Lubricant,0.00834046951111137
+1606,Hand Sanitizer,Mask,0.09325461760990948
+1607,Hand Sanitizer,Mix,0.0013332800031997866
+1608,Hand Sanitizer,Mouth Gel,0.005196843774790133
+1609,Hand Sanitizer,Multipurpose Oil,0.001189880640343712
+1610,Hand Sanitizer,Nasal Spray,0.005238516822027838
+1611,Hand Sanitizer,Nicotine Gum,0.004177696638413235
+1612,Hand Sanitizer,ORS,0.025618171982153617
+1613,Hand Sanitizer,Ointment,0.010040666315991396
+1614,Hand Sanitizer,Oximeter,0.013737640490869205
+1615,Hand Sanitizer,PPE Kit,0.009689240340636545
+1616,Hand Sanitizer,Pain Relief Patch,0.009831227528588407
+1617,Hand Sanitizer,Pain Relief Spray,0.02793548126316944
+1618,Hand Sanitizer,Pain Relieving Cream,0.0016269133584070636
+1619,Hand Sanitizer,Pain Relieving Oil,0.009997337415071597
+1620,Hand Sanitizer,Pain Relieving Roll On,0.008267379368389309
+1621,Hand Sanitizer,Pregnancy Test Kit,0.003785297539585414
+1622,Hand Sanitizer,Psyllium Husk,0.013539482461450715
+1623,Hand Sanitizer,Shilajit Capsules,0.004259893943801319
+1624,Hand Sanitizer,Skin Cream,0.01096857280938173
+1625,Hand Sanitizer,Tablets,0.015997029735532044
+1626,Hand Sanitizer,Thermometer,0.005813644787341777
+1627,Hand Sanitizer,Vaporizer,0.015497640603725125
+1628,Hand Sanitizer,Weight Machine,0.002581885624112073
+1629,Health Syrup,3 Ply Mask,0.008882595170612973
+1630,Health Syrup,Adhesive Bandage,0.014935958227194578
+1631,Health Syrup,Adult Diaper,0.0019439943478590915
+1632,Health Syrup,Almond Oil,0.0049068622398656244
+1633,Health Syrup,Antacid,0.016488096515107124
+1634,Health Syrup,Antifungal Cream,0.004813914306809881
+1635,Health Syrup,Antiseptic Cream,0.013164752485096886
+1636,Health Syrup,Antiseptic Liquid,0.011985893044683683
+1637,Health Syrup,Ayurvedic Cream,0.009330890286731947
+1638,Health Syrup,Balm & Ointment,0.019400126023996433
+1639,Health Syrup,COVID self test kit,0.003081354077467087
+1640,Health Syrup,Capsules,0.0006805113328791799
+1641,Health Syrup,Chest rubs & balms,0.011496910722113937
+1642,Health Syrup,Condom,0.011402696295022064
+1643,Health Syrup,Corn Cap,0.003471581070225392
+1644,Health Syrup,Coronil Kit,0.004842603971221436
+1645,Health Syrup,Cotton Balls,0.004512028179400498
+1646,Health Syrup,Cough Syrup,0.002895318615423761
+1647,Health Syrup,Cramp Relief Tablet,0.0022271383506761366
+1648,Health Syrup,Digestive Tablets,0.016907701647073115
+1649,Health Syrup,Digital Thermometer,0.003247366738798356
+1650,Health Syrup,Drops,0.025365782291881536
+1651,Health Syrup,Ear Buds,0.004791103491930099
+1652,Health Syrup,Eye Drops,0.0020341112522095093
+1653,Health Syrup,Face Mask,0.00547668817294568
+1654,Health Syrup,Gel,0.010015525665573965
+1655,Health Syrup,Hand Gloves,0.004237199908005348
+1656,Health Syrup,Hand Sanitizer,0.007955922733367303
+1657,Health Syrup,Heat Patch,0.0035993533262862806
+1658,Health Syrup,Inhaler,0.00591046226795365
+1659,Health Syrup,Lens Solution,0.0021328580528031387
+1660,Health Syrup,Lozenges,0.013577663803721256
+1661,Health Syrup,Lubricant,0.0032765687696290446
+1662,Health Syrup,Mask,0.00790019044246942
+1663,Health Syrup,Mouth Gel,0.0009807636428988019
+1664,Health Syrup,Multipurpose Oil,0.00763496432611217
+1665,Health Syrup,Nasal Spray,0.0016806681150122633
+1666,Health Syrup,ORS,0.013358087406695774
+1667,Health Syrup,Ointment,0.0036815279273172026
+1668,Health Syrup,Oximeter,0.0008161913824121578
+1669,Health Syrup,Pain Relief Patch,0.008871026905176051
+1670,Health Syrup,Pain Relief Spray,0.01234740443049886
+1671,Health Syrup,Pain Relieving Cream,0.001739869954452629
+1672,Health Syrup,Pain Relieving Oil,0.02047299426661788
+1673,Health Syrup,Pain Relieving Roll On,0.009772055476018686
+1674,Health Syrup,Pregnancy Test Kit,0.003269627914604326
+1675,Health Syrup,Psyllium Husk,0.013962402715332596
+1676,Health Syrup,Shilajit Capsules,0.00846050842823436
+1677,Health Syrup,Skin Cream,0.007540791962227172
+1678,Health Syrup,Tablets,0.030793866345937507
+1679,Health Syrup,Thermometer,0.001097168144213304
+1680,Health Syrup,Vaporizer,0.00142059786906945
+1681,Heat Patch,3 Ply Mask,0.005064718219036255
+1682,Heat Patch,Adhesive Bandage,0.012548471558923264
+1683,Heat Patch,Adult Diaper,0.0016186676768134517
+1684,Heat Patch,Almond Oil,0.003177767304894022
+1685,Heat Patch,Antacid,0.004939809139162024
+1686,Heat Patch,Antifungal Cream,0.004676358967791483
+1687,Heat Patch,Antiseptic Cream,0.0031107346709861577
+1688,Heat Patch,Antiseptic Liquid,0.004779922837519541
+1689,Heat Patch,Ayurvedic Cream,0.0014311996550273405
+1690,Heat Patch,Balm & Ointment,0.0068761617105217885
+1691,Heat Patch,COVID self test kit,0.005986611665571201
+1692,Heat Patch,Capsules,0.003966396248090466
+1693,Heat Patch,Chest rubs & balms,0.0023375703979259853
+1694,Heat Patch,Condom,0.004459518932723803
+1695,Heat Patch,Corn Cap,0.004046858727135582
+1696,Heat Patch,Cotton Balls,0.0058441321261352795
+1697,Heat Patch,Cough Syrup,0.00562517249328562
+1698,Heat Patch,Cramp Relief Tablet,0.0064904967568472395
+1699,Heat Patch,Digestive Tablets,0.0034578046354276255
+1700,Heat Patch,Digital Thermometer,0.0018927448562021801
+1701,Heat Patch,Drops,0.006797508133389966
+1702,Heat Patch,Ear Buds,0.0006981299941840425
+1703,Heat Patch,Face Mask,0.004200153459610251
+1704,Heat Patch,Hand Gloves,0.0051451548898823725
+1705,Heat Patch,Hand Sanitizer,0.0033656745397412885
+1706,Heat Patch,Health Syrup,0.0035993533262862806
+1707,Heat Patch,Inhaler,0.001722472075880462
+1708,Heat Patch,Lozenges,0.005326604947469116
+1709,Heat Patch,Lubricant,0.0031829423568601614
+1710,Heat Patch,Mask,0.0014853766864393171
+1711,Heat Patch,Mix,0.006232979933389714
+1712,Heat Patch,Nicotine Gum,0.0032550676092701495
+1713,Heat Patch,ORS,0.006198910670389348
+1714,Heat Patch,Oximeter,0.004757214583372884
+1715,Heat Patch,Pain Relief Patch,0.018671339873981438
+1716,Heat Patch,Pain Relief Spray,0.00806532315363465
+1717,Heat Patch,Pain Relieving Cream,0.0025352309822338644
+1718,Heat Patch,Pain Relieving Oil,0.007955195230692602
+1719,Heat Patch,Pain Relieving Roll On,0.014239235374752367
+1720,Heat Patch,Pregnancy Test Kit,0.002722457000147931
+1721,Heat Patch,Psyllium Husk,0.004521144539790718
+1722,Heat Patch,Shilajit Capsules,0.001896635394441441
+1723,Heat Patch,Skin Cream,0.0014650634751402383
+1724,Heat Patch,Tablets,0.0009649660027960551
+1725,Heat Patch,Vaporizer,0.0013800049525706606
+1726,Inhaler,3 Ply Mask,0.019405687867105496
+1727,Inhaler,Adhesive Bandage,0.03950502926364318
+1728,Inhaler,Adult Diaper,0.00498374639877663
+1729,Inhaler,Almond Oil,0.003130908035298397
+1730,Inhaler,Antacid,0.019910318927582493
+1731,Inhaler,Antifungal Cream,0.00844690276210296
+1732,Inhaler,Antiseptic Cream,0.008939186266421833
+1733,Inhaler,Antiseptic Liquid,0.02182643485671284
+1734,Inhaler,Ayurvedic Cream,0.00846057134480619
+1735,Inhaler,Balm & Ointment,0.03330926625698677
+1736,Inhaler,COVID self test kit,0.022266208033870884
+1737,Inhaler,Capsules,0.011235235148415549
+1738,Inhaler,Chest rubs & balms,0.15200464282713955
+1739,Inhaler,Condom,0.018602608621718936
+1740,Inhaler,Corn Cap,0.005980775788865754
+1741,Inhaler,Coronil Kit,0.0034761453067389085
+1742,Inhaler,Cotton Balls,0.006837571222820006
+1743,Inhaler,Cough Syrup,0.02009056147020533
+1744,Inhaler,Cramp Relief Tablet,0.0031973940347669524
+1745,Inhaler,Crepe Bandage,0.007013594562800733
+1746,Inhaler,Digestive Syrup,0.005606002982669075
+1747,Inhaler,Digestive Tablets,0.015330671743634967
+1748,Inhaler,Digital Thermometer,0.01212142420073449
+1749,Inhaler,Drops,0.021347555343831235
+1750,Inhaler,Ear Buds,0.015648255086579955
+1751,Inhaler,Eye Drops,0.010220960514924365
+1752,Inhaler,Face Mask,0.013449208863331378
+1753,Inhaler,Gel,0.008387634669510476
+1754,Inhaler,Glucometer Kit,0.009577768599382879
+1755,Inhaler,Hand Gloves,0.008617783780682498
+1756,Inhaler,Hand Sanitizer,0.01971204168263685
+1757,Inhaler,Health Syrup,0.00591046226795365
+1758,Inhaler,Heat Patch,0.001722472075880462
+1759,Inhaler,Interdental Brushes,0.008582404252537377
+1760,Inhaler,Lens Solution,0.002296530302989615
+1761,Inhaler,Lozenges,0.1649389964162949
+1762,Inhaler,Lubricant,0.010584022869303948
+1763,Inhaler,Mask,0.017378746179993736
+1764,Inhaler,Mix,0.003070534291049095
+1765,Inhaler,Mouth Gel,0.00704017292048541
+1766,Inhaler,Multipurpose Oil,0.0027402865862103157
+1767,Inhaler,Nasal Spray,0.019906040044969556
+1768,Inhaler,Nicotine Gum,0.0056123698251328786
+1769,Inhaler,ORS,0.021070880877131652
+1770,Inhaler,Ointment,0.006606737873995523
+1771,Inhaler,Oximeter,0.015818843792783432
+1772,Inhaler,PPE Kit,0.0034329617010149505
+1773,Inhaler,Pain Relief Patch,0.01415077908297084
+1774,Inhaler,Pain Relief Spray,0.0313271227785231
+1775,Inhaler,Pain Relieving Cream,0.007493539606933082
+1776,Inhaler,Pain Relieving Oil,0.008327756148560865
+1777,Inhaler,Pain Relieving Roll On,0.0180376251430152
+1778,Inhaler,Pregnancy Test Kit,0.006035201378615111
+1779,Inhaler,Psyllium Husk,0.011321792826852722
+1780,Inhaler,Shilajit Capsules,0.003737335321779383
+1781,Inhaler,Skin Cream,0.009382487980345152
+1782,Inhaler,Tablets,0.019727785291669592
+1783,Inhaler,Thermometer,0.008663329707866645
+1784,Inhaler,Vaporizer,0.027872936465822444
+1785,Interdental Brushes,3 Ply Mask,0.0033647345029762044
+1786,Interdental Brushes,Adhesive Bandage,0.00547086074897383
+1787,Interdental Brushes,Antacid,0.007160184934212699
+1788,Interdental Brushes,Antiseptic Liquid,0.00659533426418813
+1789,Interdental Brushes,COVID self test kit,0.003579473163229649
+1790,Interdental Brushes,Capsules,0.003952600045427075
+1791,Interdental Brushes,Condom,0.003440521947503774
+1792,Interdental Brushes,Cotton Balls,0.0029119023242275516
+1793,Interdental Brushes,Digestive Tablets,0.0034457774524290184
+1794,Interdental Brushes,Drops,0.0016934661388006186
+1795,Interdental Brushes,Ear Buds,0.0013914034171721074
+1796,Interdental Brushes,Face Mask,0.0016742176743686267
+1797,Interdental Brushes,Hand Gloves,0.0041018069157904395
+1798,Interdental Brushes,Inhaler,0.008582404252537377
+1799,Interdental Brushes,Lozenges,0.0015165935913649912
+1800,Interdental Brushes,Lubricant,0.006343742438932586
+1801,Interdental Brushes,Mask,0.0029604202863608873
+1802,Interdental Brushes,Mouth Gel,0.005696549391872194
+1803,Interdental Brushes,Nasal Spray,0.004880895105478522
+1804,Interdental Brushes,ORS,0.009883758682627912
+1805,Interdental Brushes,Pain Relief Spray,0.0024730060832957946
+1806,Interdental Brushes,Pain Relieving Oil,0.007927524902574902
+1807,Interdental Brushes,Psyllium Husk,0.003003612514670366
+1808,Interdental Brushes,Tablets,0.005769657534831771
+1809,Lens Solution,3 Ply Mask,0.0060023699033713955
+1810,Lens Solution,Adhesive Bandage,0.004531196914747994
+1811,Lens Solution,Adult Diaper,0.0028775072156079244
+1812,Lens Solution,Antacid,0.0019957963303677937
+1813,Lens Solution,Antifungal Cream,0.001385528034912755
+1814,Lens Solution,Antiseptic Liquid,0.001634091117038133
+1815,Lens Solution,Balm & Ointment,0.0013581955374740305
+1816,Lens Solution,COVID self test kit,0.0047890826079793666
+1817,Lens Solution,Capsules,0.01233936680013336
+1818,Lens Solution,Chest rubs & balms,0.0034629177766460047
+1819,Lens Solution,Condom,0.002940917797156623
+1820,Lens Solution,Cotton Balls,0.0025972799424502286
+1821,Lens Solution,Cough Syrup,0.0024999687505859254
+1822,Lens Solution,Digestive Tablets,0.0015367357257965778
+1823,Lens Solution,Digital Thermometer,0.0016823672514881022
+1824,Lens Solution,Drops,0.002265738242108924
+1825,Lens Solution,Ear Buds,0.003723199254188393
+1826,Lens Solution,Energy Drink Mix,0.00466384226987996
+1827,Lens Solution,Eye Drops,0.002634536250336668
+1828,Lens Solution,Face Mask,0.0014933234362820935
+1829,Lens Solution,Gel,0.004323963008983307
+1830,Lens Solution,Glucometer Kit,0.008640618939333617
+1831,Lens Solution,Glucometer Test Strips,0.006151546123978246
+1832,Lens Solution,Hand Gloves,0.0009146547208629531
+1833,Lens Solution,Hand Sanitizer,0.00531836723208151
+1834,Lens Solution,Health Syrup,0.0021328580528031387
+1835,Lens Solution,Inhaler,0.002296530302989615
+1836,Lens Solution,Lozenges,0.004058190499311234
+1837,Lens Solution,Lubricant,0.0007072899930237469
+1838,Lens Solution,Mask,0.008581805970205289
+1839,Lens Solution,Mouth Gel,0.002540527090071874
+1840,Lens Solution,ORS,0.0015427733940605556
+1841,Lens Solution,Pain Relief Patch,0.0025532354113988955
+1842,Lens Solution,Pain Relief Spray,0.00496306155243797
+1843,Lens Solution,Pregnancy Test Kit,0.0012099286614424092
+1844,Lens Solution,Psyllium Husk,0.005358162239398113
+1845,Lens Solution,Tablets,0.0017154210685965245
+1846,Lens Solution,Thermometer,0.022736449605731512
+1847,Lozenges,3 Ply Mask,0.03557766131306072
+1848,Lozenges,Adhesive Bandage,0.056666633566212515
+1849,Lozenges,Adult Diaper,0.007045408374594688
+1850,Lozenges,Almond Oil,0.004841039359772073
+1851,Lozenges,Antacid,0.0326912922037796
+1852,Lozenges,Antifungal Cream,0.01764039929797647
+1853,Lozenges,Antiseptic Cream,0.017601707466494306
+1854,Lozenges,Antiseptic Liquid,0.0331680966041736
+1855,Lozenges,Ayurvedic Cream,0.015106381307131794
+1856,Lozenges,Balm & Ointment,0.038575364496386266
+1857,Lozenges,COVID self test kit,0.04814087853845742
+1858,Lozenges,Capsules,0.011437482909619965
+1859,Lozenges,Chest rubs & balms,0.12438329104858215
+1860,Lozenges,Condom,0.025562362455483736
+1861,Lozenges,Corn Cap,0.009467710924710458
+1862,Lozenges,Coronil Kit,0.007166464621120131
+1863,Lozenges,Cotton Balls,0.011128754457082893
+1864,Lozenges,Cough Syrup,0.048968219926098774
+1865,Lozenges,Cramp Relief Tablet,0.006356366531392281
+1866,Lozenges,Crepe Bandage,0.003485727537722046
+1867,Lozenges,Digestive Syrup,0.001238293482006416
+1868,Lozenges,Digestive Tablets,0.023328167623248807
+1869,Lozenges,Digital Thermometer,0.016888629665216443
+1870,Lozenges,Drops,0.03485696615184908
+1871,Lozenges,Ear Buds,0.024841197946587974
+1872,Lozenges,Energy Drink Mix,0.0022838290870495007
+1873,Lozenges,Eye Drops,0.01032081304852545
+1874,Lozenges,Face Mask,0.023491825323942457
+1875,Lozenges,Gel,0.015351107824525211
+1876,Lozenges,Glucometer Kit,0.006346815261486801
+1877,Lozenges,Glucometer Test Strips,0.001506170144196336
+1878,Lozenges,Hand Gloves,0.01601227248579228
+1879,Lozenges,Hand Sanitizer,0.03300190029002077
+1880,Lozenges,Health Syrup,0.013577663803721256
+1881,Lozenges,Heat Patch,0.005326604947469116
+1882,Lozenges,Inhaler,0.1649389964162949
+1883,Lozenges,Interdental Brushes,0.0015165935913649912
+1884,Lozenges,Lens Solution,0.004058190499311234
+1885,Lozenges,Lubricant,0.012035719789322255
+1886,Lozenges,Mask,0.03127562938753528
+1887,Lozenges,Mix,0.005425930183252253
+1888,Lozenges,Mouth Gel,0.007464398659724886
+1889,Lozenges,Multipurpose Oil,0.0012105876607715511
+1890,Lozenges,Nasal Spray,0.01518958985451582
+1891,Lozenges,Nicotine Gum,0.0010625998586398001
+1892,Lozenges,ORS,0.03850240234393845
+1893,Lozenges,Ointment,0.010215400045968125
+1894,Lozenges,Oximeter,0.016306163060594285
+1895,Lozenges,PPE Kit,0.0037914839784124778
+1896,Lozenges,Pain Relief Patch,0.025943508366084632
+1897,Lozenges,Pain Relief Spray,0.031459572947469386
+1898,Lozenges,Pain Relieving Cream,0.004689806676249515
+1899,Lozenges,Pain Relieving Oil,0.015148770162915659
+1900,Lozenges,Pain Relieving Roll On,0.02634050372260787
+1901,Lozenges,Pregnancy Test Kit,0.006961733222670915
+1902,Lozenges,Psyllium Husk,0.017300875545651115
+1903,Lozenges,Shilajit Capsules,0.007636143139039565
+1904,Lozenges,Skin Cream,0.010043509074934275
+1905,Lozenges,Supplement,0.0040694476374391894
+1906,Lozenges,Tablets,0.025410655263486997
+1907,Lozenges,Thermometer,0.012525495542870049
+1908,Lozenges,Vaporizer,0.0273300558109528
+1909,Lubricant,3 Ply Mask,0.010757884567384524
+1910,Lubricant,Adhesive Bandage,0.013297253130263885
+1911,Lubricant,Adult Diaper,0.0016576965116100583
+1912,Lubricant,Almond Oil,0.0014463949721639337
+1913,Lubricant,Antacid,0.012161839309863115
+1914,Lubricant,Antifungal Cream,0.006030736082464629
+1915,Lubricant,Antiseptic Cream,0.005191575941818376
+1916,Lubricant,Antiseptic Liquid,0.008702533189100702
+1917,Lubricant,Ayurvedic Cream,0.004559981429113284
+1918,Lubricant,Balm & Ointment,0.005737891444319271
+1919,Lubricant,COVID self test kit,0.008992073302581675
+1920,Lubricant,Capsules,0.008124065635346043
+1921,Lubricant,Chest rubs & balms,0.007447792183532782
+1922,Lubricant,Condom,0.1678184615605281
+1923,Lubricant,Corn Cap,0.005525913845521659
+1924,Lubricant,Coronil Kit,0.0010705901796950997
+1925,Lubricant,Cotton Balls,0.0033250245034011743
+1926,Lubricant,Cough Syrup,0.0032004472130923224
+1927,Lubricant,Crepe Bandage,0.005670159789622435
+1928,Lubricant,Digestive Tablets,0.006688892145987834
+1929,Lubricant,Digital Thermometer,0.006030522271308649
+1930,Lubricant,Drops,0.010248739014978959
+1931,Lubricant,Ear Buds,0.01000948336475405
+1932,Lubricant,Eye Drops,0.005396351741247661
+1933,Lubricant,Face Mask,0.004588188067974215
+1934,Lubricant,Gel,0.0055355153372903245
+1935,Lubricant,Glucometer Kit,0.0022123352379746107
+1936,Lubricant,Glucometer Test Strips,0.0015750355794712067
+1937,Lubricant,Hand Gloves,0.005386306967857448
+1938,Lubricant,Hand Sanitizer,0.00834046951111137
+1939,Lubricant,Health Syrup,0.0032765687696290446
+1940,Lubricant,Heat Patch,0.0031829423568601614
+1941,Lubricant,Inhaler,0.010584022869303948
+1942,Lubricant,Interdental Brushes,0.006343742438932586
+1943,Lubricant,Lens Solution,0.0007072899930237469
+1944,Lubricant,Lozenges,0.012035719789322255
+1945,Lubricant,Mask,0.010141277656138842
+1946,Lubricant,Mouth Gel,0.0019514218751655434
+1947,Lubricant,Multipurpose Oil,0.0012659384101664038
+1948,Lubricant,Nasal Spray,0.0016720096367125316
+1949,Lubricant,Nicotine Gum,0.005926316148889995
+1950,Lubricant,ORS,0.014671804542210273
+1951,Lubricant,Ointment,0.0024417076031915874
+1952,Lubricant,Oximeter,0.005413243477817325
+1953,Lubricant,PPE Kit,0.0015859356097331465
+1954,Lubricant,Pain Relief Patch,0.002941775027939266
+1955,Lubricant,Pain Relief Spray,0.012707372050297025
+1956,Lubricant,Pain Relieving Cream,0.0011539376531220194
+1957,Lubricant,Pain Relieving Oil,0.0036208926835314703
+1958,Lubricant,Pain Relieving Roll On,0.0032405705763574643
+1959,Lubricant,Pregnancy Test Kit,0.005576200151272587
+1960,Lubricant,Psyllium Husk,0.0063450300117480025
+1961,Lubricant,Shilajit Capsules,0.013380747030159297
+1962,Lubricant,Skin Cream,0.0016670985011082579
+1963,Lubricant,Tablets,0.013835261674767743
+1964,Lubricant,Thermometer,0.0014553543271135466
+1965,Lubricant,Vaporizer,0.005967178939726659
+1966,Mask,3 Ply Mask,0.08092339375345628
+1967,Mask,Adhesive Bandage,0.03539993161718568
+1968,Mask,Adult Diaper,0.0034381936592311774
+1969,Mask,Almond Oil,0.0033749297507773574
+1970,Mask,Antacid,0.018314343417604764
+1971,Mask,Antifungal Cream,0.007946400848876661
+1972,Mask,Antiseptic Cream,0.011232709614652586
+1973,Mask,Antiseptic Liquid,0.029287442026550314
+1974,Mask,Ayurvedic Cream,0.008815985383249406
+1975,Mask,Balm & Ointment,0.014281008744154954
+1976,Mask,COVID self test kit,0.037003833424447685
+1977,Mask,Capsules,0.007161230703312204
+1978,Mask,Chest rubs & balms,0.014233592763444098
+1979,Mask,Condom,0.014972524724518318
+1980,Mask,Corn Cap,0.005587326379335335
+1981,Mask,Coronil Kit,0.007993759310017412
+1982,Mask,Cotton Balls,0.011172109307457875
+1983,Mask,Cough Syrup,0.0011948365112578448
+1984,Mask,Crepe Bandage,0.0045361387845997015
+1985,Mask,Digestive Syrup,0.009668692167690975
+1986,Mask,Digestive Tablets,0.00973170579672283
+1987,Mask,Digital Thermometer,0.01688550313118062
+1988,Mask,Drops,0.015701879574239096
+1989,Mask,Ear Buds,0.01838783606168924
+1990,Mask,Energy Drink Mix,0.001114519736595545
+1991,Mask,Eye Drops,0.0037774553398679305
+1992,Mask,Face Mask,0.12329510706671484
+1993,Mask,Gel,0.002066597382567568
+1994,Mask,Glucometer Kit,0.0020648512078725264
+1995,Mask,Glucometer Test Strips,0.004410110271114322
+1996,Mask,Hand Gloves,0.0222946809341872
+1997,Mask,Hand Sanitizer,0.09325461760990948
+1998,Mask,Health Syrup,0.00790019044246942
+1999,Mask,Heat Patch,0.0014853766864393171
+2000,Mask,Inhaler,0.017378746179993736
+2001,Mask,Interdental Brushes,0.0029604202863608873
+2002,Mask,Lens Solution,0.008581805970205289
+2003,Mask,Lozenges,0.03127562938753528
+2004,Mask,Lubricant,0.010141277656138842
+2005,Mask,Mix,0.0026478804009089345
+2006,Mask,Mouth Gel,0.004856883950003102
+2007,Mask,Multipurpose Oil,0.002363090738198804
+2008,Mask,Nasal Spray,0.006762366414581628
+2009,Mask,Nicotine Gum,0.0006914052201618913
+2010,Mask,ORS,0.017854500638765702
+2011,Mask,Ointment,0.005127598347734661
+2012,Mask,Oximeter,0.01616759289180741
+2013,Mask,PPE Kit,0.010361471002263105
+2014,Mask,Pain Relief Patch,0.013728316611931439
+2015,Mask,Pain Relief Spray,0.018976388081916873
+2016,Mask,Pain Relieving Cream,0.0026925276919604153
+2017,Mask,Pain Relieving Oil,0.008026331495437137
+2018,Mask,Pain Relieving Roll On,0.005184925441625524
+2019,Mask,Pregnancy Test Kit,0.0037587810297246027
+2020,Mask,Psyllium Husk,0.009283201459312676
+2021,Mask,Shilajit Capsules,0.004834346083845487
+2022,Mask,Skin Cream,0.0059126569605552695
+2023,Mask,Tablets,0.011683138068646121
+2024,Mask,Thermometer,0.00475416894792547
+2025,Mask,Vaporizer,0.013776888501777124
+2026,Mask,Weight Machine,0.005127598347734662
+2027,Mix,3 Ply Mask,0.0030095100299575043
+2028,Mix,Adhesive Bandage,0.0027961637783179187
+2029,Mix,Almond Oil,0.002832395257747249
+2030,Mix,Antacid,0.0024015990366554173
+2031,Mix,Antifungal Cream,0.002778742786588469
+2032,Mix,Antiseptic Liquid,0.004588147121929222
+2033,Mix,Ayurvedic Cream,0.002551302676911473
+2034,Mix,Balm & Ointment,0.002723926154818123
+2035,Mix,Chest rubs & balms,0.0041670284035833245
+2036,Mix,Condom,0.00076932409526984
+2037,Mix,Cotton Balls,0.002604484616324975
+2038,Mix,Digestive Tablets,0.0015409985237934663
+2039,Mix,Drops,0.0015146821615809108
+2040,Mix,Ear Buds,0.002489018099937864
+2041,Mix,Hand Sanitizer,0.0013332800031997866
+2042,Mix,Heat Patch,0.006232979933389714
+2043,Mix,Inhaler,0.003070534291049095
+2044,Mix,Lozenges,0.005425930183252253
+2045,Mix,Mask,0.0026478804009089345
+2046,Mix,ORS,0.0013260453772535867
+2047,Mix,Pain Relieving Cream,0.00451938453788867
+2048,Mix,Pain Relieving Roll On,0.0036261886214694746
+2049,Mix,Skin Cream,0.0026116694151237137
+2050,Mix,Tablets,0.0034403590546073864
+2051,Mouth Gel,3 Ply Mask,0.006440238432344801
+2052,Mouth Gel,Adhesive Bandage,0.013783846878731585
+2053,Mouth Gel,Adult Diaper,0.0013231796909963889
+2054,Mouth Gel,Almond Oil,0.006494163719920703
+2055,Mouth Gel,Antacid,0.009544473229047537
+2056,Mouth Gel,Antifungal Cream,0.007645378112660788
+2057,Mouth Gel,Antiseptic Cream,0.002542869669721332
+2058,Mouth Gel,Antiseptic Liquid,0.007213564299236109
+2059,Mouth Gel,Ayurvedic Cream,0.004679735919657741
+2060,Mouth Gel,Balm & Ointment,0.008119103105603336
+2061,Mouth Gel,COVID self test kit,0.010276885418294216
+2062,Mouth Gel,Capsules,0.004863495179179787
+2063,Mouth Gel,Chest rubs & balms,0.006369488769716699
+2064,Mouth Gel,Condom,0.007643650251032468
+2065,Mouth Gel,Corn Cap,0.0033081041629364786
+2066,Mouth Gel,Cotton Balls,0.004777285079309669
+2067,Mouth Gel,Cough Syrup,0.009196593109364791
+2068,Mouth Gel,Cramp Relief Tablet,0.010611311532512865
+2069,Mouth Gel,Digestive Tablets,0.004946518445692683
+2070,Mouth Gel,Digital Thermometer,0.0015472240471836127
+2071,Mouth Gel,Drops,0.006945777722261387
+2072,Mouth Gel,Ear Buds,0.003994803938130093
+2073,Mouth Gel,Eye Drops,0.007268718235139755
+2074,Mouth Gel,Face Mask,0.004806780892092284
+2075,Mouth Gel,Gel,0.013918178918721921
+2076,Mouth Gel,Hand Gloves,0.001682362489804069
+2077,Mouth Gel,Hand Sanitizer,0.005196843774790133
+2078,Mouth Gel,Health Syrup,0.0009807636428988019
+2079,Mouth Gel,Inhaler,0.00704017292048541
+2080,Mouth Gel,Interdental Brushes,0.005696549391872194
+2081,Mouth Gel,Lens Solution,0.002540527090071874
+2082,Mouth Gel,Lozenges,0.007464398659724886
+2083,Mouth Gel,Lubricant,0.0019514218751655434
+2084,Mouth Gel,Mask,0.004856883950003102
+2085,Mouth Gel,Nasal Spray,0.0020019067232332063
+2086,Mouth Gel,ORS,0.007499602159123013
+2087,Mouth Gel,Ointment,0.01973342594909646
+2088,Mouth Gel,Oximeter,0.0038887844692263493
+2089,Mouth Gel,Pain Relief Patch,0.009392544281025083
+2090,Mouth Gel,Pain Relief Spray,0.008114458348739459
+2091,Mouth Gel,Pain Relieving Oil,0.014631690040751969
+2092,Mouth Gel,Pain Relieving Roll On,0.01330269849744975
+2093,Mouth Gel,Psyllium Husk,0.0024638726943165858
+2094,Mouth Gel,Tablets,0.014987415439338672
+2095,Mouth Gel,Thermometer,0.0026137561185325233
+2096,Mouth Gel,Vaporizer,0.00564042438380752
+2097,Mouth Gel,Weight Machine,0.01973342594909646
+2098,Multipurpose Oil,3 Ply Mask,0.0008952752392527174
+2099,Multipurpose Oil,Adhesive Bandage,0.0056147077604842745
+2100,Multipurpose Oil,Almond Oil,0.017694322216147747
+2101,Multipurpose Oil,Antifungal Cream,0.004959756747751824
+2102,Multipurpose Oil,Antiseptic Cream,0.00989775638342982
+2103,Multipurpose Oil,Antiseptic Liquid,0.006434488270134275
+2104,Multipurpose Oil,Ayurvedic Cream,0.006830700953202151
+2105,Multipurpose Oil,Chest rubs & balms,0.006198080939845893
+2106,Multipurpose Oil,Condom,0.0020597410406995075
+2107,Multipurpose Oil,Digestive Tablets,0.0027505164794485054
+2108,Multipurpose Oil,Drops,0.0013517723029023976
+2109,Multipurpose Oil,Hand Gloves,0.0032741776487754345
+2110,Multipurpose Oil,Hand Sanitizer,0.001189880640343712
+2111,Multipurpose Oil,Health Syrup,0.00763496432611217
+2112,Multipurpose Oil,Inhaler,0.0027402865862103157
+2113,Multipurpose Oil,Lozenges,0.0012105876607715511
+2114,Multipurpose Oil,Lubricant,0.0012659384101664038
+2115,Multipurpose Oil,Mask,0.002363090738198804
+2116,Multipurpose Oil,ORS,0.0003944747086945008
+2117,Multipurpose Oil,Pain Relief Patch,0.002284945926966028
+2118,Multipurpose Oil,Pain Relief Spray,0.0029610345182419784
+2119,Multipurpose Oil,Pain Relieving Oil,0.006327973349062317
+2120,Multipurpose Oil,Shilajit Capsules,0.0060347271843729814
+2121,Multipurpose Oil,Skin Cream,0.0046615487648138595
+2122,Multipurpose Oil,Tablets,0.0015351676411121842
+2123,Multipurpose Oil,Vaporizer,0.0021954544943784764
+2124,Nasal Spray,3 Ply Mask,0.0067005497960589975
+2125,Nasal Spray,Adhesive Bandage,0.014007472149327092
+2126,Nasal Spray,Adult Diaper,0.002267443265450319
+2127,Nasal Spray,Almond Oil,0.0011128607770859579
+2128,Nasal Spray,Antacid,0.011008655153911737
+2129,Nasal Spray,Antifungal Cream,0.004367121923886222
+2130,Nasal Spray,Antiseptic Cream,0.0029050288214876813
+2131,Nasal Spray,Antiseptic Liquid,0.004893052478818735
+2132,Nasal Spray,Ayurvedic Cream,0.0030072547309665234
+2133,Nasal Spray,Balm & Ointment,0.0048160925142347304
+2134,Nasal Spray,COVID self test kit,0.010063315032537202
+2135,Nasal Spray,Capsules,0.001389040287526022
+2136,Nasal Spray,Chest rubs & balms,0.01582669311252128
+2137,Nasal Spray,Condom,0.006246931544996889
+2138,Nasal Spray,Corn Cap,0.0014172184164967952
+2139,Nasal Spray,Cotton Balls,0.005116568328703363
+2140,Nasal Spray,Cough Syrup,0.009849736043415491
+2141,Nasal Spray,Crepe Bandage,0.009971745202768808
+2142,Nasal Spray,Digestive Syrup,0.015940936661960343
+2143,Nasal Spray,Digestive Tablets,0.008476513064273038
+2144,Nasal Spray,Digital Thermometer,0.010605491513514602
+2145,Nasal Spray,Drops,0.007736630230522955
+2146,Nasal Spray,Ear Buds,0.010268436722475599
+2147,Nasal Spray,Energy Drink Mix,0.0036750551618435086
+2148,Nasal Spray,Eye Drops,0.004151969764669084
+2149,Nasal Spray,Face Mask,0.0029418051068393265
+2150,Nasal Spray,Gel,0.02044340480175822
+2151,Nasal Spray,Hand Gloves,0.004324425688562293
+2152,Nasal Spray,Hand Sanitizer,0.005238516822027838
+2153,Nasal Spray,Health Syrup,0.0016806681150122633
+2154,Nasal Spray,Inhaler,0.019906040044969556
+2155,Nasal Spray,Interdental Brushes,0.004880895105478522
+2156,Nasal Spray,Lozenges,0.01518958985451582
+2157,Nasal Spray,Lubricant,0.0016720096367125316
+2158,Nasal Spray,Mask,0.006762366414581628
+2159,Nasal Spray,Mouth Gel,0.0020019067232332063
+2160,Nasal Spray,ORS,0.012156880523197884
+2161,Nasal Spray,Ointment,0.005635972206068703
+2162,Nasal Spray,Oximeter,0.004997959583003725
+2163,Nasal Spray,Pain Relief Patch,0.0100596036862806
+2164,Nasal Spray,Pain Relief Spray,0.007821673170479531
+2165,Nasal Spray,Pain Relieving Cream,0.0017756864177160174
+2166,Nasal Spray,Pain Relieving Oil,0.0013929630298393295
+2167,Nasal Spray,Pain Relieving Roll On,0.0056989829736664305
+2168,Nasal Spray,Pregnancy Test Kit,0.0038136406125164946
+2169,Nasal Spray,Psyllium Husk,0.005805485778157014
+2170,Nasal Spray,Shilajit Capsules,0.0013284113884966951
+2171,Nasal Spray,Skin Cream,0.0030784098160627155
+2172,Nasal Spray,Tablets,0.013517324746582873
+2173,Nasal Spray,Vaporizer,0.008699051333189583
+2174,Nicotine Gum,3 Ply Mask,0.0005238884515901644
+2175,Nicotine Gum,Adhesive Bandage,0.0021903733628901487
+2176,Nicotine Gum,Adult Diaper,0.0007534487996704283
+2177,Nicotine Gum,Antacid,0.00292645311592506
+2178,Nicotine Gum,Antifungal Cream,0.001451151092379374
+2179,Nicotine Gum,Antiseptic Cream,0.0019306242514722362
+2180,Nicotine Gum,Antiseptic Liquid,0.002738379072566813
+2181,Nicotine Gum,Ayurvedic Cream,0.001332374368890739
+2182,Nicotine Gum,Balm & Ointment,0.002845048080162937
+2183,Nicotine Gum,COVID self test kit,0.0005573232156457576
+2184,Nicotine Gum,Capsules,0.003692513954469319
+2185,Nicotine Gum,Condom,0.00388374192006954
+2186,Nicotine Gum,Corn Cap,0.0018837102229647502
+2187,Nicotine Gum,Cotton Balls,0.0013601477309475802
+2188,Nicotine Gum,Digestive Tablets,0.005633321627916303
+2189,Nicotine Gum,Drops,0.004746101763706462
+2190,Nicotine Gum,Ear Buds,0.0032496182735136624
+2191,Nicotine Gum,Face Mask,0.0007820260150755218
+2192,Nicotine Gum,Hand Gloves,0.000957975705929187
+2193,Nicotine Gum,Hand Sanitizer,0.004177696638413235
+2194,Nicotine Gum,Heat Patch,0.0032550676092701495
+2195,Nicotine Gum,Inhaler,0.0056123698251328786
+2196,Nicotine Gum,Lozenges,0.0010625998586398001
+2197,Nicotine Gum,Lubricant,0.005926316148889995
+2198,Nicotine Gum,Mask,0.0006914052201618913
+2199,Nicotine Gum,ORS,0.0006925046128895803
+2200,Nicotine Gum,Pain Relief Patch,0.0026741648404007322
+2201,Nicotine Gum,Pain Relief Spray,0.004620558299401918
+2202,Nicotine Gum,Pain Relieving Roll On,0.0018937152458358883
+2203,Nicotine Gum,Psyllium Husk,0.00420895650841419
+2204,Nicotine Gum,Tablets,0.0017966689196160434
+2205,Nicotine Gum,Vaporizer,0.001284714694619112
+2206,ORS,3 Ply Mask,0.029850786535415366
+2207,ORS,Adhesive Bandage,0.03617924931014539
+2208,ORS,Adult Diaper,0.008551757349611897
+2209,ORS,Almond Oil,0.005295797339707917
+2210,ORS,Antacid,0.04372496029687508
+2211,ORS,Antifungal Cream,0.008622289322553787
+2212,ORS,Antiseptic Cream,0.011250570572167048
+2213,ORS,Antiseptic Liquid,0.027978128334517325
+2214,ORS,Ayurvedic Cream,0.011367360885529025
+2215,ORS,Balm & Ointment,0.019559249047397892
+2216,ORS,COVID self test kit,0.032265327848149734
+2217,ORS,Capsules,0.006750698979100951
+2218,ORS,Chest rubs & balms,0.020942284568018475
+2219,ORS,Condom,0.028676659936602067
+2220,ORS,Corn Cap,0.0071746291031269185
+2221,ORS,Coronil Kit,0.008006470062837983
+2222,ORS,Cotton Balls,0.008599625316158472
+2223,ORS,Cough Syrup,0.00877606695006179
+2224,ORS,Cramp Relief Tablet,0.005063047768334282
+2225,ORS,Crepe Bandage,0.003786126357163722
+2226,ORS,Digestive Syrup,0.002421016551324124
+2227,ORS,Digestive Tablets,0.030712812551528863
+2228,ORS,Digital Thermometer,0.02671077896117281
+2229,ORS,Drops,0.03675623219422278
+2230,ORS,Ear Buds,0.018120024689823887
+2231,ORS,Energy Drink Mix,0.0007441946114399474
+2232,ORS,Eye Drops,0.009668846855634964
+2233,ORS,Face Mask,0.018467080838825405
+2234,ORS,Gel,0.020353853895942086
+2235,ORS,Glucometer Kit,0.005515025322092241
+2236,ORS,Glucometer Test Strips,0.003926331305888468
+2237,ORS,Hand Gloves,0.011967782820873739
+2238,ORS,Hand Sanitizer,0.025618171982153617
+2239,ORS,Health Syrup,0.013358087406695774
+2240,ORS,Heat Patch,0.006198910670389348
+2241,ORS,Inhaler,0.021070880877131652
+2242,ORS,Interdental Brushes,0.009883758682627912
+2243,ORS,Lens Solution,0.0015427733940605556
+2244,ORS,Lozenges,0.03850240234393845
+2245,ORS,Lubricant,0.014671804542210273
+2246,ORS,Mask,0.017854500638765702
+2247,ORS,Mix,0.0013260453772535867
+2248,ORS,Mouth Gel,0.007499602159123013
+2249,ORS,Multipurpose Oil,0.0003944747086945008
+2250,ORS,Nasal Spray,0.012156880523197884
+2251,ORS,Nicotine Gum,0.0006925046128895803
+2252,ORS,Ointment,0.01065192937390498
+2253,ORS,Oximeter,0.008940051445105957
+2254,ORS,PPE Kit,0.0009883758682627912
+2255,ORS,Pain Relief Patch,0.01812982186364939
+2256,ORS,Pain Relief Spray,0.02762990978134113
+2257,ORS,Pain Relieving Cream,0.006292554423223537
+2258,ORS,Pain Relieving Oil,0.009872571629034287
+2259,ORS,Pain Relieving Roll On,0.012694415338569773
+2260,ORS,Pregnancy Test Kit,0.009556692900276952
+2261,ORS,Psyllium Husk,0.03767277923305502
+2262,ORS,Shilajit Capsules,0.007128548734454367
+2263,ORS,Skin Cream,0.007792182348388603
+2264,ORS,Supplement,0.0026520907545071735
+2265,ORS,Tablets,0.030793987488068983
+2266,ORS,Thermometer,0.008616461055983557
+2267,ORS,Vaporizer,0.011156472487475378
+2268,ORS,Weight Machine,0.0017119172208061577
+2269,Ointment,3 Ply Mask,0.005180347656119823
+2270,Ointment,Adhesive Bandage,0.03970815107121014
+2271,Ointment,Adult Diaper,0.0012417168551599718
+2272,Ointment,Almond Oil,0.0012188688514591065
+2273,Ointment,Antacid,0.007923374840162471
+2274,Ointment,Antiseptic Cream,0.008749823287894696
+2275,Ointment,Antiseptic Liquid,0.03525757419282025
+2276,Ointment,Ayurvedic Cream,0.0065874351858750246
+2277,Ointment,Balm & Ointment,0.009963625043136654
+2278,Ointment,COVID self test kit,0.008725685798356867
+2279,Ointment,Chest rubs & balms,0.010759221073500996
+2280,Ointment,Condom,0.005517739645955883
+2281,Ointment,Corn Cap,0.00620887506919014
+2282,Ointment,Coronil Kit,0.003608721124786838
+2283,Ointment,Cotton Balls,0.01344950072597339
+2284,Ointment,Cough Syrup,0.002157598992723937
+2285,Ointment,Cramp Relief Tablet,0.004979007943869121
+2286,Ointment,Crepe Bandage,0.010921626381844232
+2287,Ointment,Digestive Tablets,0.009947102698637184
+2288,Ointment,Digital Thermometer,0.011615741633095925
+2289,Ointment,Drops,0.00651815420733369
+2290,Ointment,Ear Buds,0.008033271374556812
+2291,Ointment,Eye Drops,0.009094950100778423
+2292,Ointment,Face Mask,0.009021693566468387
+2293,Ointment,Gel,0.005597696909554204
+2294,Ointment,Hand Gloves,0.0071045379809864355
+2295,Ointment,Hand Sanitizer,0.010040666315991396
+2296,Ointment,Health Syrup,0.0036815279273172026
+2297,Ointment,Inhaler,0.006606737873995523
+2298,Ointment,Lozenges,0.010215400045968125
+2299,Ointment,Lubricant,0.0024417076031915874
+2300,Ointment,Mask,0.005127598347734661
+2301,Ointment,Mouth Gel,0.01973342594909646
+2302,Ointment,Nasal Spray,0.005635972206068703
+2303,Ointment,ORS,0.01065192937390498
+2304,Ointment,Oximeter,0.0036493676969047897
+2305,Ointment,Pain Relief Patch,0.011017854024235734
+2306,Ointment,Pain Relief Spray,0.01951313994794491
+2307,Ointment,Pain Relieving Oil,0.009153917273018161
+2308,Ointment,Pain Relieving Roll On,0.00624185250718138
+2309,Ointment,Pregnancy Test Kit,0.005221146985505564
+2310,Ointment,Psyllium Husk,0.0034682729877725292
+2311,Ointment,Shilajit Capsules,0.0014549522246636779
+2312,Ointment,Tablets,0.011103711102890249
+2313,Ointment,Vaporizer,0.0031758997248612746
+2314,Ointment,Weight Machine,0.01851851851851852
+2315,Oximeter,3 Ply Mask,0.013016087952443805
+2316,Oximeter,Adhesive Bandage,0.0077361989395554175
+2317,Oximeter,Adult Diaper,0.0038540249136245156
+2318,Oximeter,Almond Oil,0.0010808884490266283
+2319,Oximeter,Antacid,0.007637412924667578
+2320,Oximeter,Antifungal Cream,0.0053020689337483036
+2321,Oximeter,Antiseptic Cream,0.0014107838832534115
+2322,Oximeter,Antiseptic Liquid,0.01325690616131627
+2323,Oximeter,Balm & Ointment,0.006236969170226936
+2324,Oximeter,COVID self test kit,0.06801212397285593
+2325,Oximeter,Capsules,0.005396533449407517
+2326,Oximeter,Chest rubs & balms,0.01802233840773674
+2327,Oximeter,Condom,0.006948218159888825
+2328,Oximeter,Corn Cap,0.0013765019377809141
+2329,Oximeter,Coronil Kit,0.012800802891536825
+2330,Oximeter,Cotton Balls,0.0029817420394485372
+2331,Oximeter,Cough Syrup,0.003826701824523629
+2332,Oximeter,Crepe Bandage,0.007263943811461808
+2333,Oximeter,Digestive Tablets,0.004116492039187192
+2334,Oximeter,Digital Thermometer,0.0579419847383243
+2335,Oximeter,Drops,0.006936330434481708
+2336,Oximeter,Ear Buds,0.006648950687223552
+2337,Oximeter,Eye Drops,0.006049026416974681
+2338,Oximeter,Face Mask,0.01542935236249472
+2339,Oximeter,Glucometer Kit,0.0066130971141962905
+2340,Oximeter,Hand Gloves,0.009800432992694638
+2341,Oximeter,Hand Sanitizer,0.013737640490869205
+2342,Oximeter,Health Syrup,0.0008161913824121578
+2343,Oximeter,Heat Patch,0.004757214583372884
+2344,Oximeter,Inhaler,0.015818843792783432
+2345,Oximeter,Lozenges,0.016306163060594285
+2346,Oximeter,Lubricant,0.005413243477817325
+2347,Oximeter,Mask,0.01616759289180741
+2348,Oximeter,Mouth Gel,0.0038887844692263493
+2349,Oximeter,Nasal Spray,0.004997959583003725
+2350,Oximeter,ORS,0.008940051445105957
+2351,Oximeter,Ointment,0.0036493676969047897
+2352,Oximeter,PPE Kit,0.023703338499523934
+2353,Oximeter,Pain Relief Patch,0.0029311778212073323
+2354,Oximeter,Pain Relief Spray,0.007596957639364973
+2355,Oximeter,Pain Relieving Oil,0.0013529434048497962
+2356,Oximeter,Pain Relieving Roll On,0.001383813005694528
+2357,Oximeter,Pregnancy Test Kit,0.002778056454825651
+2358,Oximeter,Psyllium Husk,0.006663912293061312
+2359,Oximeter,Shilajit Capsules,0.0025804926455245095
+2360,Oximeter,Skin Cream,0.0019933117002381723
+2361,Oximeter,Tablets,0.004595140891301392
+2362,Oximeter,Thermometer,0.02827717774466324
+2363,Oximeter,Vaporizer,0.050694773131399716
+2364,PPE Kit,3 Ply Mask,0.005607890838293674
+2365,PPE Kit,Adhesive Bandage,0.0031262061422707597
+2366,PPE Kit,Antacid,0.005370138700659524
+2367,PPE Kit,Antiseptic Liquid,0.0058625193459450045
+2368,PPE Kit,Balm & Ointment,0.00304544202393147
+2369,PPE Kit,COVID self test kit,0.011931577210765496
+2370,PPE Kit,Chest rubs & balms,0.0031059195915282473
+2371,PPE Kit,Condom,0.0005734203245839623
+2372,PPE Kit,Digital Thermometer,0.0037723227517716057
+2373,PPE Kit,Drops,0.003386932277601237
+2374,PPE Kit,Face Mask,0.01841639441805489
+2375,PPE Kit,Hand Gloves,0.012305420747371319
+2376,PPE Kit,Hand Sanitizer,0.009689240340636545
+2377,PPE Kit,Inhaler,0.0034329617010149505
+2378,PPE Kit,Lozenges,0.0037914839784124778
+2379,PPE Kit,Lubricant,0.0015859356097331465
+2380,PPE Kit,Mask,0.010361471002263105
+2381,PPE Kit,ORS,0.0009883758682627912
+2382,PPE Kit,Oximeter,0.023703338499523934
+2383,PPE Kit,Pain Relief Spray,0.0012365030416478973
+2384,PPE Kit,Pain Relieving Roll On,0.004054202128420999
+2385,PPE Kit,Tablets,0.001923219178277257
+2386,PPE Kit,Vaporizer,0.005500819683203747
+2387,Pain Relief Patch,3 Ply Mask,0.013176067149211022
+2388,Pain Relief Patch,Adhesive Bandage,0.08408325598068471
+2389,Pain Relief Patch,Adult Diaper,0.0023271474639345166
+2390,Pain Relief Patch,Almond Oil,0.0019579947218733755
+2391,Pain Relief Patch,Antacid,0.013465996881084503
+2392,Pain Relief Patch,Antifungal Cream,0.0019209055285282677
+2393,Pain Relief Patch,Antiseptic Cream,0.0029815213273876994
+2394,Pain Relief Patch,Antiseptic Liquid,0.012082747108653102
+2395,Pain Relief Patch,Ayurvedic Cream,0.007054717609246683
+2396,Pain Relief Patch,Balm & Ointment,0.03860173713256673
+2397,Pain Relief Patch,COVID self test kit,0.01057420458019452
+2398,Pain Relief Patch,Capsules,0.01384883336309762
+2399,Pain Relief Patch,Chest rubs & balms,0.010562228273726255
+2400,Pain Relief Patch,Condom,0.008686439881296162
+2401,Pain Relief Patch,Corn Cap,0.04155815109398501
+2402,Pain Relief Patch,Coronil Kit,0.011594121724559703
+2403,Pain Relief Patch,Cotton Balls,0.0060014777457539055
+2404,Pain Relief Patch,Cough Syrup,0.011553245821909815
+2405,Pain Relief Patch,Cramp Relief Tablet,0.010664391839030079
+2406,Pain Relief Patch,Crepe Bandage,0.014620445549661798
+2407,Pain Relief Patch,Digestive Tablets,0.00923234391592337
+2408,Pain Relief Patch,Digital Thermometer,0.005442372705751679
+2409,Pain Relief Patch,Drops,0.008376626587208695
+2410,Pain Relief Patch,Ear Buds,0.009176655767932189
+2411,Pain Relief Patch,Energy Drink Mix,0.0021553275898312093
+2412,Pain Relief Patch,Eye Drops,0.007305078094213378
+2413,Pain Relief Patch,Face Mask,0.005175884522639292
+2414,Pain Relief Patch,Gel,0.006993900481584914
+2415,Pain Relief Patch,Glucometer Test Strips,0.0028428485171456725
+2416,Pain Relief Patch,Hand Gloves,0.010567362921859844
+2417,Pain Relief Patch,Hand Sanitizer,0.009831227528588407
+2418,Pain Relief Patch,Health Syrup,0.008871026905176051
+2419,Pain Relief Patch,Heat Patch,0.018671339873981438
+2420,Pain Relief Patch,Inhaler,0.01415077908297084
+2421,Pain Relief Patch,Lens Solution,0.0025532354113988955
+2422,Pain Relief Patch,Lozenges,0.025943508366084632
+2423,Pain Relief Patch,Lubricant,0.002941775027939266
+2424,Pain Relief Patch,Mask,0.013728316611931439
+2425,Pain Relief Patch,Mouth Gel,0.009392544281025083
+2426,Pain Relief Patch,Multipurpose Oil,0.002284945926966028
+2427,Pain Relief Patch,Nasal Spray,0.0100596036862806
+2428,Pain Relief Patch,Nicotine Gum,0.0026741648404007322
+2429,Pain Relief Patch,ORS,0.01812982186364939
+2430,Pain Relief Patch,Ointment,0.011017854024235734
+2431,Pain Relief Patch,Oximeter,0.0029311778212073323
+2432,Pain Relief Patch,Pain Relief Spray,0.05428204358302995
+2433,Pain Relief Patch,Pain Relieving Cream,0.014579537073127575
+2434,Pain Relief Patch,Pain Relieving Oil,0.030226700321934044
+2435,Pain Relief Patch,Pain Relieving Roll On,0.03592983723618994
+2436,Pain Relief Patch,Pregnancy Test Kit,0.0027957555968134077
+2437,Pain Relief Patch,Psyllium Husk,0.008047642109347592
+2438,Pain Relief Patch,Shilajit Capsules,0.0023372397883981736
+2439,Pain Relief Patch,Skin Cream,0.003610820146731567
+2440,Pain Relief Patch,Tablets,0.014666007478904565
+2441,Pain Relief Patch,Vaporizer,0.010203550432900879
+2442,Pain Relief Patch,Weight Machine,0.009916068621812163
+2443,Pain Relief Spray,3 Ply Mask,0.020170125560353788
+2444,Pain Relief Spray,Adhesive Bandage,0.06624029448642149
+2445,Pain Relief Spray,Adult Diaper,0.007036686983703665
+2446,Pain Relief Spray,Almond Oil,0.007330099983213134
+2447,Pain Relief Spray,Antacid,0.03235101950399101
+2448,Pain Relief Spray,Antifungal Cream,0.014105913500355753
+2449,Pain Relief Spray,Antiseptic Cream,0.018766632114305605
+2450,Pain Relief Spray,Antiseptic Liquid,0.032163915064225224
+2451,Pain Relief Spray,Ayurvedic Cream,0.010919760978546966
+2452,Pain Relief Spray,Balm & Ointment,0.07171395891565116
+2453,Pain Relief Spray,COVID self test kit,0.013702987189059185
+2454,Pain Relief Spray,Capsules,0.008797323561458754
+2455,Pain Relief Spray,Chest rubs & balms,0.043965803844296394
+2456,Pain Relief Spray,Condom,0.027261015185669903
+2457,Pain Relief Spray,Corn Cap,0.0071806291461201125
+2458,Pain Relief Spray,Coronil Kit,0.0033388190678790633
+2459,Pain Relief Spray,Cotton Balls,0.01373979832467224
+2460,Pain Relief Spray,Cough Syrup,0.006487743255319789
+2461,Pain Relief Spray,Cramp Relief Tablet,0.002303309965949988
+2462,Pain Relief Spray,Crepe Bandage,0.04420841415924484
+2463,Pain Relief Spray,Digestive Tablets,0.019479985783121406
+2464,Pain Relief Spray,Digital Thermometer,0.013097883867053977
+2465,Pain Relief Spray,Drops,0.02442413643205391
+2466,Pain Relief Spray,Ear Buds,0.02539420446859069
+2467,Pain Relief Spray,Eye Drops,0.007362883635742604
+2468,Pain Relief Spray,Face Mask,0.017141051042986293
+2469,Pain Relief Spray,Gel,0.009926485963348466
+2470,Pain Relief Spray,Glucometer Kit,0.0017248867066934218
+2471,Pain Relief Spray,Glucometer Test Strips,0.0024560092765020932
+2472,Pain Relief Spray,Hand Gloves,0.012050826624842356
+2473,Pain Relief Spray,Hand Sanitizer,0.02793548126316944
+2474,Pain Relief Spray,Health Syrup,0.01234740443049886
+2475,Pain Relief Spray,Heat Patch,0.00806532315363465
+2476,Pain Relief Spray,Inhaler,0.0313271227785231
+2477,Pain Relief Spray,Interdental Brushes,0.0024730060832957946
+2478,Pain Relief Spray,Lens Solution,0.00496306155243797
+2479,Pain Relief Spray,Lozenges,0.031459572947469386
+2480,Pain Relief Spray,Lubricant,0.012707372050297025
+2481,Pain Relief Spray,Mask,0.018976388081916873
+2482,Pain Relief Spray,Mouth Gel,0.008114458348739459
+2483,Pain Relief Spray,Multipurpose Oil,0.0029610345182419784
+2484,Pain Relief Spray,Nasal Spray,0.007821673170479531
+2485,Pain Relief Spray,Nicotine Gum,0.004620558299401918
+2486,Pain Relief Spray,ORS,0.02762990978134113
+2487,Pain Relief Spray,Ointment,0.01951313994794491
+2488,Pain Relief Spray,Oximeter,0.007596957639364973
+2489,Pain Relief Spray,PPE Kit,0.0012365030416478973
+2490,Pain Relief Spray,Pain Relief Patch,0.05428204358302995
+2491,Pain Relief Spray,Pain Relieving Cream,0.028340175597180255
+2492,Pain Relief Spray,Pain Relieving Oil,0.02470206981002876
+2493,Pain Relief Spray,Pain Relieving Roll On,0.03465008591556982
+2494,Pain Relief Spray,Pregnancy Test Kit,0.010627427811384831
+2495,Pain Relief Spray,Psyllium Husk,0.01537586068273144
+2496,Pain Relief Spray,Shilajit Capsules,0.011442139065872067
+2497,Pain Relief Spray,Skin Cream,0.008838525354959572
+2498,Pain Relief Spray,Tablets,0.019176727156839674
+2499,Pain Relief Spray,Thermometer,0.0051061185491910145
+2500,Pain Relief Spray,Vaporizer,0.011263748126851813
+2501,Pain Relief Spray,Weight Machine,0.004283372183695228
+2502,Pain Relieving Cream,3 Ply Mask,0.0028562379501622707
+2503,Pain Relieving Cream,Adhesive Bandage,0.013079232222214068
+2504,Pain Relieving Cream,Almond Oil,0.005760307499873449
+2505,Pain Relieving Cream,Antacid,0.0071634747046294195
+2506,Pain Relieving Cream,Antifungal Cream,0.0033907159398089528
+2507,Pain Relieving Cream,Antiseptic Cream,0.005262878230872379
+2508,Pain Relieving Cream,Antiseptic Liquid,0.0063984140723536455
+2509,Pain Relieving Cream,Ayurvedic Cream,0.0072641002577898415
+2510,Pain Relieving Cream,Balm & Ointment,0.018835018712046417
+2511,Pain Relieving Cream,COVID self test kit,0.003038524163306389
+2512,Pain Relieving Cream,Capsules,0.0014379694838044404
+2513,Pain Relieving Cream,Chest rubs & balms,0.01186441435374135
+2514,Pain Relieving Cream,Condom,0.004380857990192506
+2515,Pain Relieving Cream,Corn Cap,0.0029342803849666814
+2516,Pain Relieving Cream,Cotton Balls,0.0010593600753769196
+2517,Pain Relieving Cream,Cramp Relief Tablet,0.004706103821861596
+2518,Pain Relieving Cream,Crepe Bandage,0.0025807504344229184
+2519,Pain Relieving Cream,Digestive Syrup,0.008251229524805618
+2520,Pain Relieving Cream,Digestive Tablets,0.006267928411207313
+2521,Pain Relieving Cream,Digital Thermometer,0.0013723839846595588
+2522,Pain Relieving Cream,Drops,0.008009154434811531
+2523,Pain Relieving Cream,Ear Buds,0.005061973461922899
+2524,Pain Relieving Cream,Eye Drops,0.00214911182666507
+2525,Pain Relieving Cream,Face Mask,0.0024363445805992232
+2526,Pain Relieving Cream,Gel,0.0017636272872466256
+2527,Pain Relieving Cream,Hand Gloves,0.0022383771842240715
+2528,Pain Relieving Cream,Hand Sanitizer,0.0016269133584070636
+2529,Pain Relieving Cream,Health Syrup,0.001739869954452629
+2530,Pain Relieving Cream,Heat Patch,0.0025352309822338644
+2531,Pain Relieving Cream,Inhaler,0.007493539606933082
+2532,Pain Relieving Cream,Lozenges,0.004689806676249515
+2533,Pain Relieving Cream,Lubricant,0.0011539376531220194
+2534,Pain Relieving Cream,Mask,0.0026925276919604153
+2535,Pain Relieving Cream,Mix,0.00451938453788867
+2536,Pain Relieving Cream,Nasal Spray,0.0017756864177160174
+2537,Pain Relieving Cream,ORS,0.006292554423223537
+2538,Pain Relieving Cream,Pain Relief Patch,0.014579537073127575
+2539,Pain Relieving Cream,Pain Relief Spray,0.028340175597180255
+2540,Pain Relieving Cream,Pain Relieving Oil,0.007210152027139118
+2541,Pain Relieving Cream,Pain Relieving Roll On,0.013274394037742948
+2542,Pain Relieving Cream,Pregnancy Test Kit,0.0019739883976883066
+2543,Pain Relieving Cream,Psyllium Husk,0.002731811394796983
+2544,Pain Relieving Cream,Shilajit Capsules,0.0013752049208009362
+2545,Pain Relieving Cream,Skin Cream,0.003186847360652452
+2546,Pain Relieving Cream,Tablets,0.0013993474964560113
+2547,Pain Relieving Cream,Thermometer,0.0069551860509332155
+2548,Pain Relieving Cream,Vaporizer,0.0020012171101169754
+2549,Pain Relieving Oil,3 Ply Mask,0.0070419403726047665
+2550,Pain Relieving Oil,Adhesive Bandage,0.02252781703248157
+2551,Pain Relieving Oil,Adult Diaper,0.010587963092894361
+2552,Pain Relieving Oil,Almond Oil,0.005422508371596847
+2553,Pain Relieving Oil,Antacid,0.009706395087785187
+2554,Pain Relieving Oil,Antifungal Cream,0.009752953546845921
+2555,Pain Relieving Oil,Antiseptic Cream,0.012385624060098892
+2556,Pain Relieving Oil,Antiseptic Liquid,0.013803154627721415
+2557,Pain Relieving Oil,Ayurvedic Cream,0.00651249036714985
+2558,Pain Relieving Oil,Balm & Ointment,0.04954106147730099
+2559,Pain Relieving Oil,COVID self test kit,0.0030646471650769723
+2560,Pain Relieving Oil,Capsules,0.004512144281766022
+2561,Pain Relieving Oil,Chest rubs & balms,0.016398421768218808
+2562,Pain Relieving Oil,Condom,0.005645888447255177
+2563,Pain Relieving Oil,Corn Cap,0.010358275113206071
+2564,Pain Relieving Oil,Cotton Balls,0.009141334562915139
+2565,Pain Relieving Oil,Cough Syrup,0.006399156390828484
+2566,Pain Relieving Oil,Cramp Relief Tablet,0.007383543144820265
+2567,Pain Relieving Oil,Crepe Bandage,0.010122536019104246
+2568,Pain Relieving Oil,Digestive Tablets,0.013275812469551004
+2569,Pain Relieving Oil,Digital Thermometer,0.0032297597159636825
+2570,Pain Relieving Oil,Drops,0.014015694766437678
+2571,Pain Relieving Oil,Ear Buds,0.005162220291926736
+2572,Pain Relieving Oil,Eye Drops,0.005057706065103798
+2573,Pain Relieving Oil,Face Mask,0.006211484279155735
+2574,Pain Relieving Oil,Gel,0.005534012278384771
+2575,Pain Relieving Oil,Hand Gloves,0.0029265458823434388
+2576,Pain Relieving Oil,Hand Sanitizer,0.009997337415071597
+2577,Pain Relieving Oil,Health Syrup,0.02047299426661788
+2578,Pain Relieving Oil,Heat Patch,0.007955195230692602
+2579,Pain Relieving Oil,Inhaler,0.008327756148560865
+2580,Pain Relieving Oil,Interdental Brushes,0.007927524902574902
+2581,Pain Relieving Oil,Lozenges,0.015148770162915659
+2582,Pain Relieving Oil,Lubricant,0.0036208926835314703
+2583,Pain Relieving Oil,Mask,0.008026331495437137
+2584,Pain Relieving Oil,Mouth Gel,0.014631690040751969
+2585,Pain Relieving Oil,Multipurpose Oil,0.006327973349062317
+2586,Pain Relieving Oil,Nasal Spray,0.0013929630298393295
+2587,Pain Relieving Oil,ORS,0.009872571629034287
+2588,Pain Relieving Oil,Ointment,0.009153917273018161
+2589,Pain Relieving Oil,Oximeter,0.0013529434048497962
+2590,Pain Relieving Oil,Pain Relief Patch,0.030226700321934044
+2591,Pain Relieving Oil,Pain Relief Spray,0.02470206981002876
+2592,Pain Relieving Oil,Pain Relieving Cream,0.007210152027139118
+2593,Pain Relieving Oil,Pain Relieving Roll On,0.03818206853975801
+2594,Pain Relieving Oil,Pregnancy Test Kit,0.005419833655071463
+2595,Pain Relieving Oil,Psyllium Husk,0.0034288146731138312
+2596,Pain Relieving Oil,Shilajit Capsules,0.009709195467257715
+2597,Pain Relieving Oil,Skin Cream,0.014166489586653576
+2598,Pain Relieving Oil,Tablets,0.013721731136012329
+2599,Pain Relieving Oil,Vaporizer,0.00627953544333675
+2600,Pain Relieving Roll On,3 Ply Mask,0.009166962862537334
+2601,Pain Relieving Roll On,Adhesive Bandage,0.02874524797944882
+2602,Pain Relieving Roll On,Adult Diaper,0.004708497680345712
+2603,Pain Relieving Roll On,Almond Oil,0.0018487439019264913
+2604,Pain Relieving Roll On,Antacid,0.012801717117076327
+2605,Pain Relieving Roll On,Antifungal Cream,0.00906862092724574
+2606,Pain Relieving Roll On,Antiseptic Cream,0.00603248675533923
+2607,Pain Relieving Roll On,Antiseptic Liquid,0.008770332373378384
+2608,Pain Relieving Roll On,Ayurvedic Cream,0.01082426054222096
+2609,Pain Relieving Roll On,Balm & Ointment,0.046226559732558965
+2610,Pain Relieving Roll On,COVID self test kit,0.00243800049645457
+2611,Pain Relieving Roll On,Capsules,0.0023075480904433034
+2612,Pain Relieving Roll On,Chest rubs & balms,0.014052700813644979
+2613,Pain Relieving Roll On,Condom,0.009457131410860386
+2614,Pain Relieving Roll On,Corn Cap,0.015303334194570995
+2615,Pain Relieving Roll On,Coronil Kit,0.002736800257557
+2616,Pain Relieving Roll On,Cotton Balls,0.005949942062721246
+2617,Pain Relieving Roll On,Cough Syrup,0.0032725817677809
+2618,Pain Relieving Roll On,Cramp Relief Tablet,0.015104021343809722
+2619,Pain Relieving Roll On,Crepe Bandage,0.010353498116503181
+2620,Pain Relieving Roll On,Digestive Tablets,0.017602046634945554
+2621,Pain Relieving Roll On,Digital Thermometer,0.004404602571645141
+2622,Pain Relieving Roll On,Drops,0.011863850154049766
+2623,Pain Relieving Roll On,Ear Buds,0.008123084201363628
+2624,Pain Relieving Roll On,Energy Drink Mix,0.003052599192817481
+2625,Pain Relieving Roll On,Eye Drops,0.006897474456341851
+2626,Pain Relieving Roll On,Face Mask,0.003909667310706437
+2627,Pain Relieving Roll On,Gel,0.009905489571728564
+2628,Pain Relieving Roll On,Hand Gloves,0.0035919837349278278
+2629,Pain Relieving Roll On,Hand Sanitizer,0.008267379368389309
+2630,Pain Relieving Roll On,Health Syrup,0.009772055476018686
+2631,Pain Relieving Roll On,Heat Patch,0.014239235374752367
+2632,Pain Relieving Roll On,Inhaler,0.0180376251430152
+2633,Pain Relieving Roll On,Lozenges,0.02634050372260787
+2634,Pain Relieving Roll On,Lubricant,0.0032405705763574643
+2635,Pain Relieving Roll On,Mask,0.005184925441625524
+2636,Pain Relieving Roll On,Mix,0.0036261886214694746
+2637,Pain Relieving Roll On,Mouth Gel,0.01330269849744975
+2638,Pain Relieving Roll On,Nasal Spray,0.0056989829736664305
+2639,Pain Relieving Roll On,Nicotine Gum,0.0018937152458358883
+2640,Pain Relieving Roll On,ORS,0.012694415338569773
+2641,Pain Relieving Roll On,Ointment,0.00624185250718138
+2642,Pain Relieving Roll On,Oximeter,0.001383813005694528
+2643,Pain Relieving Roll On,PPE Kit,0.004054202128420999
+2644,Pain Relieving Roll On,Pain Relief Patch,0.03592983723618994
+2645,Pain Relieving Roll On,Pain Relief Spray,0.03465008591556982
+2646,Pain Relieving Roll On,Pain Relieving Cream,0.013274394037742948
+2647,Pain Relieving Roll On,Pain Relieving Oil,0.03818206853975801
+2648,Pain Relieving Roll On,Pregnancy Test Kit,0.001583855988929444
+2649,Pain Relieving Roll On,Psyllium Husk,0.006137335133963986
+2650,Pain Relieving Roll On,Shilajit Capsules,0.0011034140587485516
+2651,Pain Relieving Roll On,Skin Cream,0.005114019194727182
+2652,Pain Relieving Roll On,Tablets,0.01347342212619373
+2653,Pain Relieving Roll On,Vaporizer,0.006422813241898971
+2654,Pregnancy Test Kit,3 Ply Mask,0.003067170232613601
+2655,Pregnancy Test Kit,Adhesive Bandage,0.011297169336664565
+2656,Pregnancy Test Kit,Adult Diaper,0.0012603314002290356
+2657,Pregnancy Test Kit,Almond Oil,0.0012371408826991437
+2658,Pregnancy Test Kit,Antacid,0.011713572052136854
+2659,Pregnancy Test Kit,Antifungal Cream,0.0042479724644251815
+2660,Pregnancy Test Kit,Antiseptic Cream,0.0024220886348599335
+2661,Pregnancy Test Kit,Antiseptic Liquid,0.0052963456963930206
+2662,Pregnancy Test Kit,Ayurvedic Cream,0.0039002758989579263
+2663,Pregnancy Test Kit,Balm & Ointment,0.0074360216815643546
+2664,Pregnancy Test Kit,COVID self test kit,0.013051672903150152
+2665,Pregnancy Test Kit,Capsules,0.004632489246088009
+2666,Pregnancy Test Kit,Chest rubs & balms,0.005460256138341736
+2667,Pregnancy Test Kit,Condom,0.014897212793562212
+2668,Pregnancy Test Kit,Corn Cap,0.003150976076905803
+2669,Pregnancy Test Kit,Cotton Balls,0.005119170690536676
+2670,Pregnancy Test Kit,Cough Syrup,0.004379887006176118
+2671,Pregnancy Test Kit,Crepe Bandage,0.0013856690248473325
+2672,Pregnancy Test Kit,Digestive Syrup,0.004430290126827222
+2673,Pregnancy Test Kit,Digestive Tablets,0.004038487782556615
+2674,Pregnancy Test Kit,Digital Thermometer,0.0014737341142128217
+2675,Pregnancy Test Kit,Drops,0.004961900765601244
+2676,Pregnancy Test Kit,Ear Buds,0.00597937848693196
+2677,Pregnancy Test Kit,Eye Drops,0.0057695576631933395
+2678,Pregnancy Test Kit,Face Mask,0.0016351674178570414
+2679,Pregnancy Test Kit,Gel,0.00378774122552402
+2680,Pregnancy Test Kit,Hand Gloves,0.004006134402786408
+2681,Pregnancy Test Kit,Hand Sanitizer,0.003785297539585414
+2682,Pregnancy Test Kit,Health Syrup,0.003269627914604326
+2683,Pregnancy Test Kit,Heat Patch,0.002722457000147931
+2684,Pregnancy Test Kit,Inhaler,0.006035201378615111
+2685,Pregnancy Test Kit,Lens Solution,0.0012099286614424092
+2686,Pregnancy Test Kit,Lozenges,0.006961733222670915
+2687,Pregnancy Test Kit,Lubricant,0.005576200151272587
+2688,Pregnancy Test Kit,Mask,0.0037587810297246027
+2689,Pregnancy Test Kit,Nasal Spray,0.0038136406125164946
+2690,Pregnancy Test Kit,ORS,0.009556692900276952
+2691,Pregnancy Test Kit,Ointment,0.005221146985505564
+2692,Pregnancy Test Kit,Oximeter,0.002778056454825651
+2693,Pregnancy Test Kit,Pain Relief Patch,0.0027957555968134077
+2694,Pregnancy Test Kit,Pain Relief Spray,0.010627427811384831
+2695,Pregnancy Test Kit,Pain Relieving Cream,0.0019739883976883066
+2696,Pregnancy Test Kit,Pain Relieving Oil,0.005419833655071463
+2697,Pregnancy Test Kit,Pain Relieving Roll On,0.001583855988929444
+2698,Pregnancy Test Kit,Psyllium Husk,0.0044003322223695965
+2699,Pregnancy Test Kit,Shilajit Capsules,0.0022151450634136107
+2700,Pregnancy Test Kit,Skin Cream,0.0017110975225157797
+2701,Pregnancy Test Kit,Tablets,0.0052594110553322105
+2702,Pregnancy Test Kit,Thermometer,0.002489608124386104
+2703,Pregnancy Test Kit,Vaporizer,0.002686257962505838
+2704,Psyllium Husk,3 Ply Mask,0.013461669737361107
+2705,Psyllium Husk,Adhesive Bandage,0.021296320171881086
+2706,Psyllium Husk,Adult Diaper,0.0038371922072469467
+2707,Psyllium Husk,Almond Oil,0.004109003555584663
+2708,Psyllium Husk,Antacid,0.02825943729354255
+2709,Psyllium Husk,Antifungal Cream,0.006046753516612902
+2710,Psyllium Husk,Antiseptic Cream,0.011396593695722228
+2711,Psyllium Husk,Antiseptic Liquid,0.017591127738502528
+2712,Psyllium Husk,Ayurvedic Cream,0.005551826713871055
+2713,Psyllium Husk,Balm & Ointment,0.009549810197918089
+2714,Psyllium Husk,COVID self test kit,0.009547199145434932
+2715,Psyllium Husk,Capsules,0.004701343268924841
+2716,Psyllium Husk,Chest rubs & balms,0.010411140513416305
+2717,Psyllium Husk,Condom,0.016028025901485197
+2718,Psyllium Husk,Corn Cap,0.005668844898083388
+2719,Psyllium Husk,Coronil Kit,0.003041395289393056
+2720,Psyllium Husk,Cotton Balls,0.004722962181775703
+2721,Psyllium Husk,Cough Syrup,0.0024245381067907255
+2722,Psyllium Husk,Cramp Relief Tablet,0.0013987532593677148
+2723,Psyllium Husk,Crepe Bandage,0.0015341068613891136
+2724,Psyllium Husk,Digestive Tablets,0.01844330845697265
+2725,Psyllium Husk,Digital Thermometer,0.005302718846847371
+2726,Psyllium Husk,Drops,0.027650301452585197
+2727,Psyllium Husk,Ear Buds,0.014593894614972186
+2728,Psyllium Husk,Energy Drink Mix,0.004523121860917304
+2729,Psyllium Husk,Eye Drops,0.007026374713966235
+2730,Psyllium Husk,Face Mask,0.00850856236105494
+2731,Psyllium Husk,Gel,0.008911182512181377
+2732,Psyllium Husk,Glucometer Test Strips,0.00447445332759773
+2733,Psyllium Husk,Hand Gloves,0.0073182217195075895
+2734,Psyllium Husk,Hand Sanitizer,0.013539482461450715
+2735,Psyllium Husk,Health Syrup,0.013962402715332596
+2736,Psyllium Husk,Heat Patch,0.004521144539790718
+2737,Psyllium Husk,Inhaler,0.011321792826852722
+2738,Psyllium Husk,Interdental Brushes,0.003003612514670366
+2739,Psyllium Husk,Lens Solution,0.005358162239398113
+2740,Psyllium Husk,Lozenges,0.017300875545651115
+2741,Psyllium Husk,Lubricant,0.0063450300117480025
+2742,Psyllium Husk,Mask,0.009283201459312676
+2743,Psyllium Husk,Mouth Gel,0.0024638726943165858
+2744,Psyllium Husk,Nasal Spray,0.005805485778157014
+2745,Psyllium Husk,Nicotine Gum,0.00420895650841419
+2746,Psyllium Husk,ORS,0.03767277923305502
+2747,Psyllium Husk,Ointment,0.0034682729877725292
+2748,Psyllium Husk,Oximeter,0.006663912293061312
+2749,Psyllium Husk,Pain Relief Patch,0.008047642109347592
+2750,Psyllium Husk,Pain Relief Spray,0.01537586068273144
+2751,Psyllium Husk,Pain Relieving Cream,0.002731811394796983
+2752,Psyllium Husk,Pain Relieving Oil,0.0034288146731138312
+2753,Psyllium Husk,Pain Relieving Roll On,0.006137335133963986
+2754,Psyllium Husk,Pregnancy Test Kit,0.0044003322223695965
+2755,Psyllium Husk,Shilajit Capsules,0.006131098371650206
+2756,Psyllium Husk,Skin Cream,0.005367456543416144
+2757,Psyllium Husk,Tablets,0.02682655451316953
+2758,Psyllium Husk,Thermometer,0.002756303877263622
+2759,Psyllium Husk,Vaporizer,0.003568823461745824
+2760,Psyllium Husk,Weight Machine,0.010404818963317587
+2761,Shilajit Capsules,3 Ply Mask,0.01037866704354746
+2762,Shilajit Capsules,Adhesive Bandage,0.009146589578074273
+2763,Shilajit Capsules,Adult Diaper,0.0008780264085972501
+2764,Shilajit Capsules,Almond Oil,0.002585611290731379
+2765,Shilajit Capsules,Antacid,0.008525805338159198
+2766,Shilajit Capsules,Antifungal Cream,0.0042277225158868555
+2767,Shilajit Capsules,Antiseptic Cream,0.0016873798311966305
+2768,Shilajit Capsules,Antiseptic Liquid,0.007578984419179009
+2769,Shilajit Capsules,Ayurvedic Cream,0.0069870301358386415
+2770,Shilajit Capsules,Balm & Ointment,0.00414432166658943
+2771,Shilajit Capsules,COVID self test kit,0.008118409998054334
+2772,Shilajit Capsules,Capsules,0.013984899165752584
+2773,Shilajit Capsules,Chest rubs & balms,0.006762593938984676
+2774,Shilajit Capsules,Condom,0.026531091619245398
+2775,Shilajit Capsules,Corn Cap,0.0021951688324822207
+2776,Shilajit Capsules,Cotton Balls,0.007925194305757647
+2777,Shilajit Capsules,Cramp Relief Tablet,0.0070413805613830874
+2778,Shilajit Capsules,Crepe Bandage,0.0019306890190469884
+2779,Shilajit Capsules,Digestive Tablets,0.0060958419351833095
+2780,Shilajit Capsules,Digital Thermometer,0.004106784838636516
+2781,Shilajit Capsules,Drops,0.005530837248990331
+2782,Shilajit Capsules,Ear Buds,0.006437764752602354
+2783,Shilajit Capsules,Face Mask,0.0031896503493184227
+2784,Shilajit Capsules,Gel,0.009235728702136434
+2785,Shilajit Capsules,Hand Gloves,0.001674555661184297
+2786,Shilajit Capsules,Hand Sanitizer,0.004259893943801319
+2787,Shilajit Capsules,Health Syrup,0.00846050842823436
+2788,Shilajit Capsules,Heat Patch,0.001896635394441441
+2789,Shilajit Capsules,Inhaler,0.003737335321779383
+2790,Shilajit Capsules,Lozenges,0.007636143139039565
+2791,Shilajit Capsules,Lubricant,0.013380747030159297
+2792,Shilajit Capsules,Mask,0.004834346083845487
+2793,Shilajit Capsules,Multipurpose Oil,0.0060347271843729814
+2794,Shilajit Capsules,Nasal Spray,0.0013284113884966951
+2795,Shilajit Capsules,ORS,0.007128548734454367
+2796,Shilajit Capsules,Ointment,0.0014549522246636779
+2797,Shilajit Capsules,Oximeter,0.0025804926455245095
+2798,Shilajit Capsules,Pain Relief Patch,0.0023372397883981736
+2799,Shilajit Capsules,Pain Relief Spray,0.011442139065872067
+2800,Shilajit Capsules,Pain Relieving Cream,0.0013752049208009362
+2801,Shilajit Capsules,Pain Relieving Oil,0.009709195467257715
+2802,Shilajit Capsules,Pain Relieving Roll On,0.0011034140587485516
+2803,Shilajit Capsules,Pregnancy Test Kit,0.0022151450634136107
+2804,Shilajit Capsules,Psyllium Husk,0.006131098371650206
+2805,Shilajit Capsules,Skin Cream,0.007947056952275454
+2806,Shilajit Capsules,Tablets,0.05234339611460039
+2807,Shilajit Capsules,Thermometer,0.0017344181695957295
+2808,Shilajit Capsules,Vaporizer,0.0014971334878785985
+2809,Skin Cream,3 Ply Mask,0.010139200436675008
+2810,Skin Cream,Adhesive Bandage,0.01823838191022538
+2811,Skin Cream,Adult Diaper,0.002712939820092779
+2812,Skin Cream,Almond Oil,0.0006657552059579944
+2813,Skin Cream,Antacid,0.01072543250493424
+2814,Skin Cream,Antifungal Cream,0.005225153434724697
+2815,Skin Cream,Antiseptic Cream,0.024330566245661427
+2816,Skin Cream,Antiseptic Liquid,0.01617667673908111
+2817,Skin Cream,Ayurvedic Cream,0.04137821844578039
+2818,Skin Cream,Balm & Ointment,0.009924022505493678
+2819,Skin Cream,COVID self test kit,0.0027592830122527725
+2820,Skin Cream,Capsules,0.001661952369509038
+2821,Skin Cream,Chest rubs & balms,0.012080019703285299
+2822,Skin Cream,Condom,0.006027660629801881
+2823,Skin Cream,Corn Cap,0.0025435002064667298
+2824,Skin Cream,Coronil Kit,0.0019711102411070452
+2825,Skin Cream,Cotton Balls,0.004285293273208179
+2826,Skin Cream,Cough Syrup,0.0023569931417250244
+2827,Skin Cream,Digestive Tablets,0.0076064537682167385
+2828,Skin Cream,Digital Thermometer,0.0039653776399113695
+2829,Skin Cream,Drops,0.008544634002074178
+2830,Skin Cream,Ear Buds,0.008775664801151032
+2831,Skin Cream,Energy Drink Mix,0.00219855633027772
+2832,Skin Cream,Eye Drops,0.004967729194386233
+2833,Skin Cream,Face Mask,0.0031678173848995973
+2834,Skin Cream,Gel,0.0020383357101679232
+2835,Skin Cream,Hand Gloves,0.002587034222265931
+2836,Skin Cream,Hand Sanitizer,0.01096857280938173
+2837,Skin Cream,Health Syrup,0.007540791962227172
+2838,Skin Cream,Heat Patch,0.0014650634751402383
+2839,Skin Cream,Inhaler,0.009382487980345152
+2840,Skin Cream,Lozenges,0.010043509074934275
+2841,Skin Cream,Lubricant,0.0016670985011082579
+2842,Skin Cream,Mask,0.0059126569605552695
+2843,Skin Cream,Mix,0.0026116694151237137
+2844,Skin Cream,Multipurpose Oil,0.0046615487648138595
+2845,Skin Cream,Nasal Spray,0.0030784098160627155
+2846,Skin Cream,ORS,0.007792182348388603
+2847,Skin Cream,Oximeter,0.0019933117002381723
+2848,Skin Cream,Pain Relief Patch,0.003610820146731567
+2849,Skin Cream,Pain Relief Spray,0.008838525354959572
+2850,Skin Cream,Pain Relieving Cream,0.003186847360652452
+2851,Skin Cream,Pain Relieving Oil,0.014166489586653576
+2852,Skin Cream,Pain Relieving Roll On,0.005114019194727182
+2853,Skin Cream,Pregnancy Test Kit,0.0017110975225157797
+2854,Skin Cream,Psyllium Husk,0.005367456543416144
+2855,Skin Cream,Shilajit Capsules,0.007947056952275454
+2856,Skin Cream,Tablets,0.012534187325347054
+2857,Skin Cream,Vaporizer,0.0028911666376791943
+2858,Supplement,Antiseptic Liquid,0.001966348766541095
+2859,Supplement,Balm & Ointment,0.004085889232227184
+2860,Supplement,Chest rubs & balms,0.0041670284035833245
+2861,Supplement,Condom,0.00153864819053968
+2862,Supplement,Lozenges,0.0040694476374391894
+2863,Supplement,ORS,0.0026520907545071735
+2864,Supplement,Tablets,0.005160538581911079
+2865,Tablets,3 Ply Mask,0.011182098688015722
+2866,Tablets,Adhesive Bandage,0.030085947558748608
+2867,Tablets,Adult Diaper,0.004243843358189752
+2868,Tablets,Almond Oil,0.0052620066024575965
+2869,Tablets,Antacid,0.02069721929319104
+2870,Tablets,Antifungal Cream,0.012905828423457208
+2871,Tablets,Antiseptic Cream,0.01230518695620371
+2872,Tablets,Antiseptic Liquid,0.011973954036769749
+2873,Tablets,Ayurvedic Cream,0.012244469185451244
+2874,Tablets,Balm & Ointment,0.018976850121891063
+2875,Tablets,COVID self test kit,0.019661022260222174
+2876,Tablets,Capsules,0.021892942688903745
+2877,Tablets,Chest rubs & balms,0.017203288678888887
+2878,Tablets,Condom,0.02421777272136655
+2879,Tablets,Corn Cap,0.007259545745946292
+2880,Tablets,Coronil Kit,0.003894823130955536
+2881,Tablets,Cotton Balls,0.008870758610035678
+2882,Tablets,Cough Syrup,0.010090838301328625
+2883,Tablets,Cramp Relief Tablet,0.030451234555875242
+2884,Tablets,Crepe Bandage,0.004911458656766966
+2885,Tablets,Digestive Syrup,0.009421811300628066
+2886,Tablets,Digestive Tablets,0.01884714613798896
+2887,Tablets,Digital Thermometer,0.013059006233145815
+2888,Tablets,Drops,0.02696718628288909
+2889,Tablets,Ear Buds,0.015220938613928155
+2890,Tablets,Eye Drops,0.01799600785741867
+2891,Tablets,Face Mask,0.007418620892059749
+2892,Tablets,Gel,0.013425525214249997
+2893,Tablets,Glucometer Kit,0.005365672518277428
+2894,Tablets,Hand Gloves,0.007383798607571995
+2895,Tablets,Hand Sanitizer,0.015997029735532044
+2896,Tablets,Health Syrup,0.030793866345937507
+2897,Tablets,Heat Patch,0.0009649660027960551
+2898,Tablets,Inhaler,0.019727785291669592
+2899,Tablets,Interdental Brushes,0.005769657534831771
+2900,Tablets,Lens Solution,0.0017154210685965245
+2901,Tablets,Lozenges,0.025410655263486997
+2902,Tablets,Lubricant,0.013835261674767743
+2903,Tablets,Mask,0.011683138068646121
+2904,Tablets,Mix,0.0034403590546073864
+2905,Tablets,Mouth Gel,0.014987415439338672
+2906,Tablets,Multipurpose Oil,0.0015351676411121842
+2907,Tablets,Nasal Spray,0.013517324746582873
+2908,Tablets,Nicotine Gum,0.0017966689196160434
+2909,Tablets,ORS,0.030793987488068983
+2910,Tablets,Ointment,0.011103711102890249
+2911,Tablets,Oximeter,0.004595140891301392
+2912,Tablets,PPE Kit,0.001923219178277257
+2913,Tablets,Pain Relief Patch,0.014666007478904565
+2914,Tablets,Pain Relief Spray,0.019176727156839674
+2915,Tablets,Pain Relieving Cream,0.0013993474964560113
+2916,Tablets,Pain Relieving Oil,0.013721731136012329
+2917,Tablets,Pain Relieving Roll On,0.01347342212619373
+2918,Tablets,Pregnancy Test Kit,0.0052594110553322105
+2919,Tablets,Psyllium Husk,0.02682655451316953
+2920,Tablets,Shilajit Capsules,0.05234339611460039
+2921,Tablets,Skin Cream,0.012534187325347054
+2922,Tablets,Supplement,0.005160538581911079
+2923,Tablets,Thermometer,0.0017648669567136626
+2924,Tablets,Vaporizer,0.005331958083135163
+2925,Thermometer,3 Ply Mask,0.0108069224939184
+2926,Thermometer,Adhesive Bandage,0.010399412707215713
+2927,Thermometer,Adult Diaper,0.0014802247376751881
+2928,Thermometer,Almond Oil,0.001452988109498664
+2929,Thermometer,Antacid,0.0028746533923298553
+2930,Thermometer,Antifungal Cream,0.002850929945052547
+2931,Thermometer,Antiseptic Cream,0.001896451210377454
+2932,Thermometer,Antiseptic Liquid,0.004034862534241017
+2933,Thermometer,Balm & Ointment,0.004890706218163409
+2934,Thermometer,COVID self test kit,0.025183082186777537
+2935,Thermometer,Capsules,0.0018135772802369363
+2936,Thermometer,Chest rubs & balms,0.012825842803801345
+2937,Thermometer,Condom,0.006051375650713368
+2938,Thermometer,Coronil Kit,0.004301881107663894
+2939,Thermometer,Cotton Balls,0.01068857933875293
+2940,Thermometer,Digestive Tablets,0.004743093378021828
+2941,Thermometer,Drops,0.002331046662107343
+2942,Thermometer,Ear Buds,0.012768393442421854
+2943,Thermometer,Energy Drink Mix,0.004798274466903829
+2944,Thermometer,Face Mask,0.003840918764243437
+2945,Thermometer,Hand Gloves,0.008469171394032683
+2946,Thermometer,Hand Sanitizer,0.005813644787341777
+2947,Thermometer,Health Syrup,0.001097168144213304
+2948,Thermometer,Inhaler,0.008663329707866645
+2949,Thermometer,Lens Solution,0.022736449605731512
+2950,Thermometer,Lozenges,0.012525495542870049
+2951,Thermometer,Lubricant,0.0014553543271135466
+2952,Thermometer,Mask,0.00475416894792547
+2953,Thermometer,Mouth Gel,0.0026137561185325233
+2954,Thermometer,ORS,0.008616461055983557
+2955,Thermometer,Oximeter,0.02827717774466324
+2956,Thermometer,Pain Relief Spray,0.0051061185491910145
+2957,Thermometer,Pain Relieving Cream,0.0069551860509332155
+2958,Thermometer,Pregnancy Test Kit,0.002489608124386104
+2959,Thermometer,Psyllium Husk,0.002756303877263622
+2960,Thermometer,Shilajit Capsules,0.0017344181695957295
+2961,Thermometer,Tablets,0.0017648669567136626
+2962,Thermometer,Vaporizer,0.01766764418316546
+2963,Vaporizer,3 Ply Mask,0.014658967843919218
+2964,Vaporizer,Adhesive Bandage,0.013155472655083898
+2965,Vaporizer,Adult Diaper,0.005110864411380978
+2966,Vaporizer,Almond Oil,0.0025084114019941384
+2967,Vaporizer,Antacid,0.009925495327817033
+2968,Vaporizer,Antifungal Cream,0.004306567956057347
+2969,Vaporizer,Antiseptic Cream,0.004501746942362746
+2970,Vaporizer,Antiseptic Liquid,0.011754637230232337
+2971,Vaporizer,Ayurvedic Cream,0.0011297358140955464
+2972,Vaporizer,Balm & Ointment,0.009950941893003053
+2973,Vaporizer,COVID self test kit,0.026463408964330085
+2974,Vaporizer,Capsules,0.007044583002028397
+2975,Vaporizer,Chest rubs & balms,0.056585863201120565
+2976,Vaporizer,Condom,0.012945172540937102
+2977,Vaporizer,Corn Cap,0.0023958299018085874
+2978,Vaporizer,Coronil Kit,0.00742668680489791
+2979,Vaporizer,Cotton Balls,0.0051897832770995585
+2980,Vaporizer,Cough Syrup,0.00888060418936938
+2981,Vaporizer,Crepe Bandage,0.004214347811868113
+2982,Vaporizer,Digestive Syrup,0.004491400463635796
+2983,Vaporizer,Digestive Tablets,0.009553118618867642
+2984,Vaporizer,Digital Thermometer,0.022410936623889963
+2985,Vaporizer,Drops,0.00938997548410672
+2986,Vaporizer,Ear Buds,0.010194940593537096
+2987,Vaporizer,Eye Drops,0.00350948491700674
+2988,Vaporizer,Face Mask,0.010609424106778993
+2989,Vaporizer,Gel,0.006719979700315982
+2990,Vaporizer,Glucometer Kit,0.007673487591935514
+2991,Vaporizer,Hand Gloves,0.008528927482812733
+2992,Vaporizer,Hand Sanitizer,0.015497640603725125
+2993,Vaporizer,Health Syrup,0.00142059786906945
+2994,Vaporizer,Heat Patch,0.0013800049525706606
+2995,Vaporizer,Inhaler,0.027872936465822444
+2996,Vaporizer,Lozenges,0.0273300558109528
+2997,Vaporizer,Lubricant,0.005967178939726659
+2998,Vaporizer,Mask,0.013776888501777124
+2999,Vaporizer,Mouth Gel,0.00564042438380752
+3000,Vaporizer,Multipurpose Oil,0.0021954544943784764
+3001,Vaporizer,Nasal Spray,0.008699051333189583
+3002,Vaporizer,Nicotine Gum,0.001284714694619112
+3003,Vaporizer,ORS,0.011156472487475378
+3004,Vaporizer,Ointment,0.0031758997248612746
+3005,Vaporizer,Oximeter,0.050694773131399716
+3006,Vaporizer,PPE Kit,0.005500819683203747
+3007,Vaporizer,Pain Relief Patch,0.010203550432900879
+3008,Vaporizer,Pain Relief Spray,0.011263748126851813
+3009,Vaporizer,Pain Relieving Cream,0.0020012171101169754
+3010,Vaporizer,Pain Relieving Oil,0.00627953544333675
+3011,Vaporizer,Pain Relieving Roll On,0.006422813241898971
+3012,Vaporizer,Pregnancy Test Kit,0.002686257962505838
+3013,Vaporizer,Psyllium Husk,0.003568823461745824
+3014,Vaporizer,Shilajit Capsules,0.0014971334878785985
+3015,Vaporizer,Skin Cream,0.0028911666376791943
+3016,Vaporizer,Tablets,0.005331958083135163
+3017,Vaporizer,Thermometer,0.01766764418316546
+3018,Weight Machine,3 Ply Mask,0.0038852607420898663
+3019,Weight Machine,Adhesive Bandage,0.002707373936673427
+3020,Weight Machine,Ayurvedic Cream,0.009881152778812538
+3021,Weight Machine,Balm & Ointment,0.005274860316954699
+3022,Weight Machine,Condom,0.0009931931362720597
+3023,Weight Machine,Hand Gloves,0.007104537980986436
+3024,Weight Machine,Hand Sanitizer,0.002581885624112073
+3025,Weight Machine,Mask,0.005127598347734662
+3026,Weight Machine,Mouth Gel,0.01973342594909646
+3027,Weight Machine,ORS,0.0017119172208061577
+3028,Weight Machine,Ointment,0.01851851851851852
+3029,Weight Machine,Pain Relief Patch,0.009916068621812163
+3030,Weight Machine,Pain Relief Spray,0.004283372183695228
+3031,Weight Machine,Psyllium Husk,0.010404818963317587

@@ -1,0 +1,2149 @@
+,source,target,weight
+0,Broth Powder,Cheese Spread,0.007257606682073418
+1,Broth Powder,Chutney,0.004358301897075655
+2,Broth Powder,Coconut Milk,0.00471184685887132
+3,Broth Powder,Dressing,0.023535384592508406
+4,Broth Powder,Garlic Paste,0.008399506795441032
+5,Broth Powder,Peanut Butter,0.015421769724943484
+6,Broth Powder,Sauce,0.003672192066367129
+7,Broth Powder,Soy Sauce,0.00550832523954388
+8,Broth Powder,Tomato Ketchup,0.0016065671883214898
+9,Broth Powder,Vinegar,0.004279056363301439
+10,Cheese Sauce,Cheese Spread,0.006896629245023473
+11,Cheese Sauce,Chilli Sauce,0.004587411080912201
+12,Cheese Sauce,Chocolate Spread,0.0015140882727445596
+13,Cheese Sauce,Chutney,0.0023296103552834296
+14,Cheese Sauce,Coconut Milk,0.0016790587242708063
+15,Cheese Sauce,Combo,0.0038408167735434814
+16,Cheese Sauce,Dip,0.003114750959336143
+17,Cheese Sauce,Dressing,0.004193397410053557
+18,Cheese Sauce,Flavoured Mayonnaise,0.010058931068550016
+19,Cheese Sauce,Ginger Garlic Paste,0.0036026037500760527
+20,Cheese Sauce,Honey,0.0005221435228492334
+21,Cheese Sauce,Hummus Dip,0.007004099578592243
+22,Cheese Sauce,Jam,0.003740060721661045
+23,Cheese Sauce,Ketchup,0.005024115857080948
+24,Cheese Sauce,Mango Pickle,0.001116865381676369
+25,Cheese Sauce,Mayonnaise,0.0048536326965099115
+26,Cheese Sauce,Mixed Pickle,0.0011356738477248925
+27,Cheese Sauce,Pasta Sauce,0.005441859570402826
+28,Cheese Sauce,Peanut Butter,0.000915920295372405
+29,Cheese Sauce,Pickle,0.0018289912040960934
+30,Cheese Sauce,Pizza & Pasta Sauce,0.004728407392990301
+31,Cheese Sauce,Ready to Cook,0.008592321037107782
+32,Cheese Sauce,Salad Dressing,0.004833202536559508
+33,Cheese Sauce,Salsa Dip,0.002271255422382149
+34,Cheese Sauce,Sandwich Spread,0.0020994138834717646
+35,Cheese Sauce,Sauce,0.008178621768318588
+36,Cheese Sauce,Schezwan Chutney,0.0019662261805733295
+37,Cheese Sauce,Soy Sauce,0.0009814412295853666
+38,Cheese Sauce,Tomato Ketchup,0.002576238851799319
+39,Cheese Sauce,Tomato Puree,0.0031288878586311145
+40,Cheese Sauce,Vinegar,0.0007624172785794699
+41,Cheese Spread,Broth Powder,0.007257606682073418
+42,Cheese Spread,Cheese Sauce,0.006896629245023473
+43,Cheese Spread,Chilli Pickle,0.0248000466927524
+44,Cheese Spread,Chilli Sauce,0.06226887335346898
+45,Cheese Spread,Chocolate Spread,0.05739764319471443
+46,Cheese Spread,Chutney,0.043292077675244914
+47,Cheese Spread,Chyawanprash,0.013505179401703708
+48,Cheese Spread,Coconut Milk,0.05031479057600463
+49,Cheese Spread,Combo,0.03723481941958491
+50,Cheese Spread,Creamy Peanut Butter,0.029033126522115305
+51,Cheese Spread,Crunchy Peanut Butter,0.030729952738872374
+52,Cheese Spread,Curry Paste,0.0031495330342209632
+53,Cheese Spread,Dip,0.05661392017929642
+54,Cheese Spread,Dressing,0.040728830153571045
+55,Cheese Spread,Flavoured Mayonnaise,0.05788786457255743
+56,Cheese Spread,Garlic Paste,0.03100848106661093
+57,Cheese Spread,Ginger Garlic Paste,0.06506946184396963
+58,Cheese Spread,Ginger Paste,0.020001471601754982
+59,Cheese Spread,Gravy,0.0005157756478817728
+60,Cheese Spread,Honey,0.050633411711437946
+61,Cheese Spread,Hummus Dip,0.033322982110556995
+62,Cheese Spread,Jam,0.05417667819701655
+63,Cheese Spread,Ketchup,0.04229400242262316
+64,Cheese Spread,Lime Pickle,0.01780394683556211
+65,Cheese Spread,Mango Pickle,0.027963349905526083
+66,Cheese Spread,Mayonnaise,0.0915040343489308
+67,Cheese Spread,Mixed Pickle,0.024579293336360993
+68,Cheese Spread,Murabba,0.00591464079410879
+69,Cheese Spread,Pasta Sauce,0.01226543256392632
+70,Cheese Spread,Peanut Butter,0.029200025153787598
+71,Cheese Spread,Pickle,0.016936491251245366
+72,Cheese Spread,Pizza & Pasta Sauce,0.0869603637344791
+73,Cheese Spread,Preserve,0.0067618757896136935
+74,Cheese Spread,Puliogare Paste,0.004052265778418235
+75,Cheese Spread,Ready to Cook,0.0034999287285659266
+76,Cheese Spread,Relish,0.006034550589395539
+77,Cheese Spread,Salad Dressing,0.023296506416010963
+78,Cheese Spread,Salsa Dip,0.024239071164991473
+79,Cheese Spread,Sandwich Spread,0.07983382504263546
+80,Cheese Spread,Sauce,0.10537934173367246
+81,Cheese Spread,Schezwan Chutney,0.04081956859045086
+82,Cheese Spread,Soy Sauce,0.04453466548502012
+83,Cheese Spread,Spread,0.030080517459443786
+84,Cheese Spread,Tamarind Paste,0.026628466570420586
+85,Cheese Spread,Tomato Ketchup,0.089835124813832
+86,Cheese Spread,Tomato Paste,0.006933878472098472
+87,Cheese Spread,Tomato Puree,0.07759135695443735
+88,Cheese Spread,Vinegar,0.05652138866058344
+89,Chilli,Coconut Milk,0.003331778865820444
+90,Chilli,Hummus Dip,0.011118663385732426
+91,Chilli,Mayonnaise,0.0016051881337771328
+92,Chilli,Sandwich Spread,0.008331790551993939
+93,Chilli,Sauce,0.0025966319119476375
+94,Chilli,Schezwan Chutney,0.003901609121326057
+95,Chilli,Tomato Puree,0.004966955492488411
+96,Chilli Oil,Chilli Sauce,0.005201635235021009
+97,Chilli Oil,Sauce,0.005193263823895275
+98,Chilli Oil,Tomato Ketchup,0.0022720291065878614
+99,Chilli Pickle,Cheese Spread,0.0248000466927524
+100,Chilli Pickle,Chilli Sauce,0.02997107412640901
+101,Chilli Pickle,Chocolate Spread,0.015337979607342735
+102,Chilli Pickle,Chutney,0.031007574983976122
+103,Chilli Pickle,Chyawanprash,0.0062321345763581976
+104,Chilli Pickle,Coconut Milk,0.010321091746944148
+105,Chilli Pickle,Combo,0.003777490016750668
+106,Chilli Pickle,Creamy Peanut Butter,0.012265707877395657
+107,Chilli Pickle,Crunchy Peanut Butter,0.013197930883812891
+108,Chilli Pickle,Curry Paste,0.003422076484861895
+109,Chilli Pickle,Dip,0.009802865460995578
+110,Chilli Pickle,Dressing,0.007561138496219861
+111,Chilli Pickle,Flavoured Mayonnaise,0.017503143419999135
+112,Chilli Pickle,Garlic Paste,0.019429077281511508
+113,Chilli Pickle,Ginger Garlic Paste,0.03472340518319552
+114,Chilli Pickle,Ginger Paste,0.014600504987788481
+115,Chilli Pickle,Gravy,0.0056040806586338966
+116,Chilli Pickle,Honey,0.02382800108366519
+117,Chilli Pickle,Hummus Dip,0.005097576679097101
+118,Chilli Pickle,Jam,0.029111870694610617
+119,Chilli Pickle,Ketchup,0.015910918570445874
+120,Chilli Pickle,Lime Pickle,0.06806434570015427
+121,Chilli Pickle,Mango Pickle,0.08732682973649002
+122,Chilli Pickle,Mayonnaise,0.03138646468997047
+123,Chilli Pickle,Mixed Pickle,0.07170812860268636
+124,Chilli Pickle,Murabba,0.005588227499125816
+125,Chilli Pickle,Pasta Sauce,0.0032112810495967337
+126,Chilli Pickle,Peanut Butter,0.010269333770735597
+127,Chilli Pickle,Pickle,0.04389157637189172
+128,Chilli Pickle,Pizza & Pasta Sauce,0.026042498651078324
+129,Chilli Pickle,Preserve,0.0009796015634390735
+130,Chilli Pickle,Puliogare Paste,0.004437058024104257
+131,Chilli Pickle,Ready to Cook,0.0008450652257604744
+132,Chilli Pickle,Salad Dressing,0.0033274594402899595
+133,Chilli Pickle,Salsa Dip,0.00781832567469334
+134,Chilli Pickle,Sandwich Spread,0.02174921710045671
+135,Chilli Pickle,Sauce,0.045399060424862026
+136,Chilli Pickle,Schezwan Chutney,0.024172592073876533
+137,Chilli Pickle,Soy Sauce,0.024324536567991335
+138,Chilli Pickle,Spread,0.008534030681167643
+139,Chilli Pickle,Tamarind Paste,0.013325388218303516
+140,Chilli Pickle,Tomato Ketchup,0.04735320112931628
+141,Chilli Pickle,Tomato Paste,0.004464532494500646
+142,Chilli Pickle,Tomato Puree,0.018956163496916773
+143,Chilli Pickle,Vinegar,0.02571974069804042
+144,Chilli Sauce,Cheese Sauce,0.004587411080912201
+145,Chilli Sauce,Cheese Spread,0.06226887335346898
+146,Chilli Sauce,Chilli Oil,0.005201635235021009
+147,Chilli Sauce,Chilli Pickle,0.02997107412640901
+148,Chilli Sauce,Chocolate Spread,0.03906981742425524
+149,Chilli Sauce,Chutney,0.03969107364974181
+150,Chilli Sauce,Chyawanprash,0.018154688366342618
+151,Chilli Sauce,Coconut Milk,0.0340028301504377
+152,Chilli Sauce,Combo,0.013637419800271087
+153,Chilli Sauce,Creamy Peanut Butter,0.02114590092078373
+154,Chilli Sauce,Crunchy Peanut Butter,0.025032869924714107
+155,Chilli Sauce,Curry Paste,0.0047884933689259215
+156,Chilli Sauce,Dip,0.027477060614265227
+157,Chilli Sauce,Dressing,0.0334720976772537
+158,Chilli Sauce,Flavoured Mayonnaise,0.043095368450944
+159,Chilli Sauce,Garlic Paste,0.026630906375427442
+160,Chilli Sauce,Ginger Garlic Paste,0.06553839474045056
+161,Chilli Sauce,Ginger Paste,0.024595068980242548
+162,Chilli Sauce,Gravy Masala,0.004652483991866028
+163,Chilli Sauce,Honey,0.060231886463077165
+164,Chilli Sauce,Hummus Dip,0.018969955844608928
+165,Chilli Sauce,Jam,0.06293504594804798
+166,Chilli Sauce,Ketchup,0.03211003440005261
+167,Chilli Sauce,Lime Pickle,0.02320182899763554
+168,Chilli Sauce,Mango Pickle,0.03868770426043797
+169,Chilli Sauce,Mayonnaise,0.08666888075401676
+170,Chilli Sauce,Mixed Pickle,0.035259945305429606
+171,Chilli Sauce,Murabba,0.005473703848932345
+172,Chilli Sauce,Pasta Sauce,0.009436409725944863
+173,Chilli Sauce,Peanut Butter,0.02166818191833795
+174,Chilli Sauce,Pickle,0.019255817715508362
+175,Chilli Sauce,Pizza & Pasta Sauce,0.06630170669110791
+176,Chilli Sauce,Preserve,0.005345929842516781
+177,Chilli Sauce,Puliogare Paste,0.005444597576207297
+178,Chilli Sauce,Ready to Cook,0.002483240050392146
+179,Chilli Sauce,Relish,0.0026213777605212578
+180,Chilli Sauce,Salad Dressing,0.017560134403024813
+181,Chilli Sauce,Salsa Dip,0.01697284795402277
+182,Chilli Sauce,Sandwich Spread,0.05168890350836823
+183,Chilli Sauce,Sauce,0.1244105088717265
+184,Chilli Sauce,Schezwan Chutney,0.05073686869692289
+185,Chilli Sauce,Soy Sauce,0.07548963439304422
+186,Chilli Sauce,Spread,0.011433469408270164
+187,Chilli Sauce,Tamarind Paste,0.024403141803654934
+188,Chilli Sauce,Tomato Ketchup,0.06810867073749069
+189,Chilli Sauce,Tomato Paste,0.00538820698284015
+190,Chilli Sauce,Tomato Puree,0.049140624912367696
+191,Chilli Sauce,Vinegar,0.07224130600486822
+192,Chocolate Spread,Cheese Sauce,0.0015140882727445596
+193,Chocolate Spread,Cheese Spread,0.05739764319471443
+194,Chocolate Spread,Chilli Pickle,0.015337979607342735
+195,Chocolate Spread,Chilli Sauce,0.03906981742425524
+196,Chocolate Spread,Chutney,0.024999283158404977
+197,Chocolate Spread,Chyawanprash,0.010531803249042447
+198,Chocolate Spread,Coconut Milk,0.028348553072020367
+199,Chocolate Spread,Combo,0.011357350494340179
+200,Chocolate Spread,Creamy Peanut Butter,0.030317732010453204
+201,Chocolate Spread,Crunchy Peanut Butter,0.0342640370785444
+202,Chocolate Spread,Curry Paste,0.0005531596218748824
+203,Chocolate Spread,Dip,0.023719161733305162
+204,Chocolate Spread,Dressing,0.0351331534520482
+205,Chocolate Spread,Flavoured Mayonnaise,0.030408671071324563
+206,Chocolate Spread,Garlic Paste,0.018558104091252057
+207,Chocolate Spread,Ginger Garlic Paste,0.038380692969843935
+208,Chocolate Spread,Ginger Paste,0.015431360227900964
+209,Chocolate Spread,Gravy,0.0027176053648707743
+210,Chocolate Spread,Honey,0.04196155266799451
+211,Chocolate Spread,Hummus Dip,0.011959061189806148
+212,Chocolate Spread,Jam,0.06946534775106601
+213,Chocolate Spread,Ketchup,0.0271728035987054
+214,Chocolate Spread,Lime Pickle,0.012780777547531874
+215,Chocolate Spread,Mango Pickle,0.027645849348744877
+216,Chocolate Spread,Mayonnaise,0.07039167091565712
+217,Chocolate Spread,Mixed Pickle,0.018090969491825575
+218,Chocolate Spread,Murabba,0.004516529399681153
+219,Chocolate Spread,Pasta Sauce,0.011938971392573558
+220,Chocolate Spread,Peanut Butter,0.022977627045151047
+221,Chocolate Spread,Pickle,0.014393198356656518
+222,Chocolate Spread,Pizza & Pasta Sauce,0.06274972258620956
+223,Chocolate Spread,Preserve,0.0038003314033481883
+224,Chocolate Spread,Puliogare Paste,0.006289518026817848
+225,Chocolate Spread,Ready to Cook,0.0016392010972606
+226,Chocolate Spread,Salad Dressing,0.013485051527964483
+227,Chocolate Spread,Salsa Dip,0.01754861076072346
+228,Chocolate Spread,Sandwich Spread,0.03818251966250782
+229,Chocolate Spread,Sauce,0.060351536354789834
+230,Chocolate Spread,Schezwan Chutney,0.029399014275498403
+231,Chocolate Spread,Soy Sauce,0.029863914021706295
+232,Chocolate Spread,Spread,0.06392562406641616
+233,Chocolate Spread,Tamarind Paste,0.01663945577269379
+234,Chocolate Spread,Tomato Ketchup,0.0791422997191103
+235,Chocolate Spread,Tomato Paste,0.008118751895551193
+236,Chocolate Spread,Tomato Puree,0.033367490593148676
+237,Chocolate Spread,Vinegar,0.03796251514946522
+238,Chutney,Broth Powder,0.004358301897075655
+239,Chutney,Cheese Sauce,0.0023296103552834296
+240,Chutney,Cheese Spread,0.043292077675244914
+241,Chutney,Chilli Pickle,0.031007574983976122
+242,Chutney,Chilli Sauce,0.03969107364974181
+243,Chutney,Chocolate Spread,0.024999283158404977
+244,Chutney,Chyawanprash,0.009018139795114673
+245,Chutney,Coconut Cream,0.004358301897075655
+246,Chutney,Coconut Milk,0.02932490977615344
+247,Chutney,Combo,0.009582886591909113
+248,Chutney,Cooking Spray,0.0030817848258803907
+249,Chutney,Creamy Peanut Butter,0.014867979759760721
+250,Chutney,Crunchy Peanut Butter,0.011568650254062026
+251,Chutney,Curry Paste,0.0051066231993534454
+252,Chutney,Dip,0.02478702920001886
+253,Chutney,Dressing,0.02003618214410321
+254,Chutney,Flavoured Mayonnaise,0.035469139587989224
+255,Chutney,Garlic Paste,0.023282424951080863
+256,Chutney,Ginger Garlic Paste,0.054966697249773044
+257,Chutney,Ginger Paste,0.02076352019199094
+258,Chutney,Gravy,0.0009291930865505457
+259,Chutney,Honey,0.03323301735733642
+260,Chutney,Hummus Dip,0.026384302641790973
+261,Chutney,Jam,0.028255883417047465
+262,Chutney,Ketchup,0.029887927669715292
+263,Chutney,Lime Pickle,0.024819641030336768
+264,Chutney,Mango Pickle,0.02917727103266217
+265,Chutney,Mayonnaise,0.04562969305329022
+266,Chutney,Mixed Pickle,0.025723922875864867
+267,Chutney,Murabba,0.005559387176477725
+268,Chutney,Pasta Sauce,0.008785446798195602
+269,Chutney,Peanut Butter,0.016982416004117235
+270,Chutney,Pickle,0.024695810375555377
+271,Chutney,Pizza & Pasta Sauce,0.044731946544911375
+272,Chutney,Preserve,0.00487272965416373
+273,Chutney,Puliogare Paste,0.005942136819372686
+274,Chutney,Ready to Cook,0.00504422353611942
+275,Chutney,Relish,0.0023296103552834296
+276,Chutney,Salad Dressing,0.021871537332697137
+277,Chutney,Salsa Dip,0.020111623715756855
+278,Chutney,Sandwich Spread,0.029887778549618254
+279,Chutney,Sauce,0.09170590905034032
+280,Chutney,Schezwan Chutney,0.03611985503900418
+281,Chutney,Soy Sauce,0.03034477764729449
+282,Chutney,Spread,0.008489987342135347
+283,Chutney,Tamarind Paste,0.0374499433877891
+284,Chutney,Tomato Ketchup,0.05440480048746311
+285,Chutney,Tomato Paste,0.011658915075449494
+286,Chutney,Tomato Puree,0.05314620977061643
+287,Chutney,Vinegar,0.03767182732105824
+288,Chyawanprash,Cheese Spread,0.013505179401703708
+289,Chyawanprash,Chilli Pickle,0.0062321345763581976
+290,Chyawanprash,Chilli Sauce,0.018154688366342618
+291,Chyawanprash,Chocolate Spread,0.010531803249042447
+292,Chyawanprash,Chutney,0.009018139795114673
+293,Chyawanprash,Coconut Milk,0.006702912071167477
+294,Chyawanprash,Combo,0.004181670373198537
+295,Chyawanprash,Creamy Peanut Butter,0.006591311969928959
+296,Chyawanprash,Crunchy Peanut Butter,0.012274043213583465
+297,Chyawanprash,Dip,0.0047727574804566466
+298,Chyawanprash,Dressing,0.006594670054873564
+299,Chyawanprash,Flavoured Mayonnaise,0.008798730792770725
+300,Chyawanprash,Garlic Paste,0.005974425440526875
+301,Chyawanprash,Ginger Garlic Paste,0.016615371113937648
+302,Chyawanprash,Ginger Paste,0.0052954768221824865
+303,Chyawanprash,Honey,0.041309633330334876
+304,Chyawanprash,Hummus Dip,0.004067028784152435
+305,Chyawanprash,Jam,0.023914760402756738
+306,Chyawanprash,Ketchup,0.011790848862330765
+307,Chyawanprash,Lime Pickle,0.011330380621056645
+308,Chyawanprash,Mango Pickle,0.011078944301216203
+309,Chyawanprash,Mayonnaise,0.022556425775584237
+310,Chyawanprash,Mixed Pickle,0.0116776713225744
+311,Chyawanprash,Murabba,0.0022911672063808796
+312,Chyawanprash,Pasta Sauce,0.0019749326148030062
+313,Chyawanprash,Peanut Butter,0.0065372243678133565
+314,Chyawanprash,Pickle,0.006195171666592316
+315,Chyawanprash,Pizza & Pasta Sauce,0.01315607742051193
+316,Chyawanprash,Preserve,0.0024098134635594
+317,Chyawanprash,Puliogare Paste,0.0033585027169438014
+318,Chyawanprash,Salad Dressing,0.003215743356323187
+319,Chyawanprash,Salsa Dip,0.004121363618611941
+320,Chyawanprash,Sandwich Spread,0.009650845394442059
+321,Chyawanprash,Sauce,0.02216214741214266
+322,Chyawanprash,Schezwan Chutney,0.010703595421352534
+323,Chyawanprash,Soy Sauce,0.012585018563777766
+324,Chyawanprash,Spread,0.007816788250588085
+325,Chyawanprash,Tamarind Paste,0.006146319036886576
+326,Chyawanprash,Tomato Ketchup,0.028568093685670932
+327,Chyawanprash,Tomato Paste,0.0006864200530146986
+328,Chyawanprash,Tomato Puree,0.009235566105245226
+329,Chyawanprash,Vinegar,0.013926865271051529
+330,Coconut Cream,Chutney,0.004358301897075655
+331,Coconut Cream,Coconut Milk,0.00942369371774264
+332,Coconut Cream,Sandwich Spread,0.003927643732493947
+333,Coconut Milk,Broth Powder,0.00471184685887132
+334,Coconut Milk,Cheese Sauce,0.0016790587242708063
+335,Coconut Milk,Cheese Spread,0.05031479057600463
+336,Coconut Milk,Chilli,0.003331778865820444
+337,Coconut Milk,Chilli Pickle,0.010321091746944148
+338,Coconut Milk,Chilli Sauce,0.0340028301504377
+339,Coconut Milk,Chocolate Spread,0.028348553072020367
+340,Coconut Milk,Chutney,0.02932490977615344
+341,Coconut Milk,Chyawanprash,0.006702912071167477
+342,Coconut Milk,Coconut Cream,0.00942369371774264
+343,Coconut Milk,Combo,0.006094264281786924
+344,Coconut Milk,Creamy Peanut Butter,0.018123352260621273
+345,Coconut Milk,Crunchy Peanut Butter,0.01679153623676484
+346,Coconut Milk,Curry Paste,0.007974592746443347
+347,Coconut Milk,Dip,0.03657233945702411
+348,Coconut Milk,Dressing,0.021217934483881887
+349,Coconut Milk,Flavoured Mayonnaise,0.022754102533429153
+350,Coconut Milk,Garlic Paste,0.022558998134795272
+351,Coconut Milk,Ginger Garlic Paste,0.06704730847822744
+352,Coconut Milk,Ginger Paste,0.023555147902063756
+353,Coconut Milk,Gravy,0.004018276502677194
+354,Coconut Milk,Honey,0.03551463069987685
+355,Coconut Milk,Hummus Dip,0.02711688706524058
+356,Coconut Milk,Jam,0.024811417038413993
+357,Coconut Milk,Ketchup,0.01929179800077517
+358,Coconut Milk,Lime Pickle,0.00591702217352803
+359,Coconut Milk,Mango Pickle,0.014236207576557148
+360,Coconut Milk,Mayonnaise,0.03739413824329281
+361,Coconut Milk,Mixed Pickle,0.010691781300486224
+362,Coconut Milk,Murabba,0.002504318350677707
+363,Coconut Milk,Pasta Sauce,0.010073764971205452
+364,Coconut Milk,Peanut Butter,0.02315591882609876
+365,Coconut Milk,Pickle,0.01296262193537378
+366,Coconut Milk,Pizza & Pasta Sauce,0.03216745594902687
+367,Coconut Milk,Preserve,0.008428807900804105
+368,Coconut Milk,Puliogare Paste,0.00936092219791707
+369,Coconut Milk,Ready to Cook,0.03408381490285347
+370,Coconut Milk,Relish,0.0033581174485416126
+371,Coconut Milk,Salad Dressing,0.012142414211947648
+372,Coconut Milk,Salsa Dip,0.015616574195032292
+373,Coconut Milk,Sandwich Spread,0.017618145906098795
+374,Coconut Milk,Sauce,0.05818933877432151
+375,Coconut Milk,Schezwan Chutney,0.01507918662322662
+376,Coconut Milk,Soy Sauce,0.03560941618924842
+377,Coconut Milk,Spread,0.008397528703708306
+378,Coconut Milk,Tamarind Paste,0.02839525999251228
+379,Coconut Milk,Tomato Ketchup,0.03182385354564492
+380,Coconut Milk,Tomato Paste,0.0141052426940767
+381,Coconut Milk,Tomato Puree,0.05931088965703959
+382,Coconut Milk,Vinegar,0.03786472105801912
+383,Combo,Cheese Sauce,0.0038408167735434814
+384,Combo,Cheese Spread,0.03723481941958491
+385,Combo,Chilli Pickle,0.003777490016750668
+386,Combo,Chilli Sauce,0.013637419800271087
+387,Combo,Chocolate Spread,0.011357350494340179
+388,Combo,Chutney,0.009582886591909113
+389,Combo,Chyawanprash,0.004181670373198537
+390,Combo,Coconut Milk,0.006094264281786924
+391,Combo,Creamy Peanut Butter,0.005566643344484515
+392,Combo,Crunchy Peanut Butter,0.0037618372799209632
+393,Combo,Curry Paste,0.002806421253488508
+394,Combo,Dip,0.014319935712844616
+395,Combo,Dressing,0.009808597306396502
+396,Combo,Flavoured Mayonnaise,0.025837572317646787
+397,Combo,Garlic Paste,0.007242569036626773
+398,Combo,Ginger Garlic Paste,0.01274901143253855
+399,Combo,Ginger Paste,0.002763178417727552
+400,Combo,Honey,0.009728474821269404
+401,Combo,Hummus Dip,0.011185628375701783
+402,Combo,Jam,0.01047200331833981
+403,Combo,Ketchup,0.009725541061875552
+404,Combo,Lime Pickle,0.0031476935573052918
+405,Combo,Mango Pickle,0.006215739497720596
+406,Combo,Mayonnaise,0.022412240954264268
+407,Combo,Mixed Pickle,0.005496013106156707
+408,Combo,Pasta Sauce,0.0026335493751761846
+409,Combo,Peanut Butter,0.00687042361180679
+410,Combo,Pickle,0.00398307299406672
+411,Combo,Pizza & Pasta Sauce,0.01673304201430997
+412,Combo,Ready to Cook,0.004158192876137257
+413,Combo,Salad Dressing,0.007601730879977595
+414,Combo,Salsa Dip,0.004946210848503698
+415,Combo,Sandwich Spread,0.02015059668156279
+416,Combo,Sauce,0.03221800642014175
+417,Combo,Schezwan Chutney,0.00975329757019742
+418,Combo,Soy Sauce,0.008549307504749979
+419,Combo,Spread,0.00938123553838153
+420,Combo,Tamarind Paste,0.003688219811681178
+421,Combo,Tomato Ketchup,0.020017304601367355
+422,Combo,Tomato Paste,0.002745999161959627
+423,Combo,Tomato Puree,0.015596291994023084
+424,Combo,Vinegar,0.007748295220531586
+425,Cooking Spray,Chutney,0.0030817848258803907
+426,Cooking Spray,Sandwich Spread,0.0027772635173313126
+427,Creamy Peanut Butter,Cheese Spread,0.029033126522115305
+428,Creamy Peanut Butter,Chilli Pickle,0.012265707877395657
+429,Creamy Peanut Butter,Chilli Sauce,0.02114590092078373
+430,Creamy Peanut Butter,Chocolate Spread,0.030317732010453204
+431,Creamy Peanut Butter,Chutney,0.014867979759760721
+432,Creamy Peanut Butter,Chyawanprash,0.006591311969928959
+433,Creamy Peanut Butter,Coconut Milk,0.018123352260621273
+434,Creamy Peanut Butter,Combo,0.005566643344484515
+435,Creamy Peanut Butter,Crunchy Peanut Butter,0.059919710354954296
+436,Creamy Peanut Butter,Dip,0.012196606172782124
+437,Creamy Peanut Butter,Dressing,0.013648060653850928
+438,Creamy Peanut Butter,Flavoured Mayonnaise,0.018415320431263787
+439,Creamy Peanut Butter,Garlic Paste,0.009018655681039697
+440,Creamy Peanut Butter,Ginger Garlic Paste,0.03259934908362007
+441,Creamy Peanut Butter,Ginger Paste,0.009727126138147841
+442,Creamy Peanut Butter,Honey,0.04094484354656893
+443,Creamy Peanut Butter,Hummus Dip,0.006625065912390057
+444,Creamy Peanut Butter,Jam,0.049274601470038225
+445,Creamy Peanut Butter,Ketchup,0.015253128330703929
+446,Creamy Peanut Butter,Lime Pickle,0.008930731278782526
+447,Creamy Peanut Butter,Mango Pickle,0.015505594568326854
+448,Creamy Peanut Butter,Mayonnaise,0.04344147099088046
+449,Creamy Peanut Butter,Mixed Pickle,0.01585334537279468
+450,Creamy Peanut Butter,Murabba,0.0036118466482793713
+451,Creamy Peanut Butter,Pasta Sauce,0.002075551630187468
+452,Creamy Peanut Butter,Peanut Butter,0.04338758614190466
+453,Creamy Peanut Butter,Pickle,0.00711537837143924
+454,Creamy Peanut Butter,Pizza & Pasta Sauce,0.02880991422017901
+455,Creamy Peanut Butter,Preserve,0.0015195532926789985
+456,Creamy Peanut Butter,Puliogare Paste,0.0023824880770121947
+457,Creamy Peanut Butter,Relish,0.0024216180917576236
+458,Creamy Peanut Butter,Salad Dressing,0.006820605477558651
+459,Creamy Peanut Butter,Salsa Dip,0.008142917624938881
+460,Creamy Peanut Butter,Sandwich Spread,0.02781190516271517
+461,Creamy Peanut Butter,Sauce,0.035835276657041365
+462,Creamy Peanut Butter,Schezwan Chutney,0.01957312603017397
+463,Creamy Peanut Butter,Soy Sauce,0.019015783376323727
+464,Creamy Peanut Butter,Spread,0.01887111716359882
+465,Creamy Peanut Butter,Tamarind Paste,0.007751354593696667
+466,Creamy Peanut Butter,Tomato Ketchup,0.04408553761515468
+467,Creamy Peanut Butter,Tomato Paste,0.004761186101087756
+468,Creamy Peanut Butter,Tomato Puree,0.02004866644490382
+469,Creamy Peanut Butter,Vinegar,0.022216329058004067
+470,Crunchy Peanut Butter,Cheese Spread,0.030729952738872374
+471,Crunchy Peanut Butter,Chilli Pickle,0.013197930883812891
+472,Crunchy Peanut Butter,Chilli Sauce,0.025032869924714107
+473,Crunchy Peanut Butter,Chocolate Spread,0.0342640370785444
+474,Crunchy Peanut Butter,Chutney,0.011568650254062026
+475,Crunchy Peanut Butter,Chyawanprash,0.012274043213583465
+476,Crunchy Peanut Butter,Coconut Milk,0.01679153623676484
+477,Crunchy Peanut Butter,Combo,0.0037618372799209632
+478,Crunchy Peanut Butter,Creamy Peanut Butter,0.059919710354954296
+479,Crunchy Peanut Butter,Curry Paste,0.0005978765737747523
+480,Crunchy Peanut Butter,Dip,0.01236337006431688
+481,Crunchy Peanut Butter,Dressing,0.015491948452830586
+482,Crunchy Peanut Butter,Flavoured Mayonnaise,0.022217055009968845
+483,Crunchy Peanut Butter,Garlic Paste,0.012112142641155186
+484,Crunchy Peanut Butter,Ginger Garlic Paste,0.035053087141326565
+485,Crunchy Peanut Butter,Ginger Paste,0.009320516065982859
+486,Crunchy Peanut Butter,Honey,0.05154440001477232
+487,Crunchy Peanut Butter,Hummus Dip,0.010831693988901695
+488,Crunchy Peanut Butter,Jam,0.053542628699044234
+489,Crunchy Peanut Butter,Ketchup,0.017663096264367028
+490,Crunchy Peanut Butter,Lime Pickle,0.010595176809085432
+491,Crunchy Peanut Butter,Mango Pickle,0.015544881272508972
+492,Crunchy Peanut Butter,Mayonnaise,0.05102023402184083
+493,Crunchy Peanut Butter,Miso Paste,0.007499320404881067
+494,Crunchy Peanut Butter,Mixed Pickle,0.01779713210015506
+495,Crunchy Peanut Butter,Murabba,0.0014644925349116059
+496,Crunchy Peanut Butter,Pasta Sauce,0.0036468130326865276
+497,Crunchy Peanut Butter,Peanut Butter,0.048159355871057206
+498,Crunchy Peanut Butter,Pickle,0.00952260579058139
+499,Crunchy Peanut Butter,Pizza & Pasta Sauce,0.029889367407362925
+500,Crunchy Peanut Butter,Preserve,0.0010268867379280339
+501,Crunchy Peanut Butter,Puliogare Paste,0.003041191422858311
+502,Crunchy Peanut Butter,Ready to Cook,0.0004429281788664495
+503,Crunchy Peanut Butter,Salad Dressing,0.007100724620090603
+504,Crunchy Peanut Butter,Salsa Dip,0.007610306520910502
+505,Crunchy Peanut Butter,Sandwich Spread,0.030843648155369448
+506,Crunchy Peanut Butter,Sauce,0.04322266462095621
+507,Crunchy Peanut Butter,Schezwan Chutney,0.022400028124924375
+508,Crunchy Peanut Butter,Soy Sauce,0.021856008991093374
+509,Crunchy Peanut Butter,Spread,0.018843631902898478
+510,Crunchy Peanut Butter,Tamarind Paste,0.007595427382383281
+511,Crunchy Peanut Butter,Tomato Ketchup,0.05319510868131761
+512,Crunchy Peanut Butter,Tomato Paste,0.0038025281112911372
+513,Crunchy Peanut Butter,Tomato Puree,0.017451793850754804
+514,Crunchy Peanut Butter,Vinegar,0.02829749826629556
+515,Curry Paste,Cheese Spread,0.0031495330342209632
+516,Curry Paste,Chilli Pickle,0.003422076484861895
+517,Curry Paste,Chilli Sauce,0.0047884933689259215
+518,Curry Paste,Chocolate Spread,0.0005531596218748824
+519,Curry Paste,Chutney,0.0051066231993534454
+520,Curry Paste,Coconut Milk,0.007974592746443347
+521,Curry Paste,Combo,0.002806421253488508
+522,Curry Paste,Crunchy Peanut Butter,0.0005978765737747523
+523,Curry Paste,Dip,0.0030345293052654776
+524,Curry Paste,Dressing,0.0010213486965378437
+525,Curry Paste,Flavoured Mayonnaise,0.0005653764971716682
+526,Curry Paste,Garlic Paste,0.008748181139795983
+527,Curry Paste,Ginger Garlic Paste,0.013161814697532564
+528,Curry Paste,Ginger Paste,0.006953329566026577
+529,Curry Paste,Honey,0.0019076081551054258
+530,Curry Paste,Hummus Dip,0.0020471118595721417
+531,Curry Paste,Jam,0.0011712002030670192
+532,Curry Paste,Ketchup,0.0022026229866142265
+533,Curry Paste,Mango Pickle,0.002448225153055429
+534,Curry Paste,Mayonnaise,0.0017732345434881686
+535,Curry Paste,Mixed Pickle,0.003319272343570573
+536,Curry Paste,Pasta Sauce,0.003976276728969935
+537,Curry Paste,Peanut Butter,0.0020077434058874324
+538,Curry Paste,Pizza & Pasta Sauce,0.0034549690300892818
+539,Curry Paste,Preserve,0.007277781371744775
+540,Curry Paste,Puliogare Paste,0.007607159915053731
+541,Curry Paste,Salsa Dip,0.0016595687493818222
+542,Curry Paste,Sandwich Spread,0.002556678301270227
+543,Curry Paste,Sauce,0.008605416348589643
+544,Curry Paste,Schezwan Chutney,0.0014366889304213394
+545,Curry Paste,Soy Sauce,0.0028684914570576143
+546,Curry Paste,Tamarind Paste,0.006187417528074689
+547,Curry Paste,Tomato Ketchup,0.0018824150939858908
+548,Curry Paste,Tomato Paste,0.008292119121359201
+549,Curry Paste,Tomato Puree,0.008230415678307896
+550,Curry Paste,Vinegar,0.007242113943529128
+551,Dip,Cheese Sauce,0.003114750959336143
+552,Dip,Cheese Spread,0.05661392017929642
+553,Dip,Chilli Pickle,0.009802865460995578
+554,Dip,Chilli Sauce,0.027477060614265227
+555,Dip,Chocolate Spread,0.023719161733305162
+556,Dip,Chutney,0.02478702920001886
+557,Dip,Chyawanprash,0.0047727574804566466
+558,Dip,Coconut Milk,0.03657233945702411
+559,Dip,Combo,0.014319935712844616
+560,Dip,Creamy Peanut Butter,0.012196606172782124
+561,Dip,Crunchy Peanut Butter,0.01236337006431688
+562,Dip,Curry Paste,0.0030345293052654776
+563,Dip,Dressing,0.03894906082262085
+564,Dip,Flavoured Mayonnaise,0.039882035912140186
+565,Dip,Garlic Paste,0.013998360359487212
+566,Dip,Ginger Garlic Paste,0.025921003154178456
+567,Dip,Ginger Paste,0.007842900604765684
+568,Dip,Gravy,0.0012423558519895502
+569,Dip,Honey,0.019945520082687972
+570,Dip,Hummus Dip,0.20588656265601255
+571,Dip,Jam,0.016879919337394547
+572,Dip,Ketchup,0.019783301056609907
+573,Dip,Lime Pickle,0.00799832013089542
+574,Dip,Mango Pickle,0.013588026869314792
+575,Dip,Mayonnaise,0.03505453114533674
+576,Dip,Miso Paste,0.0047578606806980665
+577,Dip,Mixed Pickle,0.008319826518144467
+578,Dip,Murabba,0.0024776828024742504
+579,Dip,Pasta Sauce,0.007474966457010789
+580,Dip,Peanut Butter,0.019530704333528777
+581,Dip,Pickle,0.00849400649239534
+582,Dip,Pizza & Pasta Sauce,0.03433052852129869
+583,Dip,Preserve,0.0019544907152139112
+584,Dip,Puliogare Paste,0.003177917940941827
+585,Dip,Ready to Cook,0.001124043488116735
+586,Dip,Relish,0.014535504476902002
+587,Dip,Salad Dressing,0.018810250685649565
+588,Dip,Salsa Dip,0.07962939018485941
+589,Dip,Sandwich Spread,0.0597809221681636
+590,Dip,Sauce,0.06764056619592622
+591,Dip,Schezwan Chutney,0.019741696787812353
+592,Dip,Soy Sauce,0.023367287667012234
+593,Dip,Spread,0.007970088885564835
+594,Dip,Tahini,0.0047578606806980665
+595,Dip,Tamarind Paste,0.013958003920877112
+596,Dip,Tomato Ketchup,0.03458224111456021
+597,Dip,Tomato Paste,0.0025980465527003505
+598,Dip,Tomato Puree,0.03974494008242535
+599,Dip,Vinegar,0.025483334402053272
+600,Dressing,Broth Powder,0.023535384592508406
+601,Dressing,Cheese Sauce,0.004193397410053557
+602,Dressing,Cheese Spread,0.040728830153571045
+603,Dressing,Chilli Pickle,0.007561138496219861
+604,Dressing,Chilli Sauce,0.0334720976772537
+605,Dressing,Chocolate Spread,0.0351331534520482
+606,Dressing,Chutney,0.02003618214410321
+607,Dressing,Chyawanprash,0.006594670054873564
+608,Dressing,Coconut Milk,0.021217934483881887
+609,Dressing,Combo,0.009808597306396502
+610,Dressing,Creamy Peanut Butter,0.013648060653850928
+611,Dressing,Crunchy Peanut Butter,0.015491948452830586
+612,Dressing,Curry Paste,0.0010213486965378437
+613,Dressing,Dip,0.03894906082262085
+614,Dressing,Flavoured Mayonnaise,0.07365792682583562
+615,Dressing,Garlic Paste,0.013837993597266498
+616,Dressing,Ginger Garlic Paste,0.02875079338789396
+617,Dressing,Ginger Paste,0.010894121452310165
+618,Dressing,Gravy,0.00501776085482759
+619,Dressing,Honey,0.025979073591693515
+620,Dressing,Hummus Dip,0.019737293877924625
+621,Dressing,Jam,0.021643314102245816
+622,Dressing,Ketchup,0.02336032527210297
+623,Dressing,Lime Pickle,0.005498634603667835
+624,Dressing,Mango Pickle,0.013966078909520308
+625,Dressing,Mayonnaise,0.06112069196902332
+626,Dressing,Mixed Pickle,0.012001076064722102
+627,Dressing,Murabba,0.001667855437316278
+628,Dressing,Pasta Sauce,0.011980436909911253
+629,Dressing,Peanut Butter,0.01484091995767804
+630,Dressing,Pickle,0.006764663914831757
+631,Dressing,Pizza & Pasta Sauce,0.06563346076553318
+632,Dressing,Preserve,0.0008771119970908333
+633,Dressing,Puliogare Paste,0.0024448224477445794
+634,Dressing,Ready to Cook,0.003026605409801944
+635,Dressing,Relish,0.0027955982733690377
+636,Dressing,Salad Dressing,0.056394427264920235
+637,Dressing,Salsa Dip,0.02240109857681195
+638,Dressing,Sandwich Spread,0.04720531468835739
+639,Dressing,Sauce,0.08613836440424198
+640,Dressing,Schezwan Chutney,0.029868120258401562
+641,Dressing,Soy Sauce,0.02549597541807972
+642,Dressing,Spread,0.008616636916871596
+643,Dressing,Tamarind Paste,0.011782095986295966
+644,Dressing,Tomato Ketchup,0.04358368295288025
+645,Dressing,Tomato Paste,0.002998077349872408
+646,Dressing,Tomato Puree,0.03389069123697619
+647,Dressing,Vinegar,0.03209267692212472
+648,Flavoured Mayonnaise,Cheese Sauce,0.010058931068550016
+649,Flavoured Mayonnaise,Cheese Spread,0.05788786457255743
+650,Flavoured Mayonnaise,Chilli Pickle,0.017503143419999135
+651,Flavoured Mayonnaise,Chilli Sauce,0.043095368450944
+652,Flavoured Mayonnaise,Chocolate Spread,0.030408671071324563
+653,Flavoured Mayonnaise,Chutney,0.035469139587989224
+654,Flavoured Mayonnaise,Chyawanprash,0.008798730792770725
+655,Flavoured Mayonnaise,Coconut Milk,0.022754102533429153
+656,Flavoured Mayonnaise,Combo,0.025837572317646787
+657,Flavoured Mayonnaise,Creamy Peanut Butter,0.018415320431263787
+658,Flavoured Mayonnaise,Crunchy Peanut Butter,0.022217055009968845
+659,Flavoured Mayonnaise,Curry Paste,0.0005653764971716682
+660,Flavoured Mayonnaise,Dip,0.039882035912140186
+661,Flavoured Mayonnaise,Dressing,0.07365792682583562
+662,Flavoured Mayonnaise,Garlic Paste,0.021959074577916207
+663,Flavoured Mayonnaise,Ginger Garlic Paste,0.04759209434169011
+664,Flavoured Mayonnaise,Ginger Paste,0.015864948923329653
+665,Flavoured Mayonnaise,Gravy,0.004629375624218108
+666,Flavoured Mayonnaise,Honey,0.035532383636588206
+667,Flavoured Mayonnaise,Hummus Dip,0.02430979713788301
+668,Flavoured Mayonnaise,Jam,0.035525811960167145
+669,Flavoured Mayonnaise,Ketchup,0.03766734504999246
+670,Flavoured Mayonnaise,Lime Pickle,0.009131451722570804
+671,Flavoured Mayonnaise,Mango Pickle,0.01878317280514023
+672,Flavoured Mayonnaise,Mayonnaise,0.11183324143034262
+673,Flavoured Mayonnaise,Mixed Pickle,0.017715468108037886
+674,Flavoured Mayonnaise,Murabba,0.003231395838142929
+675,Flavoured Mayonnaise,Pasta Sauce,0.006631875555990208
+676,Flavoured Mayonnaise,Peanut Butter,0.025628229474802606
+677,Flavoured Mayonnaise,Pickle,0.011858022963792549
+678,Flavoured Mayonnaise,Pizza & Pasta Sauce,0.07822467434356371
+679,Flavoured Mayonnaise,Preserve,0.002427665058091585
+680,Flavoured Mayonnaise,Puliogare Paste,0.005582580435204752
+681,Flavoured Mayonnaise,Ready to Cook,0.0037696587209726682
+682,Flavoured Mayonnaise,Salad Dressing,0.06408448933863446
+683,Flavoured Mayonnaise,Salsa Dip,0.015943273578467306
+684,Flavoured Mayonnaise,Sandwich Spread,0.0733098371614932
+685,Flavoured Mayonnaise,Sauce,0.13210803561260773
+686,Flavoured Mayonnaise,Schezwan Chutney,0.03843499919461766
+687,Flavoured Mayonnaise,Soy Sauce,0.034494399772576304
+688,Flavoured Mayonnaise,Spread,0.01763931463421677
+689,Flavoured Mayonnaise,Tamarind Paste,0.018575550581861233
+690,Flavoured Mayonnaise,Tomato Ketchup,0.07396911956473523
+691,Flavoured Mayonnaise,Tomato Paste,0.005255437743782953
+692,Flavoured Mayonnaise,Tomato Puree,0.03407392757767039
+693,Flavoured Mayonnaise,Vinegar,0.03872660967209345
+694,Garlic Paste,Broth Powder,0.008399506795441032
+695,Garlic Paste,Cheese Spread,0.03100848106661093
+696,Garlic Paste,Chilli Pickle,0.019429077281511508
+697,Garlic Paste,Chilli Sauce,0.026630906375427442
+698,Garlic Paste,Chocolate Spread,0.018558104091252057
+699,Garlic Paste,Chutney,0.023282424951080863
+700,Garlic Paste,Chyawanprash,0.005974425440526875
+701,Garlic Paste,Coconut Milk,0.022558998134795272
+702,Garlic Paste,Combo,0.007242569036626773
+703,Garlic Paste,Creamy Peanut Butter,0.009018655681039697
+704,Garlic Paste,Crunchy Peanut Butter,0.012112142641155186
+705,Garlic Paste,Curry Paste,0.008748181139795983
+706,Garlic Paste,Dip,0.013998360359487212
+707,Garlic Paste,Dressing,0.013837993597266498
+708,Garlic Paste,Flavoured Mayonnaise,0.021959074577916207
+709,Garlic Paste,Ginger Garlic Paste,0.09132842718469733
+710,Garlic Paste,Ginger Paste,0.3208485725531486
+711,Garlic Paste,Gravy,0.010744685194931075
+712,Garlic Paste,Honey,0.02274421378596071
+713,Garlic Paste,Hummus Dip,0.009509416346670662
+714,Garlic Paste,Jam,0.019646458653782114
+715,Garlic Paste,Ketchup,0.017337233146404295
+716,Garlic Paste,Lime Pickle,0.009321395962478524
+717,Garlic Paste,Mango Pickle,0.017796171925262394
+718,Garlic Paste,Mayonnaise,0.03222414690939071
+719,Garlic Paste,Mixed Pickle,0.014455278116311171
+720,Garlic Paste,Murabba,0.0017857149974949591
+721,Garlic Paste,Pasta Sauce,0.002565407695165102
+722,Garlic Paste,Peanut Butter,0.01114003232580552
+723,Garlic Paste,Pickle,0.008967141416681724
+724,Garlic Paste,Pizza & Pasta Sauce,0.029535194055026363
+725,Garlic Paste,Preserve,0.0018781868172077568
+726,Garlic Paste,Puliogare Paste,0.007198363261614834
+727,Garlic Paste,Ready to Cook,0.0008101203723746075
+728,Garlic Paste,Salad Dressing,0.011392369482499727
+729,Garlic Paste,Salsa Dip,0.00942231701376542
+730,Garlic Paste,Sandwich Spread,0.019992103754019566
+731,Garlic Paste,Sauce,0.05191146552888005
+732,Garlic Paste,Schezwan Chutney,0.016869955040280892
+733,Garlic Paste,Soy Sauce,0.029796086640994816
+734,Garlic Paste,Spread,0.009399601122980038
+735,Garlic Paste,Tamarind Paste,0.02443096587200198
+736,Garlic Paste,Tomato Ketchup,0.03735242173928824
+737,Garlic Paste,Tomato Paste,0.012839749938835661
+738,Garlic Paste,Tomato Puree,0.053277863686510794
+739,Garlic Paste,Vinegar,0.028034731141268067
+740,Ginger Garlic Paste,Cheese Sauce,0.0036026037500760527
+741,Ginger Garlic Paste,Cheese Spread,0.06506946184396963
+742,Ginger Garlic Paste,Chilli Pickle,0.03472340518319552
+743,Ginger Garlic Paste,Chilli Sauce,0.06553839474045056
+744,Ginger Garlic Paste,Chocolate Spread,0.038380692969843935
+745,Ginger Garlic Paste,Chutney,0.054966697249773044
+746,Ginger Garlic Paste,Chyawanprash,0.016615371113937648
+747,Ginger Garlic Paste,Coconut Milk,0.06704730847822744
+748,Ginger Garlic Paste,Combo,0.01274901143253855
+749,Ginger Garlic Paste,Creamy Peanut Butter,0.03259934908362007
+750,Ginger Garlic Paste,Crunchy Peanut Butter,0.035053087141326565
+751,Ginger Garlic Paste,Curry Paste,0.013161814697532564
+752,Ginger Garlic Paste,Dip,0.025921003154178456
+753,Ginger Garlic Paste,Dressing,0.02875079338789396
+754,Ginger Garlic Paste,Flavoured Mayonnaise,0.04759209434169011
+755,Ginger Garlic Paste,Garlic Paste,0.09132842718469733
+756,Ginger Garlic Paste,Ginger Paste,0.0791039595333318
+757,Ginger Garlic Paste,Gravy,0.0059273849266505
+758,Ginger Garlic Paste,Honey,0.06606809930846404
+759,Ginger Garlic Paste,Hummus Dip,0.019513306173692506
+760,Ginger Garlic Paste,Jam,0.0609511277451182
+761,Ginger Garlic Paste,Ketchup,0.046695023474250176
+762,Ginger Garlic Paste,Lime Pickle,0.01815768459830334
+763,Ginger Garlic Paste,Mango Pickle,0.045025854843058544
+764,Ginger Garlic Paste,Mayonnaise,0.08321670508380649
+765,Ginger Garlic Paste,Mixed Pickle,0.037052586050118116
+766,Ginger Garlic Paste,Murabba,0.0032239730098018874
+767,Ginger Garlic Paste,Pasta Sauce,0.0134317822395305
+768,Ginger Garlic Paste,Peanut Butter,0.032221549904437284
+769,Ginger Garlic Paste,Pickle,0.029940185672088178
+770,Ginger Garlic Paste,Pizza & Pasta Sauce,0.06420625307606587
+771,Ginger Garlic Paste,Preserve,0.004521231823695585
+772,Ginger Garlic Paste,Puliogare Paste,0.020478701434220134
+773,Ginger Garlic Paste,Ready to Cook,0.005850443590136812
+774,Ginger Garlic Paste,Relish,0.0004503254687595066
+775,Ginger Garlic Paste,Salad Dressing,0.019951017394920112
+776,Ginger Garlic Paste,Salsa Dip,0.016882405510464008
+777,Ginger Garlic Paste,Sandwich Spread,0.049932333068195466
+778,Ginger Garlic Paste,Sauce,0.11962622507085074
+779,Ginger Garlic Paste,Schezwan Chutney,0.048949432242688176
+780,Ginger Garlic Paste,Soy Sauce,0.06473726013019114
+781,Ginger Garlic Paste,Spread,0.018384455934865054
+782,Ginger Garlic Paste,Tamarind Paste,0.054342524771300936
+783,Ginger Garlic Paste,Tomato Ketchup,0.09758219770860109
+784,Ginger Garlic Paste,Tomato Paste,0.014488246764419815
+785,Ginger Garlic Paste,Tomato Puree,0.10833262240185802
+786,Ginger Garlic Paste,Vinegar,0.0664478602970057
+787,Ginger Paste,Cheese Spread,0.020001471601754982
+788,Ginger Paste,Chilli Pickle,0.014600504987788481
+789,Ginger Paste,Chilli Sauce,0.024595068980242548
+790,Ginger Paste,Chocolate Spread,0.015431360227900964
+791,Ginger Paste,Chutney,0.02076352019199094
+792,Ginger Paste,Chyawanprash,0.0052954768221824865
+793,Ginger Paste,Coconut Milk,0.023555147902063756
+794,Ginger Paste,Combo,0.002763178417727552
+795,Ginger Paste,Creamy Peanut Butter,0.009727126138147841
+796,Ginger Paste,Crunchy Peanut Butter,0.009320516065982859
+797,Ginger Paste,Curry Paste,0.006953329566026577
+798,Ginger Paste,Dip,0.007842900604765684
+799,Ginger Paste,Dressing,0.010894121452310165
+800,Ginger Paste,Flavoured Mayonnaise,0.015864948923329653
+801,Ginger Paste,Garlic Paste,0.3208485725531486
+802,Ginger Paste,Ginger Garlic Paste,0.0791039595333318
+803,Ginger Paste,Honey,0.01959604015181702
+804,Ginger Paste,Hummus Dip,0.0036952095913456704
+805,Ginger Paste,Jam,0.018450459608970744
+806,Ginger Paste,Ketchup,0.016144646041696784
+807,Ginger Paste,Lime Pickle,0.009358659459806665
+808,Ginger Paste,Mango Pickle,0.016873511157229185
+809,Ginger Paste,Mayonnaise,0.028904536484071566
+810,Ginger Paste,Mixed Pickle,0.01239164906006639
+811,Ginger Paste,Murabba,0.0011354739633448738
+812,Ginger Paste,Pasta Sauce,0.001305002711994204
+813,Ginger Paste,Peanut Butter,0.008126873322769797
+814,Ginger Paste,Pickle,0.007237017867921089
+815,Ginger Paste,Pizza & Pasta Sauce,0.022536481285445907
+816,Ginger Paste,Puliogare Paste,0.006241620614198568
+817,Ginger Paste,Ready to Cook,0.0010302546501508199
+818,Ginger Paste,Relish,0.0019032399213748368
+819,Ginger Paste,Salad Dressing,0.008403052658314708
+820,Ginger Paste,Salsa Dip,0.00435732594344891
+821,Ginger Paste,Sandwich Spread,0.017033619284764864
+822,Ginger Paste,Sauce,0.042560227595715004
+823,Ginger Paste,Schezwan Chutney,0.013909757999624704
+824,Ginger Paste,Soy Sauce,0.02106451273656142
+825,Ginger Paste,Spread,0.006198244814820312
+826,Ginger Paste,Tamarind Paste,0.026399006825187997
+827,Ginger Paste,Tomato Ketchup,0.029620235004267723
+828,Ginger Paste,Tomato Paste,0.010205437158126338
+829,Ginger Paste,Tomato Puree,0.042093684640111234
+830,Ginger Paste,Vinegar,0.021025902889393558
+831,Gravy,Cheese Spread,0.0005157756478817728
+832,Gravy,Chilli Pickle,0.0056040806586338966
+833,Gravy,Chocolate Spread,0.0027176053648707743
+834,Gravy,Chutney,0.0009291930865505457
+835,Gravy,Coconut Milk,0.004018276502677194
+836,Gravy,Dip,0.0012423558519895502
+837,Gravy,Dressing,0.00501776085482759
+838,Gravy,Flavoured Mayonnaise,0.004629375624218108
+839,Gravy,Garlic Paste,0.010744685194931075
+840,Gravy,Ginger Garlic Paste,0.0059273849266505
+841,Gravy,Gravy Masala,0.13483997249264842
+842,Gravy,Honey,0.004373527599104513
+843,Gravy,Hummus Dip,0.0016762015736698668
+844,Gravy,Jam,0.0019179876412554404
+845,Gravy,Ketchup,0.0012023573924732011
+846,Gravy,Lime Pickle,0.006226331419568623
+847,Gravy,Mayonnaise,0.0029038945950924868
+848,Gravy,Mixed Pickle,0.0013589314867470707
+849,Gravy,Pizza & Pasta Sauce,0.0028289731692662406
+850,Gravy,Salad Dressing,0.002891671372865656
+851,Gravy,Sandwich Spread,0.0033495058294293334
+852,Gravy,Sauce,0.002348741937434584
+853,Gravy,Schezwan Chutney,0.0011763794121878864
+854,Gravy,Spread,0.0022091262835108203
+855,Gravy,Tomato Ketchup,0.0034252127542356054
+856,Gravy,Tomato Puree,0.012729544146483755
+857,Gravy,Vinegar,0.0036491915279276005
+858,Gravy Masala,Chilli Sauce,0.004652483991866028
+859,Gravy Masala,Gravy,0.13483997249264842
+860,Gravy Masala,Mango Pickle,0.003964478822987642
+861,Gravy Masala,Pizza & Pasta Sauce,0.004196045307589303
+862,Gravy Masala,Sandwich Spread,0.014904360038839154
+863,Gravy Masala,Tomato Ketchup,0.0020321646116754294
+864,Gravy Masala,Vinegar,0.010825251475415592
+865,Honey,Cheese Sauce,0.0005221435228492334
+866,Honey,Cheese Spread,0.050633411711437946
+867,Honey,Chilli Pickle,0.02382800108366519
+868,Honey,Chilli Sauce,0.060231886463077165
+869,Honey,Chocolate Spread,0.04196155266799451
+870,Honey,Chutney,0.03323301735733642
+871,Honey,Chyawanprash,0.041309633330334876
+872,Honey,Coconut Milk,0.03551463069987685
+873,Honey,Combo,0.009728474821269404
+874,Honey,Creamy Peanut Butter,0.04094484354656893
+875,Honey,Crunchy Peanut Butter,0.05154440001477232
+876,Honey,Curry Paste,0.0019076081551054258
+877,Honey,Dip,0.019945520082687972
+878,Honey,Dressing,0.025979073591693515
+879,Honey,Flavoured Mayonnaise,0.035532383636588206
+880,Honey,Garlic Paste,0.02274421378596071
+881,Honey,Ginger Garlic Paste,0.06606809930846404
+882,Honey,Ginger Paste,0.01959604015181702
+883,Honey,Gravy,0.004373527599104513
+884,Honey,Hummus Dip,0.015943690337527645
+885,Honey,Jam,0.07198980639909279
+886,Honey,Ketchup,0.04002803114264309
+887,Honey,Lime Pickle,0.020796728385812143
+888,Honey,Mango Pickle,0.034241058888192365
+889,Honey,Mayonnaise,0.07848641675847091
+890,Honey,Mixed Pickle,0.03048415970201219
+891,Honey,Murabba,0.005918711038295024
+892,Honey,Pasta Sauce,0.010382591530242227
+893,Honey,Peanut Butter,0.03910774901531145
+894,Honey,Pickle,0.01780876374025337
+895,Honey,Pizza & Pasta Sauce,0.054108880860876424
+896,Honey,Preserve,0.004259351983395945
+897,Honey,Puliogare Paste,0.00639279078426022
+898,Honey,Ready to Cook,0.0016958685652399405
+899,Honey,Salad Dressing,0.014149967612658538
+900,Honey,Salsa Dip,0.011281669398561818
+901,Honey,Sandwich Spread,0.04267927018651921
+902,Honey,Sauce,0.08202372802049358
+903,Honey,Schezwan Chutney,0.03738451556470869
+904,Honey,Soy Sauce,0.04707087449539772
+905,Honey,Spread,0.020162535007493744
+906,Honey,Tamarind Paste,0.023008623836808316
+907,Honey,Tomato Ketchup,0.10695821833107395
+908,Honey,Tomato Paste,0.0039197286638227875
+909,Honey,Tomato Puree,0.0427755873318729
+910,Honey,Vinegar,0.064153996290228
+911,Hummus Dip,Cheese Sauce,0.007004099578592243
+912,Hummus Dip,Cheese Spread,0.033322982110556995
+913,Hummus Dip,Chilli,0.011118663385732426
+914,Hummus Dip,Chilli Pickle,0.005097576679097101
+915,Hummus Dip,Chilli Sauce,0.018969955844608928
+916,Hummus Dip,Chocolate Spread,0.011959061189806148
+917,Hummus Dip,Chutney,0.026384302641790973
+918,Hummus Dip,Chyawanprash,0.004067028784152435
+919,Hummus Dip,Coconut Milk,0.02711688706524058
+920,Hummus Dip,Combo,0.011185628375701783
+921,Hummus Dip,Creamy Peanut Butter,0.006625065912390057
+922,Hummus Dip,Crunchy Peanut Butter,0.010831693988901695
+923,Hummus Dip,Curry Paste,0.0020471118595721417
+924,Hummus Dip,Dip,0.20588656265601255
+925,Hummus Dip,Dressing,0.019737293877924625
+926,Hummus Dip,Flavoured Mayonnaise,0.02430979713788301
+927,Hummus Dip,Garlic Paste,0.009509416346670662
+928,Hummus Dip,Ginger Garlic Paste,0.019513306173692506
+929,Hummus Dip,Ginger Paste,0.0036952095913456704
+930,Hummus Dip,Gravy,0.0016762015736698668
+931,Hummus Dip,Honey,0.015943690337527645
+932,Hummus Dip,Jam,0.009053253869585661
+933,Hummus Dip,Ketchup,0.015075142283261305
+934,Hummus Dip,Lime Pickle,0.003444073552811451
+935,Hummus Dip,Mango Pickle,0.01005365223591951
+936,Hummus Dip,Mayonnaise,0.021345665650166917
+937,Hummus Dip,Mixed Pickle,0.006013505775010719
+938,Hummus Dip,Pasta Sauce,0.009605062233601785
+939,Hummus Dip,Peanut Butter,0.017702094477190913
+940,Hummus Dip,Pickle,0.00500375650543788
+941,Hummus Dip,Pizza & Pasta Sauce,0.018673717497527543
+942,Hummus Dip,Preserve,0.0008790075208908441
+943,Hummus Dip,Puliogare Paste,0.0003062632431687765
+944,Hummus Dip,Ready to Cook,0.006824578942392412
+945,Hummus Dip,Relish,0.0070040995785922424
+946,Hummus Dip,Salad Dressing,0.01343595082109332
+947,Hummus Dip,Salsa Dip,0.04810609181986918
+948,Hummus Dip,Sandwich Spread,0.029026690691721146
+949,Hummus Dip,Sauce,0.03897595282355533
+950,Hummus Dip,Schezwan Chutney,0.015356760182885608
+951,Hummus Dip,Soy Sauce,0.014464506686189774
+952,Hummus Dip,Spread,0.003910305646216254
+953,Hummus Dip,Tamarind Paste,0.005679584973547854
+954,Hummus Dip,Tomato Ketchup,0.01937589788531112
+955,Hummus Dip,Tomato Paste,0.0020030376565296822
+956,Hummus Dip,Tomato Puree,0.02518301321483935
+957,Hummus Dip,Vinegar,0.01890696877814286
+958,Jam,Cheese Sauce,0.003740060721661045
+959,Jam,Cheese Spread,0.05417667819701655
+960,Jam,Chilli Pickle,0.029111870694610617
+961,Jam,Chilli Sauce,0.06293504594804798
+962,Jam,Chocolate Spread,0.06946534775106601
+963,Jam,Chutney,0.028255883417047465
+964,Jam,Chyawanprash,0.023914760402756738
+965,Jam,Coconut Milk,0.024811417038413993
+966,Jam,Combo,0.01047200331833981
+967,Jam,Creamy Peanut Butter,0.049274601470038225
+968,Jam,Crunchy Peanut Butter,0.053542628699044234
+969,Jam,Curry Paste,0.0011712002030670192
+970,Jam,Dip,0.016879919337394547
+971,Jam,Dressing,0.021643314102245816
+972,Jam,Flavoured Mayonnaise,0.035525811960167145
+973,Jam,Garlic Paste,0.019646458653782114
+974,Jam,Ginger Garlic Paste,0.0609511277451182
+975,Jam,Ginger Paste,0.018450459608970744
+976,Jam,Gravy,0.0019179876412554404
+977,Jam,Honey,0.07198980639909279
+978,Jam,Hummus Dip,0.009053253869585661
+979,Jam,Ketchup,0.04812998254577409
+980,Jam,Lime Pickle,0.02355763802936152
+981,Jam,Mango Pickle,0.04661693089456154
+982,Jam,Mayonnaise,0.10442444798464566
+983,Jam,Mixed Pickle,0.04629338425122969
+984,Jam,Murabba,0.007650247691088636
+985,Jam,Pasta Sauce,0.006227982881010012
+986,Jam,Peanut Butter,0.030583734666545934
+987,Jam,Pickle,0.02382559442069565
+988,Jam,Pizza & Pasta Sauce,0.0630873529432675
+989,Jam,Preserve,0.0046937389539359765
+990,Jam,Puliogare Paste,0.012031794551314532
+991,Jam,Ready to Cook,0.0028922222176909844
+992,Jam,Salad Dressing,0.011062800231693077
+993,Jam,Salsa Dip,0.010397431029592018
+994,Jam,Sandwich Spread,0.051139655286791444
+995,Jam,Sauce,0.07829443218769627
+996,Jam,Schezwan Chutney,0.03795666609653926
+997,Jam,Soy Sauce,0.04350821200106182
+998,Jam,Spread,0.030512603186053165
+999,Jam,Tamarind Paste,0.022061867683165627
+1000,Jam,Tomato Ketchup,0.1636361256413808
+1001,Jam,Tomato Paste,0.005920919031396739
+1002,Jam,Tomato Puree,0.03429221649910015
+1003,Jam,Vinegar,0.04929935731027357
+1004,Ketchup,Cheese Sauce,0.005024115857080948
+1005,Ketchup,Cheese Spread,0.04229400242262316
+1006,Ketchup,Chilli Pickle,0.015910918570445874
+1007,Ketchup,Chilli Sauce,0.03211003440005261
+1008,Ketchup,Chocolate Spread,0.0271728035987054
+1009,Ketchup,Chutney,0.029887927669715292
+1010,Ketchup,Chyawanprash,0.011790848862330765
+1011,Ketchup,Coconut Milk,0.01929179800077517
+1012,Ketchup,Combo,0.009725541061875552
+1013,Ketchup,Creamy Peanut Butter,0.015253128330703929
+1014,Ketchup,Crunchy Peanut Butter,0.017663096264367028
+1015,Ketchup,Curry Paste,0.0022026229866142265
+1016,Ketchup,Dip,0.019783301056609907
+1017,Ketchup,Dressing,0.02336032527210297
+1018,Ketchup,Flavoured Mayonnaise,0.03766734504999246
+1019,Ketchup,Garlic Paste,0.017337233146404295
+1020,Ketchup,Ginger Garlic Paste,0.046695023474250176
+1021,Ketchup,Ginger Paste,0.016144646041696784
+1022,Ketchup,Gravy,0.0012023573924732011
+1023,Ketchup,Honey,0.04002803114264309
+1024,Ketchup,Hummus Dip,0.015075142283261305
+1025,Ketchup,Jam,0.04812998254577409
+1026,Ketchup,Lime Pickle,0.012681750883859191
+1027,Ketchup,Mango Pickle,0.026937419913308547
+1028,Ketchup,Mayonnaise,0.07632693593494477
+1029,Ketchup,Mixed Pickle,0.025306173387974036
+1030,Ketchup,Murabba,0.0017984341376433325
+1031,Ketchup,Pasta Sauce,0.007923286451711945
+1032,Ketchup,Peanut Butter,0.01791621859934416
+1033,Ketchup,Pickle,0.015399032966828033
+1034,Ketchup,Pizza & Pasta Sauce,0.049463693991779925
+1035,Ketchup,Preserve,0.0037831292156660546
+1036,Ketchup,Puliogare Paste,0.009226808380655717
+1037,Ketchup,Ready to Cook,0.005439270862829595
+1038,Ketchup,Relish,0.002009646342832379
+1039,Ketchup,Salad Dressing,0.013615236721124094
+1040,Ketchup,Salsa Dip,0.011071001081655723
+1041,Ketchup,Sandwich Spread,0.032029141515699446
+1042,Ketchup,Sauce,0.08428779943576105
+1043,Ketchup,Schezwan Chutney,0.02769450968925699
+1044,Ketchup,Soy Sauce,0.043490312599192504
+1045,Ketchup,Spread,0.012037714028659744
+1046,Ketchup,Tamarind Paste,0.016724954197783724
+1047,Ketchup,Tomato Ketchup,0.0579136020461354
+1048,Ketchup,Tomato Paste,0.0053880015944124966
+1049,Ketchup,Tomato Puree,0.030780183412523088
+1050,Ketchup,Vinegar,0.04314797712145694
+1051,Lime Pickle,Cheese Spread,0.01780394683556211
+1052,Lime Pickle,Chilli Pickle,0.06806434570015427
+1053,Lime Pickle,Chilli Sauce,0.02320182899763554
+1054,Lime Pickle,Chocolate Spread,0.012780777547531874
+1055,Lime Pickle,Chutney,0.024819641030336768
+1056,Lime Pickle,Chyawanprash,0.011330380621056645
+1057,Lime Pickle,Coconut Milk,0.00591702217352803
+1058,Lime Pickle,Combo,0.0031476935573052918
+1059,Lime Pickle,Creamy Peanut Butter,0.008930731278782526
+1060,Lime Pickle,Crunchy Peanut Butter,0.010595176809085432
+1061,Lime Pickle,Dip,0.00799832013089542
+1062,Lime Pickle,Dressing,0.005498634603667835
+1063,Lime Pickle,Flavoured Mayonnaise,0.009131451722570804
+1064,Lime Pickle,Garlic Paste,0.009321395962478524
+1065,Lime Pickle,Ginger Garlic Paste,0.01815768459830334
+1066,Lime Pickle,Ginger Paste,0.009358659459806665
+1067,Lime Pickle,Gravy,0.006226331419568623
+1068,Lime Pickle,Honey,0.020796728385812143
+1069,Lime Pickle,Hummus Dip,0.003444073552811451
+1070,Lime Pickle,Jam,0.02355763802936152
+1071,Lime Pickle,Ketchup,0.012681750883859191
+1072,Lime Pickle,Mango Pickle,0.06242435446330779
+1073,Lime Pickle,Mayonnaise,0.02114828701309939
+1074,Lime Pickle,Mixed Pickle,0.04672251344324464
+1075,Lime Pickle,Murabba,0.010865256499622878
+1076,Lime Pickle,Pasta Sauce,0.0026758849462710306
+1077,Lime Pickle,Peanut Butter,0.005704796148522506
+1078,Lime Pickle,Pickle,0.035974247160079346
+1079,Lime Pickle,Pizza & Pasta Sauce,0.020150558461083403
+1080,Lime Pickle,Preserve,0.001632557871120848
+1081,Lime Pickle,Salad Dressing,0.0019804954756334624
+1082,Lime Pickle,Salsa Dip,0.0052118614733103925
+1083,Lime Pickle,Sandwich Spread,0.015140826838093797
+1084,Lime Pickle,Sauce,0.028204909514880524
+1085,Lime Pickle,Schezwan Chutney,0.011118633648876572
+1086,Lime Pickle,Soy Sauce,0.013673574943962192
+1087,Lime Pickle,Spread,0.007867718366404057
+1088,Lime Pickle,Tamarind Paste,0.007495019433198199
+1089,Lime Pickle,Tomato Ketchup,0.0354702510834005
+1090,Lime Pickle,Tomato Paste,0.0009300474724621471
+1091,Lime Pickle,Tomato Puree,0.015180307197716377
+1092,Lime Pickle,Vinegar,0.015745705575386928
+1093,Mango Pickle,Cheese Sauce,0.001116865381676369
+1094,Mango Pickle,Cheese Spread,0.027963349905526083
+1095,Mango Pickle,Chilli Pickle,0.08732682973649002
+1096,Mango Pickle,Chilli Sauce,0.03868770426043797
+1097,Mango Pickle,Chocolate Spread,0.027645849348744877
+1098,Mango Pickle,Chutney,0.02917727103266217
+1099,Mango Pickle,Chyawanprash,0.011078944301216203
+1100,Mango Pickle,Coconut Milk,0.014236207576557148
+1101,Mango Pickle,Combo,0.006215739497720596
+1102,Mango Pickle,Creamy Peanut Butter,0.015505594568326854
+1103,Mango Pickle,Crunchy Peanut Butter,0.015544881272508972
+1104,Mango Pickle,Curry Paste,0.002448225153055429
+1105,Mango Pickle,Dip,0.013588026869314792
+1106,Mango Pickle,Dressing,0.013966078909520308
+1107,Mango Pickle,Flavoured Mayonnaise,0.01878317280514023
+1108,Mango Pickle,Garlic Paste,0.017796171925262394
+1109,Mango Pickle,Ginger Garlic Paste,0.045025854843058544
+1110,Mango Pickle,Ginger Paste,0.016873511157229185
+1111,Mango Pickle,Gravy Masala,0.003964478822987642
+1112,Mango Pickle,Honey,0.034241058888192365
+1113,Mango Pickle,Hummus Dip,0.01005365223591951
+1114,Mango Pickle,Jam,0.04661693089456154
+1115,Mango Pickle,Ketchup,0.026937419913308547
+1116,Mango Pickle,Lime Pickle,0.06242435446330779
+1117,Mango Pickle,Mayonnaise,0.04653125839036799
+1118,Mango Pickle,Mixed Pickle,0.0721577120843518
+1119,Mango Pickle,Murabba,0.00932851484511808
+1120,Mango Pickle,Pasta Sauce,0.005360641267324152
+1121,Mango Pickle,Peanut Butter,0.011342576824022848
+1122,Mango Pickle,Pickle,0.05430820479850129
+1123,Mango Pickle,Pizza & Pasta Sauce,0.03647252858119922
+1124,Mango Pickle,Preserve,0.0014016549298025121
+1125,Mango Pickle,Puliogare Paste,0.008302183274707374
+1126,Mango Pickle,Ready to Cook,0.001813732057858508
+1127,Mango Pickle,Salad Dressing,0.005951335346774392
+1128,Mango Pickle,Salsa Dip,0.007990562645740587
+1129,Mango Pickle,Sandwich Spread,0.025210888424175258
+1130,Mango Pickle,Sauce,0.0592041920722458
+1131,Mango Pickle,Schezwan Chutney,0.02635541345846773
+1132,Mango Pickle,Soy Sauce,0.030315881294684554
+1133,Mango Pickle,Spread,0.008573574402623992
+1134,Mango Pickle,Tamarind Paste,0.0187090260419053
+1135,Mango Pickle,Tomato Ketchup,0.0739584273525195
+1136,Mango Pickle,Tomato Paste,0.0031940200045268395
+1137,Mango Pickle,Tomato Puree,0.02633070921272381
+1138,Mango Pickle,Vinegar,0.03411860178110145
+1139,Mango Pickle,Wasabi Paste,0.006268391408072225
+1140,Mayonnaise,Cheese Sauce,0.0048536326965099115
+1141,Mayonnaise,Cheese Spread,0.0915040343489308
+1142,Mayonnaise,Chilli,0.0016051881337771328
+1143,Mayonnaise,Chilli Pickle,0.03138646468997047
+1144,Mayonnaise,Chilli Sauce,0.08666888075401676
+1145,Mayonnaise,Chocolate Spread,0.07039167091565712
+1146,Mayonnaise,Chutney,0.04562969305329022
+1147,Mayonnaise,Chyawanprash,0.022556425775584237
+1148,Mayonnaise,Coconut Milk,0.03739413824329281
+1149,Mayonnaise,Combo,0.022412240954264268
+1150,Mayonnaise,Creamy Peanut Butter,0.04344147099088046
+1151,Mayonnaise,Crunchy Peanut Butter,0.05102023402184083
+1152,Mayonnaise,Curry Paste,0.0017732345434881686
+1153,Mayonnaise,Dip,0.03505453114533674
+1154,Mayonnaise,Dressing,0.06112069196902332
+1155,Mayonnaise,Flavoured Mayonnaise,0.11183324143034262
+1156,Mayonnaise,Garlic Paste,0.03222414690939071
+1157,Mayonnaise,Ginger Garlic Paste,0.08321670508380649
+1158,Mayonnaise,Ginger Paste,0.028904536484071566
+1159,Mayonnaise,Gravy,0.0029038945950924868
+1160,Mayonnaise,Honey,0.07848641675847091
+1161,Mayonnaise,Hummus Dip,0.021345665650166917
+1162,Mayonnaise,Jam,0.10442444798464566
+1163,Mayonnaise,Ketchup,0.07632693593494477
+1164,Mayonnaise,Lime Pickle,0.02114828701309939
+1165,Mayonnaise,Mango Pickle,0.04653125839036799
+1166,Mayonnaise,Miso Paste,0.0018535116022724415
+1167,Mayonnaise,Mixed Pickle,0.050758575444596395
+1168,Mayonnaise,Murabba,0.005067439796793592
+1169,Mayonnaise,Pasta Sauce,0.01594672047771125
+1170,Mayonnaise,Peanut Butter,0.03423844303244025
+1171,Mayonnaise,Pickle,0.01673139978315183
+1172,Mayonnaise,Pizza & Pasta Sauce,0.17625778848634388
+1173,Mayonnaise,Preserve,0.00279182781669594
+1174,Mayonnaise,Puliogare Paste,0.006101650416370139
+1175,Mayonnaise,Ready to Cook,0.003722079351472004
+1176,Mayonnaise,Relish,0.0032357551310066074
+1177,Mayonnaise,Salad Dressing,0.03226729035284249
+1178,Mayonnaise,Salsa Dip,0.023381563749602957
+1179,Mayonnaise,Sandwich Spread,0.09729205637477654
+1180,Mayonnaise,Sauce,0.17289207175843738
+1181,Mayonnaise,Schezwan Chutney,0.09123671316390494
+1182,Mayonnaise,Soy Sauce,0.07875228614324456
+1183,Mayonnaise,Spread,0.032319122028052684
+1184,Mayonnaise,Tamarind Paste,0.03240979588299359
+1185,Mayonnaise,Tomato Ketchup,0.23316218801239058
+1186,Mayonnaise,Tomato Paste,0.007518579915756524
+1187,Mayonnaise,Tomato Puree,0.06472398610640068
+1188,Mayonnaise,Vinegar,0.08769614359108258
+1189,Miso Paste,Crunchy Peanut Butter,0.007499320404881067
+1190,Miso Paste,Dip,0.0047578606806980665
+1191,Miso Paste,Mayonnaise,0.0018535116022724415
+1192,Miso Paste,Pizza & Pasta Sauce,0.0054170711987417165
+1193,Miso Paste,Sauce,0.0014991661333493412
+1194,Mixed Pickle,Cheese Sauce,0.0011356738477248925
+1195,Mixed Pickle,Cheese Spread,0.024579293336360993
+1196,Mixed Pickle,Chilli Pickle,0.07170812860268636
+1197,Mixed Pickle,Chilli Sauce,0.035259945305429606
+1198,Mixed Pickle,Chocolate Spread,0.018090969491825575
+1199,Mixed Pickle,Chutney,0.025723922875864867
+1200,Mixed Pickle,Chyawanprash,0.0116776713225744
+1201,Mixed Pickle,Coconut Milk,0.010691781300486224
+1202,Mixed Pickle,Combo,0.005496013106156707
+1203,Mixed Pickle,Creamy Peanut Butter,0.01585334537279468
+1204,Mixed Pickle,Crunchy Peanut Butter,0.01779713210015506
+1205,Mixed Pickle,Curry Paste,0.003319272343570573
+1206,Mixed Pickle,Dip,0.008319826518144467
+1207,Mixed Pickle,Dressing,0.012001076064722102
+1208,Mixed Pickle,Flavoured Mayonnaise,0.017715468108037886
+1209,Mixed Pickle,Garlic Paste,0.014455278116311171
+1210,Mixed Pickle,Ginger Garlic Paste,0.037052586050118116
+1211,Mixed Pickle,Ginger Paste,0.01239164906006639
+1212,Mixed Pickle,Gravy,0.0013589314867470707
+1213,Mixed Pickle,Honey,0.03048415970201219
+1214,Mixed Pickle,Hummus Dip,0.006013505775010719
+1215,Mixed Pickle,Jam,0.04629338425122969
+1216,Mixed Pickle,Ketchup,0.025306173387974036
+1217,Mixed Pickle,Lime Pickle,0.04672251344324464
+1218,Mixed Pickle,Mango Pickle,0.0721577120843518
+1219,Mixed Pickle,Mayonnaise,0.050758575444596395
+1220,Mixed Pickle,Murabba,0.006775436299233333
+1221,Mixed Pickle,Pasta Sauce,0.0031148095089373468
+1222,Mixed Pickle,Peanut Butter,0.012909757457067324
+1223,Mixed Pickle,Pickle,0.03755672274352934
+1224,Mixed Pickle,Pizza & Pasta Sauce,0.03019376613465585
+1225,Mixed Pickle,Preserve,0.0014252593673573467
+1226,Mixed Pickle,Puliogare Paste,0.0037244097390755865
+1227,Mixed Pickle,Ready to Cook,0.001229517360930567
+1228,Mixed Pickle,Salad Dressing,0.005705754919528617
+1229,Mixed Pickle,Salsa Dip,0.009262644736467613
+1230,Mixed Pickle,Sandwich Spread,0.024383719053657684
+1231,Mixed Pickle,Sauce,0.050628004414893506
+1232,Mixed Pickle,Schezwan Chutney,0.02665857083727207
+1233,Mixed Pickle,Soy Sauce,0.027455871288507183
+1234,Mixed Pickle,Spread,0.009114227640125245
+1235,Mixed Pickle,Tamarind Paste,0.011874911946873696
+1236,Mixed Pickle,Tomato Ketchup,0.0762074553797192
+1237,Mixed Pickle,Tomato Paste,0.0016239042984780982
+1238,Mixed Pickle,Tomato Puree,0.02158048527657676
+1239,Mixed Pickle,Vinegar,0.031092937953316295
+1240,Murabba,Cheese Spread,0.00591464079410879
+1241,Murabba,Chilli Pickle,0.005588227499125816
+1242,Murabba,Chilli Sauce,0.005473703848932345
+1243,Murabba,Chocolate Spread,0.004516529399681153
+1244,Murabba,Chutney,0.005559387176477725
+1245,Murabba,Chyawanprash,0.0022911672063808796
+1246,Murabba,Coconut Milk,0.002504318350677707
+1247,Murabba,Creamy Peanut Butter,0.0036118466482793713
+1248,Murabba,Crunchy Peanut Butter,0.0014644925349116059
+1249,Murabba,Dip,0.0024776828024742504
+1250,Murabba,Dressing,0.001667855437316278
+1251,Murabba,Flavoured Mayonnaise,0.003231395838142929
+1252,Murabba,Garlic Paste,0.0017857149974949591
+1253,Murabba,Ginger Garlic Paste,0.0032239730098018874
+1254,Murabba,Ginger Paste,0.0011354739633448738
+1255,Murabba,Honey,0.005918711038295024
+1256,Murabba,Jam,0.007650247691088636
+1257,Murabba,Ketchup,0.0017984341376433325
+1258,Murabba,Lime Pickle,0.010865256499622878
+1259,Murabba,Mango Pickle,0.00932851484511808
+1260,Murabba,Mayonnaise,0.005067439796793592
+1261,Murabba,Mixed Pickle,0.006775436299233333
+1262,Murabba,Peanut Butter,0.003278631252574552
+1263,Murabba,Pickle,0.01636765707870698
+1264,Murabba,Pizza & Pasta Sauce,0.0045840769004535055
+1265,Murabba,Salsa Dip,0.00406509662905428
+1266,Murabba,Sandwich Spread,0.004175038183038493
+1267,Murabba,Sauce,0.0037083213193215827
+1268,Murabba,Schezwan Chutney,0.0029326289988643385
+1269,Murabba,Soy Sauce,0.0023421134671079333
+1270,Murabba,Spread,0.0011014384872867033
+1271,Murabba,Tamarind Paste,0.001010401051289053
+1272,Murabba,Tomato Ketchup,0.007684927440631121
+1273,Murabba,Tomato Puree,0.0022400354203174493
+1274,Murabba,Vinegar,0.004093727035555761
+1275,Pasta Sauce,Cheese Sauce,0.005441859570402826
+1276,Pasta Sauce,Cheese Spread,0.01226543256392632
+1277,Pasta Sauce,Chilli Pickle,0.0032112810495967337
+1278,Pasta Sauce,Chilli Sauce,0.009436409725944863
+1279,Pasta Sauce,Chocolate Spread,0.011938971392573558
+1280,Pasta Sauce,Chutney,0.008785446798195602
+1281,Pasta Sauce,Chyawanprash,0.0019749326148030062
+1282,Pasta Sauce,Coconut Milk,0.010073764971205452
+1283,Pasta Sauce,Combo,0.0026335493751761846
+1284,Pasta Sauce,Creamy Peanut Butter,0.002075551630187468
+1285,Pasta Sauce,Crunchy Peanut Butter,0.0036468130326865276
+1286,Pasta Sauce,Curry Paste,0.003976276728969935
+1287,Pasta Sauce,Dip,0.007474966457010789
+1288,Pasta Sauce,Dressing,0.011980436909911253
+1289,Pasta Sauce,Flavoured Mayonnaise,0.006631875555990208
+1290,Pasta Sauce,Garlic Paste,0.002565407695165102
+1291,Pasta Sauce,Ginger Garlic Paste,0.0134317822395305
+1292,Pasta Sauce,Ginger Paste,0.001305002711994204
+1293,Pasta Sauce,Honey,0.010382591530242227
+1294,Pasta Sauce,Hummus Dip,0.009605062233601785
+1295,Pasta Sauce,Jam,0.006227982881010012
+1296,Pasta Sauce,Ketchup,0.007923286451711945
+1297,Pasta Sauce,Lime Pickle,0.0026758849462710306
+1298,Pasta Sauce,Mango Pickle,0.005360641267324152
+1299,Pasta Sauce,Mayonnaise,0.01594672047771125
+1300,Pasta Sauce,Mixed Pickle,0.0031148095089373468
+1301,Pasta Sauce,Peanut Butter,0.005652207114861705
+1302,Pasta Sauce,Pickle,0.0012540922743123077
+1303,Pasta Sauce,Pizza & Pasta Sauce,0.034447816731291915
+1304,Pasta Sauce,Puliogare Paste,0.003569284407366164
+1305,Pasta Sauce,Salad Dressing,0.0033140027943882188
+1306,Pasta Sauce,Salsa Dip,0.00545069519818975
+1307,Pasta Sauce,Sandwich Spread,0.009596761048566207
+1308,Pasta Sauce,Sauce,0.024113844457076598
+1309,Pasta Sauce,Schezwan Chutney,0.005055715393310722
+1310,Pasta Sauce,Soy Sauce,0.011776608092355539
+1311,Pasta Sauce,Spread,0.004430599826960363
+1312,Pasta Sauce,Tamarind Paste,0.005806280701715757
+1313,Pasta Sauce,Tomato Ketchup,0.010893174849866086
+1314,Pasta Sauce,Tomato Paste,0.0019453338574703248
+1315,Pasta Sauce,Tomato Puree,0.010941529854133063
+1316,Pasta Sauce,Vinegar,0.009932628827203133
+1317,Peanut Butter,Broth Powder,0.015421769724943484
+1318,Peanut Butter,Cheese Sauce,0.000915920295372405
+1319,Peanut Butter,Cheese Spread,0.029200025153787598
+1320,Peanut Butter,Chilli Pickle,0.010269333770735597
+1321,Peanut Butter,Chilli Sauce,0.02166818191833795
+1322,Peanut Butter,Chocolate Spread,0.022977627045151047
+1323,Peanut Butter,Chutney,0.016982416004117235
+1324,Peanut Butter,Chyawanprash,0.0065372243678133565
+1325,Peanut Butter,Coconut Milk,0.02315591882609876
+1326,Peanut Butter,Combo,0.00687042361180679
+1327,Peanut Butter,Creamy Peanut Butter,0.04338758614190466
+1328,Peanut Butter,Crunchy Peanut Butter,0.048159355871057206
+1329,Peanut Butter,Curry Paste,0.0020077434058874324
+1330,Peanut Butter,Dip,0.019530704333528777
+1331,Peanut Butter,Dressing,0.01484091995767804
+1332,Peanut Butter,Flavoured Mayonnaise,0.025628229474802606
+1333,Peanut Butter,Garlic Paste,0.01114003232580552
+1334,Peanut Butter,Ginger Garlic Paste,0.032221549904437284
+1335,Peanut Butter,Ginger Paste,0.008126873322769797
+1336,Peanut Butter,Honey,0.03910774901531145
+1337,Peanut Butter,Hummus Dip,0.017702094477190913
+1338,Peanut Butter,Jam,0.030583734666545934
+1339,Peanut Butter,Ketchup,0.01791621859934416
+1340,Peanut Butter,Lime Pickle,0.005704796148522506
+1341,Peanut Butter,Mango Pickle,0.011342576824022848
+1342,Peanut Butter,Mayonnaise,0.03423844303244025
+1343,Peanut Butter,Mixed Pickle,0.012909757457067324
+1344,Peanut Butter,Murabba,0.003278631252574552
+1345,Peanut Butter,Pasta Sauce,0.005652207114861705
+1346,Peanut Butter,Pickle,0.009498441629251895
+1347,Peanut Butter,Pizza & Pasta Sauce,0.025169784337445288
+1348,Peanut Butter,Preserve,0.010345237631496558
+1349,Peanut Butter,Puliogare Paste,0.0034042321849891716
+1350,Peanut Butter,Ready to Cook,0.00446222265301138
+1351,Peanut Butter,Relish,0.000915920295372405
+1352,Peanut Butter,Salad Dressing,0.00976115639021094
+1353,Peanut Butter,Salsa Dip,0.010484656244165566
+1354,Peanut Butter,Sandwich Spread,0.023542013086675355
+1355,Peanut Butter,Sauce,0.039849839871549796
+1356,Peanut Butter,Schezwan Chutney,0.01412540985100894
+1357,Peanut Butter,Soy Sauce,0.020161021290336575
+1358,Peanut Butter,Spread,0.013316339261574403
+1359,Peanut Butter,Tamarind Paste,0.008306676654459116
+1360,Peanut Butter,Tomato Ketchup,0.03387720001493968
+1361,Peanut Butter,Tomato Paste,0.0052387114758281565
+1362,Peanut Butter,Tomato Puree,0.018307379526331487
+1363,Peanut Butter,Vinegar,0.0238446113707931
+1364,Pickle,Cheese Sauce,0.0018289912040960934
+1365,Pickle,Cheese Spread,0.016936491251245366
+1366,Pickle,Chilli Pickle,0.04389157637189172
+1367,Pickle,Chilli Sauce,0.019255817715508362
+1368,Pickle,Chocolate Spread,0.014393198356656518
+1369,Pickle,Chutney,0.024695810375555377
+1370,Pickle,Chyawanprash,0.006195171666592316
+1371,Pickle,Coconut Milk,0.01296262193537378
+1372,Pickle,Combo,0.00398307299406672
+1373,Pickle,Creamy Peanut Butter,0.00711537837143924
+1374,Pickle,Crunchy Peanut Butter,0.00952260579058139
+1375,Pickle,Dip,0.00849400649239534
+1376,Pickle,Dressing,0.006764663914831757
+1377,Pickle,Flavoured Mayonnaise,0.011858022963792549
+1378,Pickle,Garlic Paste,0.008967141416681724
+1379,Pickle,Ginger Garlic Paste,0.029940185672088178
+1380,Pickle,Ginger Paste,0.007237017867921089
+1381,Pickle,Honey,0.01780876374025337
+1382,Pickle,Hummus Dip,0.00500375650543788
+1383,Pickle,Jam,0.02382559442069565
+1384,Pickle,Ketchup,0.015399032966828033
+1385,Pickle,Lime Pickle,0.035974247160079346
+1386,Pickle,Mango Pickle,0.05430820479850129
+1387,Pickle,Mayonnaise,0.01673139978315183
+1388,Pickle,Mixed Pickle,0.03755672274352934
+1389,Pickle,Murabba,0.01636765707870698
+1390,Pickle,Pasta Sauce,0.0012540922743123077
+1391,Pickle,Peanut Butter,0.009498441629251895
+1392,Pickle,Pizza & Pasta Sauce,0.011714007936959198
+1393,Pickle,Preserve,0.0057384143600611075
+1394,Pickle,Puliogare Paste,0.013595747914974312
+1395,Pickle,Ready to Cook,0.004950313073886588
+1396,Pickle,Salad Dressing,0.005847583879198769
+1397,Pickle,Salsa Dip,0.00287879558952621
+1398,Pickle,Sandwich Spread,0.01507893201106454
+1399,Pickle,Sauce,0.027706369440391457
+1400,Pickle,Schezwan Chutney,0.011441343354296299
+1401,Pickle,Soy Sauce,0.012439678317404786
+1402,Pickle,Spread,0.008934660669805188
+1403,Pickle,Tamarind Paste,0.009171918186134867
+1404,Pickle,Tomato Ketchup,0.025595139660181614
+1405,Pickle,Tomato Paste,0.005884383125807406
+1406,Pickle,Tomato Puree,0.01153698007803136
+1407,Pickle,Vinegar,0.013177594990722317
+1408,Pizza & Pasta Sauce,Cheese Sauce,0.004728407392990301
+1409,Pizza & Pasta Sauce,Cheese Spread,0.0869603637344791
+1410,Pizza & Pasta Sauce,Chilli Pickle,0.026042498651078324
+1411,Pizza & Pasta Sauce,Chilli Sauce,0.06630170669110791
+1412,Pizza & Pasta Sauce,Chocolate Spread,0.06274972258620956
+1413,Pizza & Pasta Sauce,Chutney,0.044731946544911375
+1414,Pizza & Pasta Sauce,Chyawanprash,0.01315607742051193
+1415,Pizza & Pasta Sauce,Coconut Milk,0.03216745594902687
+1416,Pizza & Pasta Sauce,Combo,0.01673304201430997
+1417,Pizza & Pasta Sauce,Creamy Peanut Butter,0.02880991422017901
+1418,Pizza & Pasta Sauce,Crunchy Peanut Butter,0.029889367407362925
+1419,Pizza & Pasta Sauce,Curry Paste,0.0034549690300892818
+1420,Pizza & Pasta Sauce,Dip,0.03433052852129869
+1421,Pizza & Pasta Sauce,Dressing,0.06563346076553318
+1422,Pizza & Pasta Sauce,Flavoured Mayonnaise,0.07822467434356371
+1423,Pizza & Pasta Sauce,Garlic Paste,0.029535194055026363
+1424,Pizza & Pasta Sauce,Ginger Garlic Paste,0.06420625307606587
+1425,Pizza & Pasta Sauce,Ginger Paste,0.022536481285445907
+1426,Pizza & Pasta Sauce,Gravy,0.0028289731692662406
+1427,Pizza & Pasta Sauce,Gravy Masala,0.004196045307589303
+1428,Pizza & Pasta Sauce,Honey,0.054108880860876424
+1429,Pizza & Pasta Sauce,Hummus Dip,0.018673717497527543
+1430,Pizza & Pasta Sauce,Jam,0.0630873529432675
+1431,Pizza & Pasta Sauce,Ketchup,0.049463693991779925
+1432,Pizza & Pasta Sauce,Lime Pickle,0.020150558461083403
+1433,Pizza & Pasta Sauce,Mango Pickle,0.03647252858119922
+1434,Pizza & Pasta Sauce,Mayonnaise,0.17625778848634388
+1435,Pizza & Pasta Sauce,Miso Paste,0.0054170711987417165
+1436,Pizza & Pasta Sauce,Mixed Pickle,0.03019376613465585
+1437,Pizza & Pasta Sauce,Murabba,0.0045840769004535055
+1438,Pizza & Pasta Sauce,Pasta Sauce,0.034447816731291915
+1439,Pizza & Pasta Sauce,Peanut Butter,0.025169784337445288
+1440,Pizza & Pasta Sauce,Pickle,0.011714007936959198
+1441,Pizza & Pasta Sauce,Preserve,0.002967052091162389
+1442,Pizza & Pasta Sauce,Puliogare Paste,0.0073656711612435965
+1443,Pizza & Pasta Sauce,Ready to Cook,0.0028795090970619138
+1444,Pizza & Pasta Sauce,Relish,0.003546305544742726
+1445,Pizza & Pasta Sauce,Salad Dressing,0.022046341662424033
+1446,Pizza & Pasta Sauce,Salsa Dip,0.029938820699171555
+1447,Pizza & Pasta Sauce,Sandwich Spread,0.0800503936046016
+1448,Pizza & Pasta Sauce,Sauce,0.15579092393566954
+1449,Pizza & Pasta Sauce,Schezwan Chutney,0.05985310510431265
+1450,Pizza & Pasta Sauce,Soy Sauce,0.06530618301485823
+1451,Pizza & Pasta Sauce,Spread,0.030660336373408967
+1452,Pizza & Pasta Sauce,Tamarind Paste,0.0348108538377421
+1453,Pizza & Pasta Sauce,Tomato Ketchup,0.14590856615679965
+1454,Pizza & Pasta Sauce,Tomato Paste,0.007183740450595376
+1455,Pizza & Pasta Sauce,Tomato Puree,0.06839014892282859
+1456,Pizza & Pasta Sauce,Vinegar,0.06915689151261749
+1457,Preserve,Cheese Spread,0.0067618757896136935
+1458,Preserve,Chilli Pickle,0.0009796015634390735
+1459,Preserve,Chilli Sauce,0.005345929842516781
+1460,Preserve,Chocolate Spread,0.0038003314033481883
+1461,Preserve,Chutney,0.00487272965416373
+1462,Preserve,Chyawanprash,0.0024098134635594
+1463,Preserve,Coconut Milk,0.008428807900804105
+1464,Preserve,Creamy Peanut Butter,0.0015195532926789985
+1465,Preserve,Crunchy Peanut Butter,0.0010268867379280339
+1466,Preserve,Curry Paste,0.007277781371744775
+1467,Preserve,Dip,0.0019544907152139112
+1468,Preserve,Dressing,0.0008771119970908333
+1469,Preserve,Flavoured Mayonnaise,0.002427665058091585
+1470,Preserve,Garlic Paste,0.0018781868172077568
+1471,Preserve,Ginger Garlic Paste,0.004521231823695585
+1472,Preserve,Honey,0.004259351983395945
+1473,Preserve,Hummus Dip,0.0008790075208908441
+1474,Preserve,Jam,0.0046937389539359765
+1475,Preserve,Ketchup,0.0037831292156660546
+1476,Preserve,Lime Pickle,0.001632557871120848
+1477,Preserve,Mango Pickle,0.0014016549298025121
+1478,Preserve,Mayonnaise,0.00279182781669594
+1479,Preserve,Mixed Pickle,0.0014252593673573467
+1480,Preserve,Peanut Butter,0.010345237631496558
+1481,Preserve,Pickle,0.0057384143600611075
+1482,Preserve,Pizza & Pasta Sauce,0.002967052091162389
+1483,Preserve,Salsa Dip,0.001425201466466934
+1484,Preserve,Sandwich Spread,0.00043912391886287335
+1485,Preserve,Sauce,0.004516199097757775
+1486,Preserve,Soy Sauce,0.0018475484516696896
+1487,Preserve,Tamarind Paste,0.001062723859790686
+1488,Preserve,Tomato Ketchup,0.0032331540991568032
+1489,Preserve,Tomato Paste,0.014242182297397125
+1490,Preserve,Tomato Puree,0.0007853446196473366
+1491,Preserve,Vinegar,0.001913652181579011
+1492,Puliogare Paste,Cheese Spread,0.004052265778418235
+1493,Puliogare Paste,Chilli Pickle,0.004437058024104257
+1494,Puliogare Paste,Chilli Sauce,0.005444597576207297
+1495,Puliogare Paste,Chocolate Spread,0.006289518026817848
+1496,Puliogare Paste,Chutney,0.005942136819372686
+1497,Puliogare Paste,Chyawanprash,0.0033585027169438014
+1498,Puliogare Paste,Coconut Milk,0.00936092219791707
+1499,Puliogare Paste,Creamy Peanut Butter,0.0023824880770121947
+1500,Puliogare Paste,Crunchy Peanut Butter,0.003041191422858311
+1501,Puliogare Paste,Curry Paste,0.007607159915053731
+1502,Puliogare Paste,Dip,0.003177917940941827
+1503,Puliogare Paste,Dressing,0.0024448224477445794
+1504,Puliogare Paste,Flavoured Mayonnaise,0.005582580435204752
+1505,Puliogare Paste,Garlic Paste,0.007198363261614834
+1506,Puliogare Paste,Ginger Garlic Paste,0.020478701434220134
+1507,Puliogare Paste,Ginger Paste,0.006241620614198568
+1508,Puliogare Paste,Honey,0.00639279078426022
+1509,Puliogare Paste,Hummus Dip,0.0003062632431687765
+1510,Puliogare Paste,Jam,0.012031794551314532
+1511,Puliogare Paste,Ketchup,0.009226808380655717
+1512,Puliogare Paste,Mango Pickle,0.008302183274707374
+1513,Puliogare Paste,Mayonnaise,0.006101650416370139
+1514,Puliogare Paste,Mixed Pickle,0.0037244097390755865
+1515,Puliogare Paste,Pasta Sauce,0.003569284407366164
+1516,Puliogare Paste,Peanut Butter,0.0034042321849891716
+1517,Puliogare Paste,Pickle,0.013595747914974312
+1518,Puliogare Paste,Pizza & Pasta Sauce,0.0073656711612435965
+1519,Puliogare Paste,Salsa Dip,0.001986271165674191
+1520,Puliogare Paste,Sandwich Spread,0.004283979767788081
+1521,Puliogare Paste,Sauce,0.011515387612322642
+1522,Puliogare Paste,Schezwan Chutney,0.001934454672216766
+1523,Puliogare Paste,Soy Sauce,0.0036477560747481927
+1524,Puliogare Paste,Spread,0.0012109059986313974
+1525,Puliogare Paste,Tamarind Paste,0.014810942939941157
+1526,Puliogare Paste,Tomato Ketchup,0.007071875870663648
+1527,Puliogare Paste,Tomato Paste,0.00992450425402774
+1528,Puliogare Paste,Tomato Puree,0.002189034195972126
+1529,Puliogare Paste,Vinegar,0.003667144139544794
+1530,Ready to Cook,Cheese Sauce,0.008592321037107782
+1531,Ready to Cook,Cheese Spread,0.0034999287285659266
+1532,Ready to Cook,Chilli Pickle,0.0008450652257604744
+1533,Ready to Cook,Chilli Sauce,0.002483240050392146
+1534,Ready to Cook,Chocolate Spread,0.0016392010972606
+1535,Ready to Cook,Chutney,0.00504422353611942
+1536,Ready to Cook,Coconut Milk,0.03408381490285347
+1537,Ready to Cook,Combo,0.004158192876137257
+1538,Ready to Cook,Crunchy Peanut Butter,0.0004429281788664495
+1539,Ready to Cook,Dip,0.001124043488116735
+1540,Ready to Cook,Dressing,0.003026605409801944
+1541,Ready to Cook,Flavoured Mayonnaise,0.0037696587209726682
+1542,Ready to Cook,Garlic Paste,0.0008101203723746075
+1543,Ready to Cook,Ginger Garlic Paste,0.005850443590136812
+1544,Ready to Cook,Ginger Paste,0.0010302546501508199
+1545,Ready to Cook,Honey,0.0016958685652399405
+1546,Ready to Cook,Hummus Dip,0.006824578942392412
+1547,Ready to Cook,Jam,0.0028922222176909844
+1548,Ready to Cook,Ketchup,0.005439270862829595
+1549,Ready to Cook,Mango Pickle,0.001813732057858508
+1550,Ready to Cook,Mayonnaise,0.003722079351472004
+1551,Ready to Cook,Mixed Pickle,0.001229517360930567
+1552,Ready to Cook,Peanut Butter,0.00446222265301138
+1553,Ready to Cook,Pickle,0.004950313073886588
+1554,Ready to Cook,Pizza & Pasta Sauce,0.0028795090970619138
+1555,Ready to Cook,Salad Dressing,0.011773309290225421
+1556,Ready to Cook,Sandwich Spread,0.0037881559960756253
+1557,Ready to Cook,Sauce,0.010979507246947429
+1558,Ready to Cook,Schezwan Chutney,0.0031930504026848865
+1559,Ready to Cook,Soy Sauce,0.004781430556110274
+1560,Ready to Cook,Tomato Ketchup,0.003253973078590664
+1561,Ready to Cook,Tomato Puree,0.0057586404014740855
+1562,Ready to Cook,Vinegar,0.001650835373491797
+1563,Relish,Cheese Spread,0.006034550589395539
+1564,Relish,Chilli Sauce,0.0026213777605212578
+1565,Relish,Chutney,0.0023296103552834296
+1566,Relish,Coconut Milk,0.0033581174485416126
+1567,Relish,Creamy Peanut Butter,0.0024216180917576236
+1568,Relish,Dip,0.014535504476902002
+1569,Relish,Dressing,0.0027955982733690377
+1570,Relish,Ginger Garlic Paste,0.0004503254687595066
+1571,Relish,Ginger Paste,0.0019032399213748368
+1572,Relish,Hummus Dip,0.0070040995785922424
+1573,Relish,Ketchup,0.002009646342832379
+1574,Relish,Mayonnaise,0.0032357551310066074
+1575,Relish,Peanut Butter,0.000915920295372405
+1576,Relish,Pizza & Pasta Sauce,0.003546305544742726
+1577,Relish,Salsa Dip,0.002271255422382149
+1578,Relish,Sandwich Spread,0.013296287928654508
+1579,Relish,Sauce,0.008505766639051334
+1580,Relish,Schezwan Chutney,0.002949339270859994
+1581,Relish,Soy Sauce,0.0029443236887560995
+1582,Relish,Spread,0.0018461909014342247
+1583,Relish,Tomato Ketchup,0.0008587462839331063
+1584,Relish,Tomato Puree,0.00438044300208356
+1585,Relish,Vinegar,0.006099338228635759
+1586,Salad Dressing,Cheese Sauce,0.004833202536559508
+1587,Salad Dressing,Cheese Spread,0.023296506416010963
+1588,Salad Dressing,Chilli Pickle,0.0033274594402899595
+1589,Salad Dressing,Chilli Sauce,0.017560134403024813
+1590,Salad Dressing,Chocolate Spread,0.013485051527964483
+1591,Salad Dressing,Chutney,0.021871537332697137
+1592,Salad Dressing,Chyawanprash,0.003215743356323187
+1593,Salad Dressing,Coconut Milk,0.012142414211947648
+1594,Salad Dressing,Combo,0.007601730879977595
+1595,Salad Dressing,Creamy Peanut Butter,0.006820605477558651
+1596,Salad Dressing,Crunchy Peanut Butter,0.007100724620090603
+1597,Salad Dressing,Dip,0.018810250685649565
+1598,Salad Dressing,Dressing,0.056394427264920235
+1599,Salad Dressing,Flavoured Mayonnaise,0.06408448933863446
+1600,Salad Dressing,Garlic Paste,0.011392369482499727
+1601,Salad Dressing,Ginger Garlic Paste,0.019951017394920112
+1602,Salad Dressing,Ginger Paste,0.008403052658314708
+1603,Salad Dressing,Gravy,0.002891671372865656
+1604,Salad Dressing,Honey,0.014149967612658538
+1605,Salad Dressing,Hummus Dip,0.01343595082109332
+1606,Salad Dressing,Jam,0.011062800231693077
+1607,Salad Dressing,Ketchup,0.013615236721124094
+1608,Salad Dressing,Lime Pickle,0.0019804954756334624
+1609,Salad Dressing,Mango Pickle,0.005951335346774392
+1610,Salad Dressing,Mayonnaise,0.03226729035284249
+1611,Salad Dressing,Mixed Pickle,0.005705754919528617
+1612,Salad Dressing,Pasta Sauce,0.0033140027943882188
+1613,Salad Dressing,Peanut Butter,0.00976115639021094
+1614,Salad Dressing,Pickle,0.005847583879198769
+1615,Salad Dressing,Pizza & Pasta Sauce,0.022046341662424033
+1616,Salad Dressing,Ready to Cook,0.011773309290225421
+1617,Salad Dressing,Salsa Dip,0.006569996324976219
+1618,Salad Dressing,Sandwich Spread,0.02546362674602541
+1619,Salad Dressing,Sauce,0.05030452328701001
+1620,Salad Dressing,Schezwan Chutney,0.011524968645459398
+1621,Salad Dressing,Soy Sauce,0.015838560658415362
+1622,Salad Dressing,Spread,0.005059349248594085
+1623,Salad Dressing,Tamarind Paste,0.008766669082354515
+1624,Salad Dressing,Tomato Ketchup,0.023358984271589948
+1625,Salad Dressing,Tomato Paste,0.0008638768065164057
+1626,Salad Dressing,Tomato Puree,0.014671896782644746
+1627,Salad Dressing,Vinegar,0.019152356755873078
+1628,Salsa Dip,Cheese Sauce,0.002271255422382149
+1629,Salsa Dip,Cheese Spread,0.024239071164991473
+1630,Salsa Dip,Chilli Pickle,0.00781832567469334
+1631,Salsa Dip,Chilli Sauce,0.01697284795402277
+1632,Salsa Dip,Chocolate Spread,0.01754861076072346
+1633,Salsa Dip,Chutney,0.020111623715756855
+1634,Salsa Dip,Chyawanprash,0.004121363618611941
+1635,Salsa Dip,Coconut Milk,0.015616574195032292
+1636,Salsa Dip,Combo,0.004946210848503698
+1637,Salsa Dip,Creamy Peanut Butter,0.008142917624938881
+1638,Salsa Dip,Crunchy Peanut Butter,0.007610306520910502
+1639,Salsa Dip,Curry Paste,0.0016595687493818222
+1640,Salsa Dip,Dip,0.07962939018485941
+1641,Salsa Dip,Dressing,0.02240109857681195
+1642,Salsa Dip,Flavoured Mayonnaise,0.015943273578467306
+1643,Salsa Dip,Garlic Paste,0.00942231701376542
+1644,Salsa Dip,Ginger Garlic Paste,0.016882405510464008
+1645,Salsa Dip,Ginger Paste,0.00435732594344891
+1646,Salsa Dip,Honey,0.011281669398561818
+1647,Salsa Dip,Hummus Dip,0.04810609181986918
+1648,Salsa Dip,Jam,0.010397431029592018
+1649,Salsa Dip,Ketchup,0.011071001081655723
+1650,Salsa Dip,Lime Pickle,0.0052118614733103925
+1651,Salsa Dip,Mango Pickle,0.007990562645740587
+1652,Salsa Dip,Mayonnaise,0.023381563749602957
+1653,Salsa Dip,Mixed Pickle,0.009262644736467613
+1654,Salsa Dip,Murabba,0.00406509662905428
+1655,Salsa Dip,Pasta Sauce,0.00545069519818975
+1656,Salsa Dip,Peanut Butter,0.010484656244165566
+1657,Salsa Dip,Pickle,0.00287879558952621
+1658,Salsa Dip,Pizza & Pasta Sauce,0.029938820699171555
+1659,Salsa Dip,Preserve,0.001425201466466934
+1660,Salsa Dip,Puliogare Paste,0.001986271165674191
+1661,Salsa Dip,Relish,0.002271255422382149
+1662,Salsa Dip,Salad Dressing,0.006569996324976219
+1663,Salsa Dip,Sandwich Spread,0.024132392448464237
+1664,Salsa Dip,Sauce,0.03833809628761816
+1665,Salsa Dip,Schezwan Chutney,0.0119571845183229
+1666,Salsa Dip,Soy Sauce,0.012779451594914143
+1667,Salsa Dip,Spread,0.004226716464400151
+1668,Salsa Dip,Tamarind Paste,0.007270058896430816
+1669,Salsa Dip,Tomato Ketchup,0.0219131052483205
+1670,Salsa Dip,Tomato Paste,0.0024357574915127747
+1671,Salsa Dip,Tomato Puree,0.020326021353435957
+1672,Salsa Dip,Vinegar,0.015818571393865527
+1673,Sandwich Spread,Cheese Sauce,0.0020994138834717646
+1674,Sandwich Spread,Cheese Spread,0.07983382504263546
+1675,Sandwich Spread,Chilli,0.008331790551993939
+1676,Sandwich Spread,Chilli Pickle,0.02174921710045671
+1677,Sandwich Spread,Chilli Sauce,0.05168890350836823
+1678,Sandwich Spread,Chocolate Spread,0.03818251966250782
+1679,Sandwich Spread,Chutney,0.029887778549618254
+1680,Sandwich Spread,Chyawanprash,0.009650845394442059
+1681,Sandwich Spread,Coconut Cream,0.003927643732493947
+1682,Sandwich Spread,Coconut Milk,0.017618145906098795
+1683,Sandwich Spread,Combo,0.02015059668156279
+1684,Sandwich Spread,Cooking Spray,0.0027772635173313126
+1685,Sandwich Spread,Creamy Peanut Butter,0.02781190516271517
+1686,Sandwich Spread,Crunchy Peanut Butter,0.030843648155369448
+1687,Sandwich Spread,Curry Paste,0.002556678301270227
+1688,Sandwich Spread,Dip,0.0597809221681636
+1689,Sandwich Spread,Dressing,0.04720531468835739
+1690,Sandwich Spread,Flavoured Mayonnaise,0.0733098371614932
+1691,Sandwich Spread,Garlic Paste,0.019992103754019566
+1692,Sandwich Spread,Ginger Garlic Paste,0.049932333068195466
+1693,Sandwich Spread,Ginger Paste,0.017033619284764864
+1694,Sandwich Spread,Gravy,0.0033495058294293334
+1695,Sandwich Spread,Gravy Masala,0.014904360038839154
+1696,Sandwich Spread,Honey,0.04267927018651921
+1697,Sandwich Spread,Hummus Dip,0.029026690691721146
+1698,Sandwich Spread,Jam,0.051139655286791444
+1699,Sandwich Spread,Ketchup,0.032029141515699446
+1700,Sandwich Spread,Lime Pickle,0.015140826838093797
+1701,Sandwich Spread,Mango Pickle,0.025210888424175258
+1702,Sandwich Spread,Mayonnaise,0.09729205637477654
+1703,Sandwich Spread,Mixed Pickle,0.024383719053657684
+1704,Sandwich Spread,Murabba,0.004175038183038493
+1705,Sandwich Spread,Pasta Sauce,0.009596761048566207
+1706,Sandwich Spread,Peanut Butter,0.023542013086675355
+1707,Sandwich Spread,Pickle,0.01507893201106454
+1708,Sandwich Spread,Pizza & Pasta Sauce,0.0800503936046016
+1709,Sandwich Spread,Preserve,0.00043912391886287335
+1710,Sandwich Spread,Puliogare Paste,0.004283979767788081
+1711,Sandwich Spread,Ready to Cook,0.0037881559960756253
+1712,Sandwich Spread,Relish,0.013296287928654508
+1713,Sandwich Spread,Salad Dressing,0.02546362674602541
+1714,Sandwich Spread,Salsa Dip,0.024132392448464237
+1715,Sandwich Spread,Sauce,0.09724028504213561
+1716,Sandwich Spread,Schezwan Chutney,0.045813748327296136
+1717,Sandwich Spread,Soy Sauce,0.03738482917107691
+1718,Sandwich Spread,Spread,0.02392992273300342
+1719,Sandwich Spread,Tamarind Paste,0.01911469940655576
+1720,Sandwich Spread,Tomato Ketchup,0.0844785952611737
+1721,Sandwich Spread,Tomato Paste,0.003502286426011782
+1722,Sandwich Spread,Tomato Puree,0.03793499677411494
+1723,Sandwich Spread,Vinegar,0.040302248157328927
+1724,Sauce,Broth Powder,0.003672192066367129
+1725,Sauce,Cheese Sauce,0.008178621768318588
+1726,Sauce,Cheese Spread,0.10537934173367246
+1727,Sauce,Chilli,0.0025966319119476375
+1728,Sauce,Chilli Oil,0.005193263823895275
+1729,Sauce,Chilli Pickle,0.045399060424862026
+1730,Sauce,Chilli Sauce,0.1244105088717265
+1731,Sauce,Chocolate Spread,0.060351536354789834
+1732,Sauce,Chutney,0.09170590905034032
+1733,Sauce,Chyawanprash,0.02216214741214266
+1734,Sauce,Coconut Milk,0.05818933877432151
+1735,Sauce,Combo,0.03221800642014175
+1736,Sauce,Creamy Peanut Butter,0.035835276657041365
+1737,Sauce,Crunchy Peanut Butter,0.04322266462095621
+1738,Sauce,Curry Paste,0.008605416348589643
+1739,Sauce,Dip,0.06764056619592622
+1740,Sauce,Dressing,0.08613836440424198
+1741,Sauce,Flavoured Mayonnaise,0.13210803561260773
+1742,Sauce,Garlic Paste,0.05191146552888005
+1743,Sauce,Ginger Garlic Paste,0.11962622507085074
+1744,Sauce,Ginger Paste,0.042560227595715004
+1745,Sauce,Gravy,0.002348741937434584
+1746,Sauce,Honey,0.08202372802049358
+1747,Sauce,Hummus Dip,0.03897595282355533
+1748,Sauce,Jam,0.07829443218769627
+1749,Sauce,Ketchup,0.08428779943576105
+1750,Sauce,Lime Pickle,0.028204909514880524
+1751,Sauce,Mango Pickle,0.0592041920722458
+1752,Sauce,Mayonnaise,0.17289207175843738
+1753,Sauce,Miso Paste,0.0014991661333493412
+1754,Sauce,Mixed Pickle,0.050628004414893506
+1755,Sauce,Murabba,0.0037083213193215827
+1756,Sauce,Pasta Sauce,0.024113844457076598
+1757,Sauce,Peanut Butter,0.039849839871549796
+1758,Sauce,Pickle,0.027706369440391457
+1759,Sauce,Pizza & Pasta Sauce,0.15579092393566954
+1760,Sauce,Preserve,0.004516199097757775
+1761,Sauce,Puliogare Paste,0.011515387612322642
+1762,Sauce,Ready to Cook,0.010979507246947429
+1763,Sauce,Relish,0.008505766639051334
+1764,Sauce,Salad Dressing,0.05030452328701001
+1765,Sauce,Salsa Dip,0.03833809628761816
+1766,Sauce,Sandwich Spread,0.09724028504213561
+1767,Sauce,Schezwan Chutney,0.09302323455236629
+1768,Sauce,Soy Sauce,0.23551027564052357
+1769,Sauce,Spread,0.030173831342647575
+1770,Sauce,Tahini,0.0014991661333493412
+1771,Sauce,Tamarind Paste,0.05549935515226325
+1772,Sauce,Tomato Ketchup,0.18490599293703794
+1773,Sauce,Tomato Paste,0.010291284934657065
+1774,Sauce,Tomato Puree,0.08708294188515209
+1775,Sauce,Vinegar,0.17003596560503426
+1776,Schezwan Chutney,Cheese Sauce,0.0019662261805733295
+1777,Schezwan Chutney,Cheese Spread,0.04081956859045086
+1778,Schezwan Chutney,Chilli,0.003901609121326057
+1779,Schezwan Chutney,Chilli Pickle,0.024172592073876533
+1780,Schezwan Chutney,Chilli Sauce,0.05073686869692289
+1781,Schezwan Chutney,Chocolate Spread,0.029399014275498403
+1782,Schezwan Chutney,Chutney,0.03611985503900418
+1783,Schezwan Chutney,Chyawanprash,0.010703595421352534
+1784,Schezwan Chutney,Coconut Milk,0.01507918662322662
+1785,Schezwan Chutney,Combo,0.00975329757019742
+1786,Schezwan Chutney,Creamy Peanut Butter,0.01957312603017397
+1787,Schezwan Chutney,Crunchy Peanut Butter,0.022400028124924375
+1788,Schezwan Chutney,Curry Paste,0.0014366889304213394
+1789,Schezwan Chutney,Dip,0.019741696787812353
+1790,Schezwan Chutney,Dressing,0.029868120258401562
+1791,Schezwan Chutney,Flavoured Mayonnaise,0.03843499919461766
+1792,Schezwan Chutney,Garlic Paste,0.016869955040280892
+1793,Schezwan Chutney,Ginger Garlic Paste,0.048949432242688176
+1794,Schezwan Chutney,Ginger Paste,0.013909757999624704
+1795,Schezwan Chutney,Gravy,0.0011763794121878864
+1796,Schezwan Chutney,Honey,0.03738451556470869
+1797,Schezwan Chutney,Hummus Dip,0.015356760182885608
+1798,Schezwan Chutney,Jam,0.03795666609653926
+1799,Schezwan Chutney,Ketchup,0.02769450968925699
+1800,Schezwan Chutney,Lime Pickle,0.011118633648876572
+1801,Schezwan Chutney,Mango Pickle,0.02635541345846773
+1802,Schezwan Chutney,Mayonnaise,0.09123671316390494
+1803,Schezwan Chutney,Mixed Pickle,0.02665857083727207
+1804,Schezwan Chutney,Murabba,0.0029326289988643385
+1805,Schezwan Chutney,Pasta Sauce,0.005055715393310722
+1806,Schezwan Chutney,Peanut Butter,0.01412540985100894
+1807,Schezwan Chutney,Pickle,0.011441343354296299
+1808,Schezwan Chutney,Pizza & Pasta Sauce,0.05985310510431265
+1809,Schezwan Chutney,Puliogare Paste,0.001934454672216766
+1810,Schezwan Chutney,Ready to Cook,0.0031930504026848865
+1811,Schezwan Chutney,Relish,0.002949339270859994
+1812,Schezwan Chutney,Salad Dressing,0.011524968645459398
+1813,Schezwan Chutney,Salsa Dip,0.0119571845183229
+1814,Schezwan Chutney,Sandwich Spread,0.045813748327296136
+1815,Schezwan Chutney,Sauce,0.09302323455236629
+1816,Schezwan Chutney,Soy Sauce,0.05659238639010062
+1817,Schezwan Chutney,Spread,0.012692395995480313
+1818,Schezwan Chutney,Tamarind Paste,0.016573386677882645
+1819,Schezwan Chutney,Tomato Ketchup,0.08084487371397779
+1820,Schezwan Chutney,Tomato Paste,0.0017571963733303028
+1821,Schezwan Chutney,Tomato Puree,0.03325456795468836
+1822,Schezwan Chutney,Vinegar,0.04911001849564703
+1823,Soy Sauce,Broth Powder,0.00550832523954388
+1824,Soy Sauce,Cheese Sauce,0.0009814412295853666
+1825,Soy Sauce,Cheese Spread,0.04453466548502012
+1826,Soy Sauce,Chilli Pickle,0.024324536567991335
+1827,Soy Sauce,Chilli Sauce,0.07548963439304422
+1828,Soy Sauce,Chocolate Spread,0.029863914021706295
+1829,Soy Sauce,Chutney,0.03034477764729449
+1830,Soy Sauce,Chyawanprash,0.012585018563777766
+1831,Soy Sauce,Coconut Milk,0.03560941618924842
+1832,Soy Sauce,Combo,0.008549307504749979
+1833,Soy Sauce,Creamy Peanut Butter,0.019015783376323727
+1834,Soy Sauce,Crunchy Peanut Butter,0.021856008991093374
+1835,Soy Sauce,Curry Paste,0.0028684914570576143
+1836,Soy Sauce,Dip,0.023367287667012234
+1837,Soy Sauce,Dressing,0.02549597541807972
+1838,Soy Sauce,Flavoured Mayonnaise,0.034494399772576304
+1839,Soy Sauce,Garlic Paste,0.029796086640994816
+1840,Soy Sauce,Ginger Garlic Paste,0.06473726013019114
+1841,Soy Sauce,Ginger Paste,0.02106451273656142
+1842,Soy Sauce,Honey,0.04707087449539772
+1843,Soy Sauce,Hummus Dip,0.014464506686189774
+1844,Soy Sauce,Jam,0.04350821200106182
+1845,Soy Sauce,Ketchup,0.043490312599192504
+1846,Soy Sauce,Lime Pickle,0.013673574943962192
+1847,Soy Sauce,Mango Pickle,0.030315881294684554
+1848,Soy Sauce,Mayonnaise,0.07875228614324456
+1849,Soy Sauce,Mixed Pickle,0.027455871288507183
+1850,Soy Sauce,Murabba,0.0023421134671079333
+1851,Soy Sauce,Pasta Sauce,0.011776608092355539
+1852,Soy Sauce,Peanut Butter,0.020161021290336575
+1853,Soy Sauce,Pickle,0.012439678317404786
+1854,Soy Sauce,Pizza & Pasta Sauce,0.06530618301485823
+1855,Soy Sauce,Preserve,0.0018475484516696896
+1856,Soy Sauce,Puliogare Paste,0.0036477560747481927
+1857,Soy Sauce,Ready to Cook,0.004781430556110274
+1858,Soy Sauce,Relish,0.0029443236887560995
+1859,Soy Sauce,Salad Dressing,0.015838560658415362
+1860,Soy Sauce,Salsa Dip,0.012779451594914143
+1861,Soy Sauce,Sandwich Spread,0.03738482917107691
+1862,Soy Sauce,Sauce,0.23551027564052357
+1863,Soy Sauce,Schezwan Chutney,0.05659238639010062
+1864,Soy Sauce,Spread,0.00993117664644237
+1865,Soy Sauce,Tamarind Paste,0.0225140411555932
+1866,Soy Sauce,Tomato Ketchup,0.09899044651119993
+1867,Soy Sauce,Tomato Paste,0.0028067329975417087
+1868,Soy Sauce,Tomato Puree,0.03911794188408456
+1869,Soy Sauce,Vinegar,0.21307672487335524
+1870,Spread,Cheese Spread,0.030080517459443786
+1871,Spread,Chilli Pickle,0.008534030681167643
+1872,Spread,Chilli Sauce,0.011433469408270164
+1873,Spread,Chocolate Spread,0.06392562406641616
+1874,Spread,Chutney,0.008489987342135347
+1875,Spread,Chyawanprash,0.007816788250588085
+1876,Spread,Coconut Milk,0.008397528703708306
+1877,Spread,Combo,0.00938123553838153
+1878,Spread,Creamy Peanut Butter,0.01887111716359882
+1879,Spread,Crunchy Peanut Butter,0.018843631902898478
+1880,Spread,Dip,0.007970088885564835
+1881,Spread,Dressing,0.008616636916871596
+1882,Spread,Flavoured Mayonnaise,0.01763931463421677
+1883,Spread,Garlic Paste,0.009399601122980038
+1884,Spread,Ginger Garlic Paste,0.018384455934865054
+1885,Spread,Ginger Paste,0.006198244814820312
+1886,Spread,Gravy,0.0022091262835108203
+1887,Spread,Honey,0.020162535007493744
+1888,Spread,Hummus Dip,0.003910305646216254
+1889,Spread,Jam,0.030512603186053165
+1890,Spread,Ketchup,0.012037714028659744
+1891,Spread,Lime Pickle,0.007867718366404057
+1892,Spread,Mango Pickle,0.008573574402623992
+1893,Spread,Mayonnaise,0.032319122028052684
+1894,Spread,Mixed Pickle,0.009114227640125245
+1895,Spread,Murabba,0.0011014384872867033
+1896,Spread,Pasta Sauce,0.004430599826960363
+1897,Spread,Peanut Butter,0.013316339261574403
+1898,Spread,Pickle,0.008934660669805188
+1899,Spread,Pizza & Pasta Sauce,0.030660336373408967
+1900,Spread,Puliogare Paste,0.0012109059986313974
+1901,Spread,Relish,0.0018461909014342247
+1902,Spread,Salad Dressing,0.005059349248594085
+1903,Spread,Salsa Dip,0.004226716464400151
+1904,Spread,Sandwich Spread,0.02392992273300342
+1905,Spread,Sauce,0.030173831342647575
+1906,Spread,Schezwan Chutney,0.012692395995480313
+1907,Spread,Soy Sauce,0.00993117664644237
+1908,Spread,Tamarind Paste,0.010440064294052058
+1909,Spread,Tomato Ketchup,0.03092975541892074
+1910,Spread,Tomato Paste,0.0013199376505218432
+1911,Spread,Tomato Puree,0.012664451867016887
+1912,Spread,Vinegar,0.012946809018163249
+1913,Tahini,Dip,0.0047578606806980665
+1914,Tahini,Sauce,0.0014991661333493412
+1915,Tamarind Paste,Cheese Spread,0.026628466570420586
+1916,Tamarind Paste,Chilli Pickle,0.013325388218303516
+1917,Tamarind Paste,Chilli Sauce,0.024403141803654934
+1918,Tamarind Paste,Chocolate Spread,0.01663945577269379
+1919,Tamarind Paste,Chutney,0.0374499433877891
+1920,Tamarind Paste,Chyawanprash,0.006146319036886576
+1921,Tamarind Paste,Coconut Milk,0.02839525999251228
+1922,Tamarind Paste,Combo,0.003688219811681178
+1923,Tamarind Paste,Creamy Peanut Butter,0.007751354593696667
+1924,Tamarind Paste,Crunchy Peanut Butter,0.007595427382383281
+1925,Tamarind Paste,Curry Paste,0.006187417528074689
+1926,Tamarind Paste,Dip,0.013958003920877112
+1927,Tamarind Paste,Dressing,0.011782095986295966
+1928,Tamarind Paste,Flavoured Mayonnaise,0.018575550581861233
+1929,Tamarind Paste,Garlic Paste,0.02443096587200198
+1930,Tamarind Paste,Ginger Garlic Paste,0.054342524771300936
+1931,Tamarind Paste,Ginger Paste,0.026399006825187997
+1932,Tamarind Paste,Honey,0.023008623836808316
+1933,Tamarind Paste,Hummus Dip,0.005679584973547854
+1934,Tamarind Paste,Jam,0.022061867683165627
+1935,Tamarind Paste,Ketchup,0.016724954197783724
+1936,Tamarind Paste,Lime Pickle,0.007495019433198199
+1937,Tamarind Paste,Mango Pickle,0.0187090260419053
+1938,Tamarind Paste,Mayonnaise,0.03240979588299359
+1939,Tamarind Paste,Mixed Pickle,0.011874911946873696
+1940,Tamarind Paste,Murabba,0.001010401051289053
+1941,Tamarind Paste,Pasta Sauce,0.005806280701715757
+1942,Tamarind Paste,Peanut Butter,0.008306676654459116
+1943,Tamarind Paste,Pickle,0.009171918186134867
+1944,Tamarind Paste,Pizza & Pasta Sauce,0.0348108538377421
+1945,Tamarind Paste,Preserve,0.001062723859790686
+1946,Tamarind Paste,Puliogare Paste,0.014810942939941157
+1947,Tamarind Paste,Salad Dressing,0.008766669082354515
+1948,Tamarind Paste,Salsa Dip,0.007270058896430816
+1949,Tamarind Paste,Sandwich Spread,0.01911469940655576
+1950,Tamarind Paste,Sauce,0.05549935515226325
+1951,Tamarind Paste,Schezwan Chutney,0.016573386677882645
+1952,Tamarind Paste,Soy Sauce,0.0225140411555932
+1953,Tamarind Paste,Spread,0.010440064294052058
+1954,Tamarind Paste,Tomato Ketchup,0.04199494448788166
+1955,Tamarind Paste,Tomato Paste,0.016951767776084342
+1956,Tamarind Paste,Tomato Puree,0.03705643826631138
+1957,Tamarind Paste,Vinegar,0.029203699837636737
+1958,Tomato Ketchup,Broth Powder,0.0016065671883214898
+1959,Tomato Ketchup,Cheese Sauce,0.002576238851799319
+1960,Tomato Ketchup,Cheese Spread,0.089835124813832
+1961,Tomato Ketchup,Chilli Oil,0.0022720291065878614
+1962,Tomato Ketchup,Chilli Pickle,0.04735320112931628
+1963,Tomato Ketchup,Chilli Sauce,0.06810867073749069
+1964,Tomato Ketchup,Chocolate Spread,0.0791422997191103
+1965,Tomato Ketchup,Chutney,0.05440480048746311
+1966,Tomato Ketchup,Chyawanprash,0.028568093685670932
+1967,Tomato Ketchup,Coconut Milk,0.03182385354564492
+1968,Tomato Ketchup,Combo,0.020017304601367355
+1969,Tomato Ketchup,Creamy Peanut Butter,0.04408553761515468
+1970,Tomato Ketchup,Crunchy Peanut Butter,0.05319510868131761
+1971,Tomato Ketchup,Curry Paste,0.0018824150939858908
+1972,Tomato Ketchup,Dip,0.03458224111456021
+1973,Tomato Ketchup,Dressing,0.04358368295288025
+1974,Tomato Ketchup,Flavoured Mayonnaise,0.07396911956473523
+1975,Tomato Ketchup,Garlic Paste,0.03735242173928824
+1976,Tomato Ketchup,Ginger Garlic Paste,0.09758219770860109
+1977,Tomato Ketchup,Ginger Paste,0.029620235004267723
+1978,Tomato Ketchup,Gravy,0.0034252127542356054
+1979,Tomato Ketchup,Gravy Masala,0.0020321646116754294
+1980,Tomato Ketchup,Honey,0.10695821833107395
+1981,Tomato Ketchup,Hummus Dip,0.01937589788531112
+1982,Tomato Ketchup,Jam,0.1636361256413808
+1983,Tomato Ketchup,Ketchup,0.0579136020461354
+1984,Tomato Ketchup,Lime Pickle,0.0354702510834005
+1985,Tomato Ketchup,Mango Pickle,0.0739584273525195
+1986,Tomato Ketchup,Mayonnaise,0.23316218801239058
+1987,Tomato Ketchup,Mixed Pickle,0.0762074553797192
+1988,Tomato Ketchup,Murabba,0.007684927440631121
+1989,Tomato Ketchup,Pasta Sauce,0.010893174849866086
+1990,Tomato Ketchup,Peanut Butter,0.03387720001493968
+1991,Tomato Ketchup,Pickle,0.025595139660181614
+1992,Tomato Ketchup,Pizza & Pasta Sauce,0.14590856615679965
+1993,Tomato Ketchup,Preserve,0.0032331540991568032
+1994,Tomato Ketchup,Puliogare Paste,0.007071875870663648
+1995,Tomato Ketchup,Ready to Cook,0.003253973078590664
+1996,Tomato Ketchup,Relish,0.0008587462839331063
+1997,Tomato Ketchup,Salad Dressing,0.023358984271589948
+1998,Tomato Ketchup,Salsa Dip,0.0219131052483205
+1999,Tomato Ketchup,Sandwich Spread,0.0844785952611737
+2000,Tomato Ketchup,Sauce,0.18490599293703794
+2001,Tomato Ketchup,Schezwan Chutney,0.08084487371397779
+2002,Tomato Ketchup,Soy Sauce,0.09899044651119993
+2003,Tomato Ketchup,Spread,0.03092975541892074
+2004,Tomato Ketchup,Tamarind Paste,0.04199494448788166
+2005,Tomato Ketchup,Tomato Paste,0.0046047170075767955
+2006,Tomato Ketchup,Tomato Puree,0.0808800784145788
+2007,Tomato Ketchup,Vinegar,0.11371949342436559
+2008,Tomato Paste,Cheese Spread,0.006933878472098472
+2009,Tomato Paste,Chilli Pickle,0.004464532494500646
+2010,Tomato Paste,Chilli Sauce,0.00538820698284015
+2011,Tomato Paste,Chocolate Spread,0.008118751895551193
+2012,Tomato Paste,Chutney,0.011658915075449494
+2013,Tomato Paste,Chyawanprash,0.0006864200530146986
+2014,Tomato Paste,Coconut Milk,0.0141052426940767
+2015,Tomato Paste,Combo,0.002745999161959627
+2016,Tomato Paste,Creamy Peanut Butter,0.004761186101087756
+2017,Tomato Paste,Crunchy Peanut Butter,0.0038025281112911372
+2018,Tomato Paste,Curry Paste,0.008292119121359201
+2019,Tomato Paste,Dip,0.0025980465527003505
+2020,Tomato Paste,Dressing,0.002998077349872408
+2021,Tomato Paste,Flavoured Mayonnaise,0.005255437743782953
+2022,Tomato Paste,Garlic Paste,0.012839749938835661
+2023,Tomato Paste,Ginger Garlic Paste,0.014488246764419815
+2024,Tomato Paste,Ginger Paste,0.010205437158126338
+2025,Tomato Paste,Honey,0.0039197286638227875
+2026,Tomato Paste,Hummus Dip,0.0020030376565296822
+2027,Tomato Paste,Jam,0.005920919031396739
+2028,Tomato Paste,Ketchup,0.0053880015944124966
+2029,Tomato Paste,Lime Pickle,0.0009300474724621471
+2030,Tomato Paste,Mango Pickle,0.0031940200045268395
+2031,Tomato Paste,Mayonnaise,0.007518579915756524
+2032,Tomato Paste,Mixed Pickle,0.0016239042984780982
+2033,Tomato Paste,Pasta Sauce,0.0019453338574703248
+2034,Tomato Paste,Peanut Butter,0.0052387114758281565
+2035,Tomato Paste,Pickle,0.005884383125807406
+2036,Tomato Paste,Pizza & Pasta Sauce,0.007183740450595376
+2037,Tomato Paste,Preserve,0.014242182297397125
+2038,Tomato Paste,Puliogare Paste,0.00992450425402774
+2039,Tomato Paste,Salad Dressing,0.0008638768065164057
+2040,Tomato Paste,Salsa Dip,0.0024357574915127747
+2041,Tomato Paste,Sandwich Spread,0.003502286426011782
+2042,Tomato Paste,Sauce,0.010291284934657065
+2043,Tomato Paste,Schezwan Chutney,0.0017571963733303028
+2044,Tomato Paste,Soy Sauce,0.0028067329975417087
+2045,Tomato Paste,Spread,0.0013199376505218432
+2046,Tomato Paste,Tamarind Paste,0.016951767776084342
+2047,Tomato Paste,Tomato Ketchup,0.0046047170075767955
+2048,Tomato Paste,Tomato Puree,0.01834343483244769
+2049,Tomato Paste,Vinegar,0.0035430958191017973
+2050,Tomato Puree,Cheese Sauce,0.0031288878586311145
+2051,Tomato Puree,Cheese Spread,0.07759135695443735
+2052,Tomato Puree,Chilli,0.004966955492488411
+2053,Tomato Puree,Chilli Pickle,0.018956163496916773
+2054,Tomato Puree,Chilli Sauce,0.049140624912367696
+2055,Tomato Puree,Chocolate Spread,0.033367490593148676
+2056,Tomato Puree,Chutney,0.05314620977061643
+2057,Tomato Puree,Chyawanprash,0.009235566105245226
+2058,Tomato Puree,Coconut Milk,0.05931088965703959
+2059,Tomato Puree,Combo,0.015596291994023084
+2060,Tomato Puree,Creamy Peanut Butter,0.02004866644490382
+2061,Tomato Puree,Crunchy Peanut Butter,0.017451793850754804
+2062,Tomato Puree,Curry Paste,0.008230415678307896
+2063,Tomato Puree,Dip,0.03974494008242535
+2064,Tomato Puree,Dressing,0.03389069123697619
+2065,Tomato Puree,Flavoured Mayonnaise,0.03407392757767039
+2066,Tomato Puree,Garlic Paste,0.053277863686510794
+2067,Tomato Puree,Ginger Garlic Paste,0.10833262240185802
+2068,Tomato Puree,Ginger Paste,0.042093684640111234
+2069,Tomato Puree,Gravy,0.012729544146483755
+2070,Tomato Puree,Honey,0.0427755873318729
+2071,Tomato Puree,Hummus Dip,0.02518301321483935
+2072,Tomato Puree,Jam,0.03429221649910015
+2073,Tomato Puree,Ketchup,0.030780183412523088
+2074,Tomato Puree,Lime Pickle,0.015180307197716377
+2075,Tomato Puree,Mango Pickle,0.02633070921272381
+2076,Tomato Puree,Mayonnaise,0.06472398610640068
+2077,Tomato Puree,Mixed Pickle,0.02158048527657676
+2078,Tomato Puree,Murabba,0.0022400354203174493
+2079,Tomato Puree,Pasta Sauce,0.010941529854133063
+2080,Tomato Puree,Peanut Butter,0.018307379526331487
+2081,Tomato Puree,Pickle,0.01153698007803136
+2082,Tomato Puree,Pizza & Pasta Sauce,0.06839014892282859
+2083,Tomato Puree,Preserve,0.0007853446196473366
+2084,Tomato Puree,Puliogare Paste,0.002189034195972126
+2085,Tomato Puree,Ready to Cook,0.0057586404014740855
+2086,Tomato Puree,Relish,0.00438044300208356
+2087,Tomato Puree,Salad Dressing,0.014671896782644746
+2088,Tomato Puree,Salsa Dip,0.020326021353435957
+2089,Tomato Puree,Sandwich Spread,0.03793499677411494
+2090,Tomato Puree,Sauce,0.08708294188515209
+2091,Tomato Puree,Schezwan Chutney,0.03325456795468836
+2092,Tomato Puree,Soy Sauce,0.03911794188408456
+2093,Tomato Puree,Spread,0.012664451867016887
+2094,Tomato Puree,Tamarind Paste,0.03705643826631138
+2095,Tomato Puree,Tomato Ketchup,0.0808800784145788
+2096,Tomato Puree,Tomato Paste,0.01834343483244769
+2097,Tomato Puree,Vinegar,0.05852200875581773
+2098,Vinegar,Broth Powder,0.004279056363301439
+2099,Vinegar,Cheese Sauce,0.0007624172785794699
+2100,Vinegar,Cheese Spread,0.05652138866058344
+2101,Vinegar,Chilli Pickle,0.02571974069804042
+2102,Vinegar,Chilli Sauce,0.07224130600486822
+2103,Vinegar,Chocolate Spread,0.03796251514946522
+2104,Vinegar,Chutney,0.03767182732105824
+2105,Vinegar,Chyawanprash,0.013926865271051529
+2106,Vinegar,Coconut Milk,0.03786472105801912
+2107,Vinegar,Combo,0.007748295220531586
+2108,Vinegar,Creamy Peanut Butter,0.022216329058004067
+2109,Vinegar,Crunchy Peanut Butter,0.02829749826629556
+2110,Vinegar,Curry Paste,0.007242113943529128
+2111,Vinegar,Dip,0.025483334402053272
+2112,Vinegar,Dressing,0.03209267692212472
+2113,Vinegar,Flavoured Mayonnaise,0.03872660967209345
+2114,Vinegar,Garlic Paste,0.028034731141268067
+2115,Vinegar,Ginger Garlic Paste,0.0664478602970057
+2116,Vinegar,Ginger Paste,0.021025902889393558
+2117,Vinegar,Gravy,0.0036491915279276005
+2118,Vinegar,Gravy Masala,0.010825251475415592
+2119,Vinegar,Honey,0.064153996290228
+2120,Vinegar,Hummus Dip,0.01890696877814286
+2121,Vinegar,Jam,0.04929935731027357
+2122,Vinegar,Ketchup,0.04314797712145694
+2123,Vinegar,Lime Pickle,0.015745705575386928
+2124,Vinegar,Mango Pickle,0.03411860178110145
+2125,Vinegar,Mayonnaise,0.08769614359108258
+2126,Vinegar,Mixed Pickle,0.031092937953316295
+2127,Vinegar,Murabba,0.004093727035555761
+2128,Vinegar,Pasta Sauce,0.009932628827203133
+2129,Vinegar,Peanut Butter,0.0238446113707931
+2130,Vinegar,Pickle,0.013177594990722317
+2131,Vinegar,Pizza & Pasta Sauce,0.06915689151261749
+2132,Vinegar,Preserve,0.001913652181579011
+2133,Vinegar,Puliogare Paste,0.003667144139544794
+2134,Vinegar,Ready to Cook,0.001650835373491797
+2135,Vinegar,Relish,0.006099338228635759
+2136,Vinegar,Salad Dressing,0.019152356755873078
+2137,Vinegar,Salsa Dip,0.015818571393865527
+2138,Vinegar,Sandwich Spread,0.040302248157328927
+2139,Vinegar,Sauce,0.17003596560503426
+2140,Vinegar,Schezwan Chutney,0.04911001849564703
+2141,Vinegar,Soy Sauce,0.21307672487335524
+2142,Vinegar,Spread,0.012946809018163249
+2143,Vinegar,Tamarind Paste,0.029203699837636737
+2144,Vinegar,Tomato Ketchup,0.11371949342436559
+2145,Vinegar,Tomato Paste,0.0035430958191017973
+2146,Vinegar,Tomato Puree,0.05852200875581773
+2147,Wasabi Paste,Mango Pickle,0.006268391408072225

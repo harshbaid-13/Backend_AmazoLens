@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import analytics  # import router
+from app.routes import product_recomendation 
 from app.routes import top_brands
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -19,4 +20,6 @@ def root():
 
 
 app.include_router(analytics.router)  # attach routes
+app.include_router(product_recomendation.router)
 app.include_router(top_brands.router)  # attach routes
+

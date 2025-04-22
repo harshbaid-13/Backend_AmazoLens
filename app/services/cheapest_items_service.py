@@ -1,8 +1,8 @@
-from app.dependencies.clickhouse import get_clickhouse_client
+from app.dependencies.clickhouse import get_clickhouse_client_async
 import json
 
 async def cheapest_items():
-    client = await get_clickhouse_client()
+    client = await get_clickhouse_client_async()
     result = await client.query("""
         SELECT 
             sales.product_id,

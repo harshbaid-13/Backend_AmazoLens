@@ -4,7 +4,6 @@ from app.services.sentiment_service import (
     get_overall_sentiment,
     get_sentiment_trend,
     get_sentiment_by_category,
-    get_recent_reviews
 )
 
 router = APIRouter(prefix="/sentiment", tags=["sentiment"])
@@ -25,6 +24,6 @@ def route_trend():
 def route_category_sentiment():
     return get_sentiment_by_category()
 
-@router.get("/reviews")
-def route_recent_reviews(limit: int = 5):
-    return get_recent_reviews(limit)
+# @router.get("/reviews")
+# def route_recent_reviews(limit: int = 5):
+#     return get_recent_reviews(limit)

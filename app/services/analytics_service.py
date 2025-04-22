@@ -22,4 +22,35 @@ where s.date>='{str(from_date)}' and s.date<='{str(to_date)}'
     sales.columns=result.column_names
 
     map_str=make_folium_map(sales)
-    return map_str  
+    return map_str 
+
+def get_top_cities(from_date="", to_date=""):
+    client = get_clickhouse_client()
+    q_string=f"""SELECT 
+            ul.state_ut, 
+            ROUND(SUM(
+                CASE 
+                    WHEN CAST(s.total_weighted_landing_price AS String) ILIKE '%nan%' THEN 0
+                    ELSE s.total_weighted_landing_price 
+                END
+            ),2) AS total_price
+        FROM 
+            (SELECT 
+                customer_id, 
+                total_weighted_landing_price, 
+                date 
+            FROM 
+                sales 
+            WHERE 
+                date BETWEEN '{str(from_date)}' AND '{str(to_date)}') s 
+        INNER JOIN 
+            users_location ul ON s.customer_id = ul.customer_id 
+        GROUP BY 
+            ul.state_ut 
+        ORDER BY 
+            total_price DESC 
+        LIMIT 10
+    """
+    result = client.query(q_string)
+    return [{"state_ut": row[0], "total_price": row[1]} for row in result.result_rows]
+

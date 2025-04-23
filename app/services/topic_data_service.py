@@ -16,12 +16,12 @@ def get_topic_data():
     df = pd.read_csv("reviews_2025-04-21.csv", encoding="latin1")
 
     # Clean up: drop NAs and ensure string type
-    df = df.dropna(subset=["final_l0_category", "name_of_topic", "review_title"])
+    df = df.dropna(subset=["split_2_category", "name_of_topic", "review_title"])
     df["review_title"] = df["review_title"].astype(str)
     df["review_title"] = df["review_title"].str.replace(r"[^\w\s]", "", regex=True)
 
     # All categories to process (including "All")
-    categories = ["All"] + sorted(df["final_l0_category"].unique())
+    categories = ["All"] + sorted(df["split_2_category"].unique())
 
     topicData = {}
 
@@ -29,7 +29,7 @@ def get_topic_data():
         if category == "All":
             cat_df = df
         else:
-            cat_df = df[df["final_l0_category"] == category]
+            cat_df = df[df["split_2_category"] == category]
 
         topic_list = []
         for topic, group in cat_df.groupby("name_of_topic"):

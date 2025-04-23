@@ -13,7 +13,6 @@ def get_topic_data():
     """)
 
     df = pd.DataFrame(result.result_rows, columns=result.column_names)
-    df = pd.read_csv("reviews_2025-04-21.csv", encoding="latin1")
 
     # Clean up: drop NAs and ensure string type
     df = df.dropna(subset=["split_2_category", "name_of_topic", "review_title"])

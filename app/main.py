@@ -7,10 +7,12 @@ from app.routes import sentiment
 from app.routes import market_basket 
 from app.routes import top_brands
 from app.routes import quantity_items
+from app.routes import dashboard
 from app.routes import costliest_items
 from app.routes import cheapest_items
 from app.routes import topic
 from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI(title="AmazoLens")  # create app instance
 # Add CORS middleware
@@ -32,6 +34,7 @@ app.include_router(analytics.router)  # attach routes
 app.include_router(product_recomendation.router)
 
 app.include_router(market_basket.router)
+app.include_router(dashboard.router)
 app.include_router(quantity_items.router)  # attach routes
 app.include_router(costliest_items.router)  # attach routes
 app.include_router(cheapest_items.router)  # attach routes

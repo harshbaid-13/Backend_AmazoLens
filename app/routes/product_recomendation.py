@@ -4,7 +4,6 @@ from app.services.prod_recom_service import get_category
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
-import os
 from urllib.parse import unquote
 
 

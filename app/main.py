@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.routes import analytics  # import router
 from app.routes import product_recomendation 
+from app.routes import sentiment
 from app.routes import market_basket 
 from app.routes import top_brands
 from app.routes import quantity_items
@@ -17,8 +18,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Allow the frontend origin
     allow_credentials=True,
-    allow_methods=["*"],  # Allow all HTTP methods
-    allow_headers=["*"],  # Allow all headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
@@ -35,4 +36,6 @@ app.include_router(quantity_items.router)  # attach routes
 app.include_router(costliest_items.router)  # attach routes
 app.include_router(cheapest_items.router)  # attach routes
 app.include_router(top_brands.router)  # attach routes
+app.include_router(sentiment.router)  # attach routes
 app.include_router(topic.router)
+

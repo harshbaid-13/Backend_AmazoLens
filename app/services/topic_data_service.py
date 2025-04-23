@@ -44,24 +44,46 @@ def get_topic_data():
             topic_list.append({"topic": topic, "words": words_json})
         topicData[category] = topic_list
 
+    # Ensure date_of_review is datetime
     df["date_of_review"] = pd.to_datetime(df["date_of_review"], errors="coerce")
-    df = df.dropna(subset=["date_of_review"])
 
-    # Extract month as abbreviated name
-    df["month"] = df["date_of_review"].dt.month
-    df["month_str"] = df["month"].apply(lambda x: calendar.month_abbr[int(x)])
+    # Filter for months March (3) to July (7)
+    df_filtered = df[df["date_of_review"].dt.month.between(3, 7)]
+
+    # Create week start (Monday) column
+    df_filtered["week_start"] = (
+        df_filtered["date_of_review"].dt.to_period("W").apply(lambda r: r.start_time)
+    )
+
+    # Group by topic and week, count reviews
+    weekly_counts = (
+        df_filtered.groupby(["name_of_topic", "week_start"])
+        .size()
+        .reset_index(name="count")
+    )
+
+    # Get all weeks in the range (even if some weeks have 0 counts)
+    all_weeks = pd.date_range(
+        start=df_filtered["week_start"].min(),
+        end=df_filtered["week_start"].max(),
+        freq="W-MON",
+    )
+    all_weeks_str = all_weeks.strftime("%Y-%m-%d").tolist()
 
     topicTrends = []
-    for topic, group in df.groupby("name_of_topic"):
-        # Count reviews per month
-        monthly_counts = (
-            group.groupby("month_str")
-            .size()
-            .reindex(list(calendar.month_abbr)[1:], fill_value=0)
+    for topic, group in weekly_counts.groupby("name_of_topic"):
+        week_count_dict = dict(
+            zip(group["week_start"].dt.strftime("%Y-%m-%d"), group["count"])
         )
+        # Fill missing weeks with 0
         data = [
-            {"month": month, "value": int(monthly_counts[month])}
-            for month in list(calendar.month_abbr)[1:]
+            {
+                "month": pd.to_datetime(week).strftime(
+                    "%b %-d"
+                ),  # 'Mar 3', 'Apr 7', etc.
+                "value": int(week_count_dict.get(week, 0)),
+            }
+            for week in all_weeks_str
         ]
         topicTrends.append({"topic": topic, "data": data})
 

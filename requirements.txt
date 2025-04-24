@@ -8,6 +8,7 @@ fastapi==0.115.12
 h11==0.14.0
 idna==3.10
 lz4
+prophet==1.1.6
 pydantic
 pydantic-settings
 pydantic_core

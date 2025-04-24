@@ -11,6 +11,7 @@ from app.routes import dashboard
 from app.routes import costliest_items
 from app.routes import cheapest_items
 from app.routes import topic
+from app.routes import forecasting
 from fastapi.middleware.cors import CORSMiddleware
 
 
@@ -40,5 +41,6 @@ app.include_router(costliest_items.router)  # attach routes
 app.include_router(cheapest_items.router)  # attach routes
 app.include_router(top_brands.router)  # attach routes
 app.include_router(sentiment.router)  # attach routes
+app.include_router(forecasting.router)  # attach routes
 app.include_router(topic.router)
 

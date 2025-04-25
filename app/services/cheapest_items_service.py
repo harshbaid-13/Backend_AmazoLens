@@ -5,23 +5,24 @@ async def cheapest_items():
     client = await get_clickhouse_client_async()
     result = await client.query("""
         SELECT 
-            sales.product_id,
-            MIN(sales.unit_selling_price) AS lowest_unit_selling_price,
-            products.product_name
+            s.product_id,
+            MIN(s.unit_selling_price) AS lowest_unit_selling_price,
+            p.product_name,
+            COUNT(*) AS sales_count
         FROM 
-            sales
+            sales s
         INNER JOIN 
-            products
+            products p
         ON 
-            sales.product_id = products.product_id
+            s.product_id = p.product_id
         WHERE
-            sales.unit_selling_price >= 8
+            s.unit_selling_price >= 8
         GROUP BY 
-            sales.product_id, 
-            products.product_name
+            s.product_id, 
+            p.product_name
         ORDER BY 
             lowest_unit_selling_price ASC
-        LIMIT 200
+        LIMIT 500
 
 
 

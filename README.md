@@ -35,6 +35,10 @@ pip install -r requirements.txt
 ```
 
 4. **Set Up Environment Variables: Create a .env file in the root of the project and add your environment variables**:
+   .
+
+Note: The `.env` file is not included in version control for security reasons.
+Email [bharsh24@iitk.ac.in] us for the `.env` file.
 
 ```bash
 CLICKHOUSE_URL=<your-clickhouse-url>

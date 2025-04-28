@@ -127,11 +127,11 @@ def make_folium_map(sales):
     latitude = 28
     longitude = 77
     ind_map = folium.Map(location=[latitude, longitude], zoom_start=5, 
-    tiles = 'OpenStreetMap')
-    # folium.TileLayer(
-    # tiles = f"https://api.mapbox.com/styles/v1/planemad/ckf4xcet7231819mm2e8njlca/tiles/512/{{z}}/{{x}}/{{y}}@2x?access_token=pk.eyJ1IjoiYXJ5YW5hMjQiLCJhIjoiY205bWp6aWF4MGRrcTJtcXUyanVoN2s4ZCJ9.coUrqISCH0zp4Lu2q_SpCg",
-    # attr="Mapbox",name = 'Choose any metric',overlay=True,show=True, control=False
-    #           ).add_to(ind_map)
+    tiles = None)
+    folium.TileLayer(
+    tiles = f"https://api.mapbox.com/styles/v1/planemad/ckf4xcet7231819mm2e8njlca/tiles/512/{{z}}/{{x}}/{{y}}@2x?access_token=pk.eyJ1IjoiYXJ5YW5hMjQiLCJhIjoiY205bWp6aWF4MGRrcTJtcXUyanVoN2s4ZCJ9.coUrqISCH0zp4Lu2q_SpCg",
+    attr="Mapbox",name = 'Choose any metric',overlay=True,show=True, control=False
+              ).add_to(ind_map)
     
     incidents_gmv = plugins.MarkerCluster(name='GMV',icon_create_function=icon_create_function_gmv2,
                                                            overlay=False).add_to(ind_map)

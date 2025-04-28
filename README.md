@@ -34,10 +34,10 @@ source .venv/bin/activate  # On Windows use .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Set Up Environment Variables: Create a .env file in the root of the project and add your environment variables**:
+4. We are sharing .env file as well that has a read_only user credentials to read from the databse. 
    .
 
-Note: The `.env` file is not included in version control for security reasons.
+Note: In case its not included in version control for security reasons or is not working, please reach out to us on
 Email [bharsh24@iitk.ac.in] us for the `.env` file.
 
 ```bash
